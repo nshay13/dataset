@@ -1,0 +1,6604 @@
+acq_year,groupname,count
+2001,ande ru marangatu,9
+2002,ande ru marangatu,42
+2003,ande ru marangatu,8
+2004,ande ru marangatu,3
+2005,ande ru marangatu,9
+2006,ande ru marangatu,12
+2007,ande ru marangatu,34
+2008,ande ru marangatu,13
+2009,ande ru marangatu,3
+2010,ande ru marangatu,20
+2011,ande ru marangatu,8
+2012,ande ru marangatu,1
+2013,ande ru marangatu,9
+2014,ande ru marangatu,5
+2015,ande ru marangatu,5
+2016,ande ru marangatu,28
+2017,ande ru marangatu,62
+2018,ande ru marangatu,29
+2019,ande ru marangatu,54
+2002,gua pretainari,1
+2003,gua pretainari,3
+2004,gua pretainari,2
+2005,gua pretainari,3
+2006,gua pretainari,2
+2007,gua pretainari,8
+2008,gua pretainari,1
+2009,gua pretainari,1
+2010,gua pretainari,5
+2011,gua pretainari,3
+2012,gua pretainari,2
+2013,gua pretainari,1
+2014,gua pretainari,3
+2015,gua pretainari,2
+2016,gua pretainari,5
+2017,gua pretainari,1
+2018,gua pretainari,2
+2019,gua pretainari,2
+2000,guas belas,2
+2001,guas belas,2
+2002,guas belas,6
+2003,guas belas,6
+2004,guas belas,3
+2005,guas belas,9
+2006,guas belas,3
+2007,guas belas,1
+2008,guas belas,3
+2009,guas belas,7
+2010,guas belas,3
+2011,guas belas,3
+2013,guas belas,4
+2015,guas belas,1
+2016,guas belas,1
+2018,guas belas,5
+2019,guas belas,1
+2002,guas claras,1
+2003,guas claras,5
+2004,guas claras,2
+2005,guas claras,4
+2006,guas claras,7
+2007,guas claras,8
+2011,guas claras,1
+2013,guas claras,1
+2016,guas claras,1
+2000,vare i,1
+2002,vare i,19
+2003,vare i,15
+2004,vare i,27
+2005,vare i,33
+2006,vare i,21
+2007,vare i,29
+2008,vare i,15
+2009,vare i,23
+2010,vare i,43
+2011,vare i,5
+2012,vare i,23
+2013,vare i,22
+2014,vare i,8
+2015,vare i,30
+2016,vare i,47
+2017,vare i,48
+2018,vare i,17
+2019,vare i,15
+2004,vare ii,1
+2005,vare ii,1
+2006,vare ii,2
+2007,vare ii,2
+2010,vare ii,6
+2015,vare ii,2
+2016,vare ii,1
+2017,vare ii,3
+2018,vare ii,2
+2005,acimp,1
+2006,aconp,1
+2002,aldeia kondß,1
+2003,aldeia kondß,3
+2004,aldeia kondß,1
+2006,aldeia kondß,2
+2008,aldeia kondß,1
+2009,aldeia kondß,1
+2011,aldeia kondß,1
+2012,aldeia kondß,1
+2013,aldeia kondß,1
+2017,aldeia kondß,7
+2019,aldeia kondß,3
+2005,aldeia limpo verde,1
+2009,aldeia limpo verde,1
+2010,aldeia limpo verde,1
+2013,aldeia limpo verde,2
+2015,aldeia limpo verde,1
+2017,aldeia limpo verde,2
+2019,aldeia limpo verde,1
+2002,aldeia velha,4
+2003,aldeia velha,2
+2004,aldeia velha,1
+2005,aldeia velha,2
+2006,aldeia velha,2
+2010,aldeia velha,1
+2012,aldeia velha,1
+2013,aldeia velha,1
+2014,aldeia velha,1
+2015,aldeia velha,5
+2016,aldeia velha,13
+2019,aldeia velha,6
+2000,alto rio guamß,16
+2001,alto rio guamß,16
+2002,alto rio guamß,220
+2003,alto rio guamß,154
+2004,alto rio guamß,169
+2005,alto rio guamß,222
+2006,alto rio guamß,202
+2007,alto rio guamß,194
+2008,alto rio guamß,197
+2009,alto rio guamß,340
+2010,alto rio guamß,152
+2011,alto rio guamß,162
+2012,alto rio guamß,208
+2013,alto rio guamß,184
+2014,alto rio guamß,159
+2015,alto rio guamß,873
+2016,alto rio guamß,134
+2017,alto rio guamß,240
+2018,alto rio guamß,93
+2019,alto rio guamß,6
+2000,alto rio negro,3
+2001,alto rio negro,3
+2002,alto rio negro,23
+2003,alto rio negro,109
+2004,alto rio negro,156
+2005,alto rio negro,42
+2006,alto rio negro,30
+2007,alto rio negro,117
+2008,alto rio negro,64
+2009,alto rio negro,22
+2010,alto rio negro,85
+2011,alto rio negro,49
+2012,alto rio negro,29
+2013,alto rio negro,46
+2014,alto rio negro,63
+2015,alto rio negro,64
+2016,alto rio negro,77
+2017,alto rio negro,52
+2018,alto rio negro,68
+2019,alto rio negro,57
+2002,alto rio purus,16
+2003,alto rio purus,20
+2004,alto rio purus,13
+2005,alto rio purus,47
+2006,alto rio purus,22
+2007,alto rio purus,28
+2008,alto rio purus,25
+2009,alto rio purus,8
+2010,alto rio purus,26
+2011,alto rio purus,15
+2012,alto rio purus,15
+2013,alto rio purus,10
+2014,alto rio purus,16
+2015,alto rio purus,27
+2016,alto rio purus,36
+2017,alto rio purus,13
+2018,alto rio purus,4
+2019,alto rio purus,16
+2003,alto sepatini,1
+2007,alto sepatini,1
+2010,alto sepatini,1
+2012,alto sepatini,3
+2014,alto sepatini,1
+2006,alto tarauacß,2
+2000,alto turiatu,21
+2001,alto turiatu,13
+2002,alto turiatu,81
+2003,alto turiatu,65
+2004,alto turiatu,92
+2005,alto turiatu,84
+2006,alto turiatu,60
+2007,alto turiatu,110
+2008,alto turiatu,71
+2009,alto turiatu,83
+2010,alto turiatu,63
+2011,alto turiatu,99
+2012,alto turiatu,139
+2013,alto turiatu,48
+2014,alto turiatu,64
+2015,alto turiatu,372
+2016,alto turiatu,39
+2017,alto turiatu,160
+2018,alto turiatu,21
+2019,alto turiatu,19
+2002,amambai,1
+2003,amambai,2
+2004,amambai,1
+2005,amambai,2
+2006,amambai,3
+2007,amambai,4
+2008,amambai,3
+2009,amambai,4
+2010,amambai,2
+2011,amambai,1
+2012,amambai,1
+2013,amambai,6
+2014,amambai,1
+2017,amambai,1
+2018,amambai,5
+2019,amambai,1
+2003,amaraltekoß kuriy,7
+2004,amaraltekoß kuriy,2
+2005,amaraltekoß kuriy,5
+2006,amaraltekoß kuriy,9
+2007,amaraltekoß kuriy,4
+2008,amaraltekoß kuriy,7
+2010,amaraltekoß kuriy,1
+2011,amaraltekoß kuriy,1
+2014,amaraltekoß kuriy,2
+2016,amaraltekoß kuriy,2
+2017,amaraltekoß kuriy,2
+2000,anambt,9
+2001,anambt,4
+2002,anambt,1
+2003,anambt,1
+2004,anambt,3
+2005,anambt,1
+2006,anambt,3
+2007,anambt,5
+2008,anambt,7
+2009,anambt,2
+2010,anambt,1
+2011,anambt,2
+2012,anambt,18
+2014,anambt,4
+2015,anambt,3
+2016,anambt,2
+2017,anambt,4
+2018,anambt,2
+2019,anambt,4
+2001,ananßs,3
+2003,ananßs,1
+2005,ananßs,1
+2013,ananßs,1
+2017,ananßs,1
+2018,ananßs,2
+2019,ananßs,3
+2000,anaro,2
+2001,anaro,5
+2002,anaro,1
+2003,anaro,14
+2004,anaro,10
+2005,anaro,27
+2006,anaro,22
+2007,anaro,26
+2008,anaro,11
+2009,anaro,27
+2010,anaro,17
+2011,anaro,6
+2012,anaro,21
+2013,anaro,11
+2014,anaro,15
+2015,anaro,40
+2016,anaro,3
+2017,anaro,14
+2018,anaro,25
+2019,anaro,11
+2001,andirßmarau,7
+2002,andirßmarau,187
+2003,andirßmarau,114
+2004,andirßmarau,128
+2005,andirßmarau,189
+2006,andirßmarau,213
+2007,andirßmarau,159
+2008,andirßmarau,90
+2009,andirßmarau,232
+2010,andirßmarau,215
+2011,andirßmarau,158
+2012,andirßmarau,193
+2013,andirßmarau,150
+2014,andirßmarau,248
+2015,andirßmarau,333
+2016,andirßmarau,135
+2017,andirßmarau,223
+2018,andirßmarau,155
+2019,andirßmarau,129
+2002,aningal,1
+2003,aningal,4
+2004,aningal,2
+2005,aningal,2
+2007,aningal,2
+2014,aningal,1
+2015,aningal,4
+2016,aningal,4
+2017,aningal,3
+2018,aningal,1
+2019,aningal,5
+2002,anta,1
+2007,anta,2
+2009,anta,4
+2012,anta,2
+2013,anta,1
+2014,anta,2
+2016,anta,1
+2018,anta,2
+2019,anta,1
+2002,apiakakayabi,18
+2003,apiakakayabi,47
+2004,apiakakayabi,43
+2005,apiakakayabi,37
+2006,apiakakayabi,12
+2007,apiakakayabi,46
+2008,apiakakayabi,24
+2009,apiakakayabi,7
+2010,apiakakayabi,108
+2011,apiakakayabi,12
+2012,apiakakayabi,36
+2013,apiakakayabi,205
+2014,apiakakayabi,9
+2015,apiakakayabi,22
+2016,apiakakayabi,28
+2017,apiakakayabi,122
+2018,apiakakayabi,10
+2019,apiakakayabi,37
+2002,apiakß do pontal e isolados,13
+2003,apiakß do pontal e isolados,30
+2004,apiakß do pontal e isolados,75
+2005,apiakß do pontal e isolados,59
+2006,apiakß do pontal e isolados,68
+2007,apiakß do pontal e isolados,51
+2008,apiakß do pontal e isolados,6
+2009,apiakß do pontal e isolados,8
+2010,apiakß do pontal e isolados,33
+2011,apiakß do pontal e isolados,9
+2012,apiakß do pontal e isolados,42
+2014,apiakß do pontal e isolados,29
+2015,apiakß do pontal e isolados,21
+2016,apiakß do pontal e isolados,20
+2017,apiakß do pontal e isolados,12
+2018,apiakß do pontal e isolados,8
+2019,apiakß do pontal e isolados,3
+2000,apinayt,1
+2001,apinayt,107
+2002,apinayt,155
+2003,apinayt,200
+2004,apinayt,221
+2005,apinayt,288
+2006,apinayt,172
+2007,apinayt,319
+2008,apinayt,164
+2009,apinayt,169
+2010,apinayt,354
+2011,apinayt,233
+2012,apinayt,231
+2013,apinayt,157
+2014,apinayt,257
+2015,apinayt,410
+2016,apinayt,129
+2017,apinayt,389
+2018,apinayt,59
+2019,apinayt,281
+2001,apipica,4
+2002,apipica,12
+2003,apipica,2
+2004,apipica,3
+2005,apipica,2
+2006,apipica,2
+2007,apipica,3
+2010,apipica,1
+2011,apipica,1
+2012,apipica,1
+2014,apipica,1
+2015,apipica,3
+2016,apipica,2
+2000,apucarana,3
+2002,apucarana,5
+2003,apucarana,9
+2004,apucarana,4
+2005,apucarana,2
+2006,apucarana,13
+2007,apucarana,5
+2008,apucarana,10
+2009,apucarana,1
+2010,apucarana,10
+2011,apucarana,3
+2012,apucarana,4
+2013,apucarana,1
+2014,apucarana,4
+2015,apucarana,1
+2016,apucarana,4
+2017,apucarana,7
+2018,apucarana,3
+2019,apucarana,5
+2003,apurinp do igarapt mucuim,1
+2010,apurinp do igarapt mucuim,2
+2006,apurinp do igarapt spo jopo,1
+2011,apurinp do igarapt spo jopo,2
+2018,apurinp do igarapt spo jopo,1
+2019,apurinp do igarapt spo jopo,1
+2005,apurinp igarapt tauamirim,1
+2010,apurinp igarapt tauamirim,2
+2017,apurinp igarapt tauamirim,2
+2018,apurinp igarapt tauamirim,1
+2019,apurinp igarapt tauamirim,2
+2002,apurinp km br,10
+2003,apurinp km br,36
+2004,apurinp km br,11
+2005,apurinp km br,38
+2006,apurinp km br,19
+2007,apurinp km br,20
+2008,apurinp km br,13
+2010,apurinp km br,25
+2012,apurinp km br,24
+2013,apurinp km br,8
+2014,apurinp km br,7
+2015,apurinp km br,7
+2016,apurinp km br,27
+2017,apurinp km br,14
+2018,apurinp km br,10
+2019,apurinp km br,13
+2001,apyterewa,6
+2002,apyterewa,287
+2003,apyterewa,320
+2004,apyterewa,617
+2005,apyterewa,1140
+2006,apyterewa,686
+2007,apyterewa,574
+2008,apyterewa,688
+2009,apyterewa,247
+2010,apyterewa,433
+2011,apyterewa,50
+2012,apyterewa,174
+2013,apyterewa,28
+2014,apyterewa,192
+2015,apyterewa,230
+2016,apyterewa,23
+2017,apyterewa,650
+2018,apyterewa,202
+2019,apyterewa,421
+2002,arara,7
+2003,arara,6
+2004,arara,12
+2005,arara,8
+2006,arara,15
+2007,arara,11
+2008,arara,9
+2009,arara,13
+2010,arara,3
+2011,arara,12
+2012,arara,1
+2014,arara,8
+2015,arara,10
+2016,arara,1
+2017,arara,11
+2018,arara,3
+2019,arara,1
+2001,arara da volta grande do xingu,5
+2002,arara da volta grande do xingu,2
+2003,arara da volta grande do xingu,1
+2004,arara da volta grande do xingu,8
+2005,arara da volta grande do xingu,4
+2006,arara da volta grande do xingu,13
+2007,arara da volta grande do xingu,6
+2008,arara da volta grande do xingu,13
+2009,arara da volta grande do xingu,9
+2010,arara da volta grande do xingu,9
+2011,arara da volta grande do xingu,2
+2012,arara da volta grande do xingu,4
+2013,arara da volta grande do xingu,5
+2015,arara da volta grande do xingu,3
+2016,arara da volta grande do xingu,1
+2017,arara da volta grande do xingu,5
+2018,arara da volta grande do xingu,2
+2002,arara do igarapt humaitß,2
+2003,arara do igarapt humaitß,1
+2004,arara do igarapt humaitß,1
+2005,arara do igarapt humaitß,1
+2006,arara do igarapt humaitß,3
+2008,arara do igarapt humaitß,1
+2009,arara do igarapt humaitß,1
+2010,arara do igarapt humaitß,7
+2011,arara do igarapt humaitß,1
+2012,arara do igarapt humaitß,5
+2013,arara do igarapt humaitß,3
+2014,arara do igarapt humaitß,5
+2015,arara do igarapt humaitß,2
+2016,arara do igarapt humaitß,7
+2017,arara do igarapt humaitß,4
+2018,arara do igarapt humaitß,11
+2019,arara do igarapt humaitß,5
+2002,arara do rio amonia,7
+2003,arara do rio amonia,16
+2004,arara do rio amonia,1
+2005,arara do rio amonia,16
+2006,arara do rio amonia,11
+2007,arara do rio amonia,15
+2008,arara do rio amonia,6
+2009,arara do rio amonia,16
+2010,arara do rio amonia,17
+2011,arara do rio amonia,3
+2012,arara do rio amonia,6
+2013,arara do rio amonia,9
+2014,arara do rio amonia,4
+2015,arara do rio amonia,8
+2016,arara do rio amonia,5
+2017,arara do rio amonia,2
+2018,arara do rio amonia,9
+2019,arara do rio amonia,6
+2001,arara do rio branco,4
+2002,arara do rio branco,17
+2003,arara do rio branco,15
+2004,arara do rio branco,25
+2005,arara do rio branco,27
+2006,arara do rio branco,4
+2007,arara do rio branco,18
+2008,arara do rio branco,12
+2009,arara do rio branco,22
+2010,arara do rio branco,13
+2011,arara do rio branco,1
+2012,arara do rio branco,9
+2013,arara do rio branco,1
+2014,arara do rio branco,15
+2015,arara do rio branco,7
+2016,arara do rio branco,6
+2017,arara do rio branco,6
+2018,arara do rio branco,3
+2019,arara do rio branco,18
+2000,arariboia,1
+2001,arariboia,20
+2002,arariboia,131
+2003,arariboia,164
+2004,arariboia,78
+2005,arariboia,548
+2006,arariboia,80
+2007,arariboia,1682
+2008,arariboia,117
+2009,arariboia,70
+2010,arariboia,897
+2011,arariboia,88
+2012,arariboia,1282
+2013,arariboia,129
+2014,arariboia,250
+2015,arariboia,2100
+2016,arariboia,839
+2017,arariboia,972
+2018,arariboia,38
+2019,arariboia,117
+2002,araribß,1
+2007,araribß,3
+2009,araribß,3
+2010,araribß,4
+2012,araribß,8
+2013,araribß,1
+2015,araribß,3
+2016,araribß,1
+2018,araribß,2
+2003,arary,2
+2006,arary,1
+2007,arary,1
+2010,arary,1
+2011,arary,2
+2012,arary,1
+2015,arary,6
+2018,arary,1
+2019,arary,3
+2000,aratß,1
+2001,aratß,17
+2002,aratß,13
+2003,aratß,8
+2004,aratß,20
+2005,aratß,17
+2006,aratß,12
+2007,aratß,10
+2008,aratß,15
+2009,aratß,23
+2010,aratß,12
+2011,aratß,10
+2012,aratß,14
+2013,aratß,6
+2014,aratß,31
+2015,aratß,18
+2016,aratß,19
+2017,aratß,16
+2018,aratß,26
+2019,aratß,30
+2000,arawett igarapt ipixuna,1
+2003,arawett igarapt ipixuna,3
+2004,arawett igarapt ipixuna,5
+2005,arawett igarapt ipixuna,5
+2006,arawett igarapt ipixuna,12
+2008,arawett igarapt ipixuna,6
+2009,arawett igarapt ipixuna,8
+2010,arawett igarapt ipixuna,7
+2011,arawett igarapt ipixuna,7
+2012,arawett igarapt ipixuna,4
+2014,arawett igarapt ipixuna,8
+2015,arawett igarapt ipixuna,10
+2016,arawett igarapt ipixuna,3
+2017,arawett igarapt ipixuna,3
+2018,arawett igarapt ipixuna,1
+2001,arees,72
+2002,arees,175
+2003,arees,450
+2004,arees,183
+2005,arees,317
+2006,arees,72
+2007,arees,948
+2008,arees,55
+2009,arees,127
+2010,arees,1302
+2011,arees,118
+2012,arees,863
+2013,arees,98
+2014,arees,968
+2015,arees,296
+2016,arees,856
+2017,arees,593
+2018,arees,539
+2019,arees,783
+2001,aripuanp,9
+2002,aripuanp,19
+2003,aripuanp,26
+2004,aripuanp,47
+2005,aripuanp,71
+2006,aripuanp,35
+2007,aripuanp,46
+2008,aripuanp,50
+2009,aripuanp,17
+2010,aripuanp,33
+2011,aripuanp,16
+2012,aripuanp,50
+2013,aripuanp,31
+2014,aripuanp,31
+2015,aripuanp,39
+2016,aripuanp,21
+2017,aripuanp,40
+2018,aripuanp,31
+2019,aripuanp,49
+2001,arroiokorß,2
+2002,arroiokorß,9
+2003,arroiokorß,4
+2004,arroiokorß,3
+2007,arroiokorß,8
+2008,arroiokorß,5
+2009,arroiokorß,8
+2010,arroiokorß,6
+2011,arroiokorß,5
+2012,arroiokorß,12
+2013,arroiokorß,3
+2014,arroiokorß,9
+2015,arroiokorß,9
+2016,arroiokorß,11
+2017,arroiokorß,19
+2018,arroiokorß,6
+2019,arroiokorß,12
+2000,atikum,3
+2001,atikum,3
+2002,atikum,6
+2003,atikum,4
+2004,atikum,4
+2005,atikum,1
+2006,atikum,5
+2007,atikum,18
+2008,atikum,16
+2009,atikum,9
+2010,atikum,14
+2011,atikum,8
+2012,atikum,2
+2013,atikum,1
+2014,atikum,2
+2015,atikum,2
+2016,atikum,3
+2017,atikum,3
+2018,atikum,1
+2001,avßcanoeiro,19
+2002,avßcanoeiro,94
+2003,avßcanoeiro,22
+2004,avßcanoeiro,89
+2005,avßcanoeiro,17
+2006,avßcanoeiro,65
+2007,avßcanoeiro,117
+2008,avßcanoeiro,40
+2009,avßcanoeiro,15
+2010,avßcanoeiro,190
+2011,avßcanoeiro,39
+2012,avßcanoeiro,76
+2013,avßcanoeiro,10
+2014,avßcanoeiro,78
+2015,avßcanoeiro,63
+2016,avßcanoeiro,13
+2017,avßcanoeiro,213
+2019,avßcanoeiro,28
+2000,awa,39
+2001,awa,106
+2002,awa,153
+2003,awa,170
+2004,awa,275
+2005,awa,234
+2006,awa,180
+2007,awa,343
+2008,awa,358
+2009,awa,193
+2010,awa,334
+2011,awa,144
+2012,awa,356
+2013,awa,98
+2014,awa,94
+2015,awa,413
+2016,awa,39
+2017,awa,116
+2018,awa,32
+2019,awa,5
+2002,ba,4
+2003,ba,8
+2004,ba,8
+2005,ba,10
+2006,ba,9
+2007,ba,9
+2008,ba,14
+2009,ba,9
+2010,ba,13
+2011,ba,8
+2012,ba,26
+2013,ba,5
+2014,ba,23
+2015,ba,16
+2016,ba,3
+2017,ba,33
+2018,ba,11
+2019,ba,10
+2001,bacurizinho,42
+2002,bacurizinho,136
+2003,bacurizinho,200
+2004,bacurizinho,101
+2005,bacurizinho,237
+2006,bacurizinho,56
+2007,bacurizinho,781
+2008,bacurizinho,103
+2009,bacurizinho,35
+2010,bacurizinho,885
+2011,bacurizinho,103
+2012,bacurizinho,1077
+2013,bacurizinho,175
+2014,bacurizinho,972
+2015,bacurizinho,551
+2016,bacurizinho,407
+2017,bacurizinho,940
+2018,bacurizinho,120
+2019,bacurizinho,155
+2001,badjonkore,2
+2002,badjonkore,293
+2003,badjonkore,6
+2004,badjonkore,233
+2005,badjonkore,18
+2006,badjonkore,101
+2007,badjonkore,184
+2008,badjonkore,146
+2009,badjonkore,7
+2010,badjonkore,535
+2011,badjonkore,7
+2012,badjonkore,238
+2013,badjonkore,52
+2014,badjonkore,53
+2015,badjonkore,238
+2016,badjonkore,7
+2017,badjonkore,555
+2018,badjonkore,1
+2019,badjonkore,351
+2001,baia do guat,4
+2002,baia do guat,1
+2004,baia do guat,19
+2005,baia do guat,102
+2007,baia do guat,40
+2008,baia do guat,42
+2009,baia do guat,2
+2010,baia do guat,185
+2012,baia do guat,6
+2013,baia do guat,60
+2014,baia do guat,12
+2015,baia do guat,65
+2016,baia do guat,49
+2017,baia do guat,84
+2018,baia do guat,9
+2019,baia do guat,4
+2000,bakairi,4
+2001,bakairi,57
+2002,bakairi,161
+2003,bakairi,91
+2004,bakairi,295
+2005,bakairi,104
+2006,bakairi,99
+2007,bakairi,228
+2008,bakairi,90
+2009,bakairi,39
+2010,bakairi,183
+2011,bakairi,94
+2012,bakairi,152
+2013,bakairi,45
+2014,bakairi,51
+2015,bakairi,73
+2016,bakairi,65
+2017,bakairi,112
+2018,bakairi,85
+2019,bakairi,81
+2002,balaio,3
+2006,balaio,1
+2007,balaio,3
+2008,balaio,4
+2010,balaio,2
+2011,balaio,2
+2013,balaio,1
+2014,balaio,1
+2015,balaio,3
+2018,balaio,2
+2019,balaio,1
+2003,banawß,2
+2004,banawß,1
+2005,banawß,3
+2006,banawß,2
+2007,banawß,2
+2010,banawß,5
+2018,banawß,1
+2001,barata livramento,8
+2002,barata livramento,2
+2003,barata livramento,7
+2004,barata livramento,6
+2005,barata livramento,8
+2006,barata livramento,5
+2007,barata livramento,5
+2008,barata livramento,11
+2009,barata livramento,10
+2010,barata livramento,2
+2011,barata livramento,10
+2012,barata livramento,5
+2013,barata livramento,2
+2014,barata livramento,5
+2015,barata livramento,4
+2016,barata livramento,9
+2017,barata livramento,5
+2018,barata livramento,8
+2019,barata livramento,6
+2001,barpo de antonina,2
+2002,barpo de antonina,18
+2003,barpo de antonina,6
+2004,barpo de antonina,17
+2005,barpo de antonina,2
+2006,barpo de antonina,18
+2007,barpo de antonina,7
+2008,barpo de antonina,2
+2009,barpo de antonina,3
+2010,barpo de antonina,2
+2011,barpo de antonina,3
+2013,barpo de antonina,2
+2014,barpo de antonina,1
+2015,barpo de antonina,5
+2016,barpo de antonina,3
+2017,barpo de antonina,2
+2018,barpo de antonina,3
+2019,barpo de antonina,4
+2000,barra velha,2
+2001,barra velha,18
+2002,barra velha,48
+2003,barra velha,66
+2004,barra velha,20
+2005,barra velha,31
+2006,barra velha,5
+2007,barra velha,10
+2008,barra velha,42
+2009,barra velha,20
+2010,barra velha,31
+2011,barra velha,4
+2012,barra velha,16
+2013,barra velha,39
+2014,barra velha,13
+2015,barra velha,50
+2016,barra velha,33
+2017,barra velha,5
+2018,barra velha,13
+2019,barra velha,55
+2002,barreira da misspo,5
+2003,barreira da misspo,9
+2004,barreira da misspo,6
+2006,barreira da misspo,9
+2007,barreira da misspo,2
+2008,barreira da misspo,2
+2009,barreira da misspo,2
+2010,barreira da misspo,9
+2011,barreira da misspo,2
+2012,barreira da misspo,4
+2013,barreira da misspo,5
+2014,barreira da misspo,7
+2015,barreira da misspo,4
+2016,barreira da misspo,8
+2017,barreira da misspo,11
+2018,barreira da misspo,6
+2019,barreira da misspo,5
+2004,barreirinha,2
+2005,barreirinha,1
+2008,barreirinha,2
+2011,barreirinha,1
+2012,barreirinha,1
+2013,barreirinha,1
+2014,barreirinha,1
+2015,barreirinha,2
+2017,barreirinha,3
+2018,barreirinha,1
+2012,barro alto,1
+2017,barro alto,1
+2000,batelpo,6
+2001,batelpo,16
+2002,batelpo,64
+2003,batelpo,123
+2004,batelpo,228
+2005,batelpo,129
+2006,batelpo,118
+2007,batelpo,510
+2008,batelpo,60
+2009,batelpo,56
+2010,batelpo,78
+2011,batelpo,19
+2012,batelpo,25
+2013,batelpo,28
+2014,batelpo,135
+2015,batelpo,37
+2016,batelpo,26
+2017,batelpo,14
+2018,batelpo,16
+2019,batelpo,11
+2001,batovi,2
+2004,batovi,6
+2007,batovi,1
+2010,batovi,30
+2011,batovi,2
+2013,batovi,1
+2015,batovi,2
+2018,batovi,2
+2019,batovi,3
+2003,betania,1
+2004,betania,2
+2005,betania,11
+2006,betania,6
+2007,betania,3
+2008,betania,7
+2009,betania,1
+2010,betania,13
+2011,betania,2
+2012,betania,6
+2013,betania,1
+2014,betania,2
+2015,betania,9
+2016,betania,3
+2017,betania,12
+2018,betania,3
+2019,betania,4
+2001,boa vista pr,1
+2002,boa vista pr,13
+2003,boa vista pr,9
+2004,boa vista pr,5
+2005,boa vista pr,1
+2006,boa vista pr,3
+2009,boa vista pr,3
+2010,boa vista pr,1
+2011,boa vista pr,5
+2012,boa vista pr,3
+2014,boa vista pr,1
+2016,boa vista pr,5
+2017,boa vista pr,3
+2018,boa vista pr,2
+2019,boa vista pr,2
+2001,boca do acre,1
+2002,boca do acre,7
+2003,boca do acre,11
+2004,boca do acre,10
+2005,boca do acre,10
+2006,boca do acre,8
+2007,boca do acre,14
+2008,boca do acre,4
+2009,boca do acre,1
+2010,boca do acre,16
+2011,boca do acre,2
+2012,boca do acre,6
+2013,boca do acre,1
+2014,boca do acre,8
+2015,boca do acre,11
+2016,boca do acre,15
+2017,boca do acre,7
+2018,boca do acre,8
+2019,boca do acre,9
+2003,bom jesus,1
+2005,bom jesus,2
+2009,bom jesus,1
+2001,boqueirpo,5
+2002,boqueirpo,2
+2003,boqueirpo,11
+2004,boqueirpo,7
+2005,boqueirpo,3
+2006,boqueirpo,6
+2007,boqueirpo,10
+2008,boqueirpo,2
+2009,boqueirpo,8
+2010,boqueirpo,3
+2011,boqueirpo,4
+2012,boqueirpo,3
+2013,boqueirpo,8
+2014,boqueirpo,11
+2015,boqueirpo,11
+2016,boqueirpo,8
+2017,boqueirpo,9
+2018,boqueirpo,10
+2019,boqueirpo,13
+2002,bragantamarituba,4
+2003,bragantamarituba,5
+2004,bragantamarituba,2
+2005,bragantamarituba,1
+2006,bragantamarituba,1
+2007,bragantamarituba,1
+2008,bragantamarituba,5
+2009,bragantamarituba,1
+2010,bragantamarituba,1
+2014,bragantamarituba,1
+2015,bragantamarituba,10
+2016,bragantamarituba,3
+2006,brejo do burgo,2
+2001,buriti,2
+2002,buriti,15
+2003,buriti,4
+2004,buriti,6
+2005,buriti,11
+2006,buriti,9
+2007,buriti,12
+2009,buriti,3
+2010,buriti,27
+2011,buriti,1
+2012,buriti,2
+2013,buriti,6
+2014,buriti,19
+2015,buriti,12
+2016,buriti,35
+2017,buriti,32
+2018,buriti,3
+2019,buriti,4
+2002,crrego jopo pereira,9
+2003,crrego jopo pereira,3
+2004,crrego jopo pereira,7
+2006,crrego jopo pereira,4
+2008,crrego jopo pereira,7
+2009,crrego jopo pereira,3
+2010,crrego jopo pereira,6
+2011,crrego jopo pereira,6
+2012,crrego jopo pereira,6
+2013,crrego jopo pereira,1
+2014,crrego jopo pereira,5
+2016,crrego jopo pereira,2
+2017,crrego jopo pereira,8
+2001,caarap,2
+2002,caarap,10
+2003,caarap,5
+2004,caarap,34
+2005,caarap,9
+2006,caarap,9
+2007,caarap,21
+2008,caarap,6
+2009,caarap,2
+2010,caarap,16
+2011,caarap,10
+2012,caarap,7
+2013,caarap,17
+2014,caarap,4
+2015,caarap,1
+2016,caarap,9
+2017,caarap,11
+2018,caarap,4
+2019,caarap,10
+2002,cabeceira do rio acre,2
+2003,cabeceira do rio acre,3
+2004,cabeceira do rio acre,1
+2005,cabeceira do rio acre,2
+2006,cabeceira do rio acre,2
+2007,cabeceira do rio acre,5
+2008,cabeceira do rio acre,3
+2011,cabeceira do rio acre,1
+2012,cabeceira do rio acre,1
+2015,cabeceira do rio acre,4
+2016,cabeceira do rio acre,3
+2018,cabeceira do rio acre,5
+2019,cabeceira do rio acre,5
+2002,cacau do tarauaca,3
+2003,cacau do tarauaca,3
+2005,cacau do tarauaca,2
+2006,cacau do tarauaca,3
+2007,cacau do tarauaca,2
+2008,cacau do tarauaca,5
+2009,cacau do tarauaca,2
+2010,cacau do tarauaca,2
+2011,cacau do tarauaca,2
+2012,cacau do tarauaca,1
+2013,cacau do tarauaca,5
+2016,cacau do tarauaca,7
+2019,cacau do tarauaca,3
+2005,cachoeira dos inßcios,1
+2002,cachoeira seca,101
+2003,cachoeira seca,162
+2004,cachoeira seca,195
+2005,cachoeira seca,201
+2006,cachoeira seca,328
+2007,cachoeira seca,172
+2008,cachoeira seca,251
+2009,cachoeira seca,202
+2010,cachoeira seca,191
+2011,cachoeira seca,102
+2012,cachoeira seca,243
+2013,cachoeira seca,39
+2014,cachoeira seca,172
+2015,cachoeira seca,228
+2016,cachoeira seca,104
+2017,cachoeira seca,353
+2018,cachoeira seca,178
+2019,cachoeira seca,184
+2002,cachoeirinha,130
+2003,cachoeirinha,18
+2004,cachoeirinha,21
+2005,cachoeirinha,10
+2006,cachoeirinha,31
+2007,cachoeirinha,15
+2008,cachoeirinha,18
+2009,cachoeirinha,1
+2010,cachoeirinha,9
+2011,cachoeirinha,5
+2012,cachoeirinha,17
+2013,cachoeirinha,4
+2014,cachoeirinha,10
+2015,cachoeirinha,16
+2016,cachoeirinha,5
+2017,cachoeirinha,16
+2018,cachoeirinha,3
+2019,cachoeirinha,58
+2002,cacique doble,2
+2004,cacique doble,4
+2005,cacique doble,1
+2006,cacique doble,2
+2007,cacique doble,1
+2008,cacique doble,1
+2009,cacique doble,8
+2010,cacique doble,1
+2012,cacique doble,1
+2013,cacique doble,1
+2014,cacique doble,1
+2015,cacique doble,2
+2016,cacique doble,4
+2017,cacique doble,2
+2019,cacique doble,1
+2001,cacique fontoura,17
+2002,cacique fontoura,15
+2003,cacique fontoura,18
+2004,cacique fontoura,20
+2005,cacique fontoura,45
+2006,cacique fontoura,22
+2007,cacique fontoura,93
+2008,cacique fontoura,47
+2009,cacique fontoura,7
+2010,cacique fontoura,117
+2011,cacique fontoura,3
+2012,cacique fontoura,38
+2013,cacique fontoura,6
+2014,cacique fontoura,20
+2015,cacique fontoura,31
+2016,cacique fontoura,29
+2017,cacique fontoura,67
+2018,cacique fontoura,10
+2019,cacique fontoura,8
+2004,caieiras velha,2
+2006,caieiras velha,12
+2007,caieiras velha,12
+2008,caieiras velha,6
+2009,caieiras velha,6
+2010,caieiras velha,5
+2011,caieiras velha,5
+2012,caieiras velha,6
+2013,caieiras velha,3
+2014,caieiras velha,5
+2015,caieiras velha,4
+2016,caieiras velha,1
+2017,caieiras velha,1
+2018,caieiras velha,1
+2002,caititu,6
+2003,caititu,20
+2004,caititu,7
+2005,caititu,12
+2006,caititu,16
+2007,caititu,14
+2008,caititu,4
+2009,caititu,4
+2010,caititu,44
+2011,caititu,2
+2012,caititu,6
+2013,caititu,4
+2014,caititu,4
+2015,caititu,4
+2016,caititu,3
+2017,caititu,5
+2018,caititu,4
+2019,caititu,9
+2001,cajueiro,1
+2002,cajueiro,7
+2003,cajueiro,1
+2006,cajueiro,1
+2007,cajueiro,1
+2009,cajueiro,2
+2010,cajueiro,1
+2011,cajueiro,1
+2013,cajueiro,1
+2015,cajueiro,2
+2016,cajueiro,1
+2017,cajueiro,1
+2018,cajueiro,1
+2002,cajuhiri atravessado,1
+2003,cajuhiri atravessado,5
+2004,cajuhiri atravessado,1
+2005,cajuhiri atravessado,1
+2006,cajuhiri atravessado,4
+2007,cajuhiri atravessado,3
+2008,cajuhiri atravessado,4
+2009,cajuhiri atravessado,4
+2010,cajuhiri atravessado,4
+2012,cajuhiri atravessado,1
+2014,cajuhiri atravessado,2
+2015,cajuhiri atravessado,3
+2016,cajuhiri atravessado,6
+2002,camadeni,1
+2003,camadeni,2
+2005,camadeni,3
+2006,camadeni,1
+2007,camadeni,2
+2009,camadeni,1
+2010,camadeni,2
+2015,camadeni,1
+2016,camadeni,4
+2002,camicua,4
+2003,camicua,3
+2004,camicua,3
+2005,camicua,3
+2006,camicua,7
+2007,camicua,8
+2008,camicua,6
+2009,camicua,1
+2010,camicua,3
+2011,camicua,8
+2012,camicua,4
+2013,camicua,8
+2014,camicua,3
+2015,camicua,3
+2016,camicua,8
+2017,camicua,6
+2018,camicua,7
+2019,camicua,6
+2001,campinaskatukina,1
+2002,campinaskatukina,4
+2003,campinaskatukina,7
+2004,campinaskatukina,4
+2005,campinaskatukina,8
+2006,campinaskatukina,3
+2007,campinaskatukina,5
+2008,campinaskatukina,2
+2009,campinaskatukina,5
+2010,campinaskatukina,3
+2011,campinaskatukina,4
+2012,campinaskatukina,3
+2013,campinaskatukina,9
+2014,campinaskatukina,8
+2015,campinaskatukina,3
+2016,campinaskatukina,6
+2017,campinaskatukina,3
+2018,campinaskatukina,4
+2019,campinaskatukina,3
+2000,cana bravaguajajara,1
+2001,cana bravaguajajara,23
+2002,cana bravaguajajara,137
+2003,cana bravaguajajara,203
+2004,cana bravaguajajara,119
+2005,cana bravaguajajara,299
+2006,cana bravaguajajara,61
+2007,cana bravaguajajara,743
+2008,cana bravaguajajara,124
+2009,cana bravaguajajara,45
+2010,cana bravaguajajara,666
+2011,cana bravaguajajara,77
+2012,cana bravaguajajara,869
+2013,cana bravaguajajara,241
+2014,cana bravaguajajara,615
+2015,cana bravaguajajara,811
+2016,cana bravaguajajara,738
+2017,cana bravaguajajara,1081
+2018,cana bravaguajajara,543
+2019,cana bravaguajajara,619
+2002,canauanim,1
+2003,canauanim,5
+2004,canauanim,8
+2006,canauanim,3
+2007,canauanim,8
+2008,canauanim,5
+2009,canauanim,1
+2010,canauanim,4
+2011,canauanim,1
+2012,canauanim,1
+2014,canauanim,2
+2015,canauanim,8
+2016,canauanim,10
+2017,canauanim,1
+2018,canauanim,3
+2019,canauanim,9
+2002,canelinha,1
+2003,canelinha,11
+2004,canelinha,3
+2005,canelinha,2
+2006,canelinha,8
+2007,canelinha,11
+2008,canelinha,2
+2009,canelinha,2
+2010,canelinha,7
+2011,canelinha,7
+2012,canelinha,3
+2013,canelinha,3
+2014,canelinha,4
+2016,canelinha,2
+2017,canelinha,1
+2019,canelinha,2
+2001,capotojarina,80
+2002,capotojarina,81
+2003,capotojarina,92
+2004,capotojarina,104
+2005,capotojarina,137
+2006,capotojarina,145
+2007,capotojarina,353
+2008,capotojarina,102
+2009,capotojarina,101
+2010,capotojarina,242
+2011,capotojarina,147
+2012,capotojarina,120
+2013,capotojarina,91
+2014,capotojarina,112
+2015,capotojarina,81
+2016,capotojarina,155
+2017,capotojarina,268
+2018,capotojarina,70
+2019,capotojarina,213
+2001,caramuruparaguassu,4
+2002,caramuruparaguassu,7
+2003,caramuruparaguassu,4
+2004,caramuruparaguassu,15
+2005,caramuruparaguassu,4
+2006,caramuruparaguassu,2
+2007,caramuruparaguassu,5
+2008,caramuruparaguassu,8
+2009,caramuruparaguassu,3
+2010,caramuruparaguassu,6
+2011,caramuruparaguassu,2
+2012,caramuruparaguassu,15
+2013,caramuruparaguassu,1
+2014,caramuruparaguassu,3
+2015,caramuruparaguassu,28
+2016,caramuruparaguassu,7
+2018,caramuruparaguassu,9
+2019,caramuruparaguassu,15
+2006,carreteiro,1
+2017,carreteiro,2
+2019,carreteiro,1
+2002,carretpo i,4
+2004,carretpo i,1
+2007,carretpo i,8
+2009,carretpo i,1
+2010,carretpo i,10
+2012,carretpo i,3
+2013,carretpo i,1
+2015,carretpo i,2
+2016,carretpo i,1
+2017,carretpo i,4
+2019,carretpo i,3
+2000,caru,6
+2001,caru,13
+2002,caru,63
+2003,caru,62
+2004,caru,37
+2005,caru,32
+2006,caru,26
+2007,caru,45
+2008,caru,29
+2009,caru,31
+2010,caru,54
+2011,caru,25
+2012,caru,33
+2013,caru,36
+2014,caru,12
+2015,caru,172
+2016,caru,22
+2017,caru,11
+2018,caru,9
+2019,caru,1
+2002,catiparimamoria,2
+2003,catiparimamoria,2
+2005,catiparimamoria,3
+2007,catiparimamoria,2
+2008,catiparimamoria,1
+2010,catiparimamoria,5
+2012,catiparimamoria,5
+2014,catiparimamoria,2
+2015,catiparimamoria,3
+2016,catiparimamoria,1
+2017,catiparimamoria,3
+2018,catiparimamoria,4
+2005,caxix,2
+2007,caxix,1
+2008,caxix,2
+2011,caxix,2
+2012,caxix,6
+2016,caxix,1
+2018,caxix,1
+2001,cerrito,1
+2003,cerrito,1
+2006,cerrito,2
+2007,cerrito,1
+2010,cerrito,3
+2011,cerrito,2
+2014,cerrito,1
+2016,cerrito,2
+2017,cerrito,1
+2019,cerrito,1
+2001,chpo preto,18
+2002,chpo preto,18
+2003,chpo preto,11
+2004,chpo preto,28
+2005,chpo preto,11
+2006,chpo preto,33
+2007,chpo preto,55
+2008,chpo preto,51
+2009,chpo preto,7
+2010,chpo preto,80
+2011,chpo preto,23
+2012,chpo preto,22
+2013,chpo preto,36
+2014,chpo preto,24
+2015,chpo preto,41
+2016,chpo preto,13
+2017,chpo preto,36
+2018,chpo preto,14
+2019,chpo preto,32
+2001,coatalaranjal,4
+2002,coatalaranjal,19
+2003,coatalaranjal,16
+2004,coatalaranjal,15
+2005,coatalaranjal,25
+2006,coatalaranjal,31
+2007,coatalaranjal,22
+2008,coatalaranjal,6
+2009,coatalaranjal,40
+2010,coatalaranjal,24
+2011,coatalaranjal,9
+2012,coatalaranjal,13
+2013,coatalaranjal,12
+2014,coatalaranjal,34
+2015,coatalaranjal,60
+2016,coatalaranjal,19
+2017,coatalaranjal,9
+2018,coatalaranjal,24
+2019,coatalaranjal,11
+2004,comboios,1
+2006,comboios,1
+2007,comboios,1
+2011,comboios,2
+2014,comboios,3
+2015,comboios,1
+2018,comboios,1
+2002,coroa vermelha,20
+2003,coroa vermelha,1
+2004,coroa vermelha,3
+2005,coroa vermelha,2
+2006,coroa vermelha,5
+2007,coroa vermelha,3
+2008,coroa vermelha,6
+2009,coroa vermelha,2
+2012,coroa vermelha,1
+2015,coroa vermelha,1
+2002,coroa vermelha gleba c,6
+2007,coroa vermelha gleba c,3
+2012,coroa vermelha gleba c,1
+2013,coroa vermelha gleba c,1
+2019,coroa vermelha gleba c,1
+2002,cuia,4
+2003,cuia,1
+2004,cuia,1
+2005,cuia,3
+2007,cuia,1
+2008,cuia,1
+2009,cuia,1
+2011,cuia,2
+2012,cuia,1
+2013,cuia,1
+2014,cuia,4
+2015,cuia,2
+2016,cuia,1
+2018,cuia,1
+2019,cuia,1
+2013,cuiucuiu,1
+2015,cuiucuiu,2
+2016,cuiucuiu,2
+2002,cunhpsapucaia,6
+2003,cunhpsapucaia,4
+2004,cunhpsapucaia,1
+2005,cunhpsapucaia,7
+2006,cunhpsapucaia,6
+2007,cunhpsapucaia,1
+2008,cunhpsapucaia,4
+2009,cunhpsapucaia,1
+2010,cunhpsapucaia,4
+2011,cunhpsapucaia,2
+2012,cunhpsapucaia,7
+2013,cunhpsapucaia,3
+2014,cunhpsapucaia,5
+2015,cunhpsapucaia,6
+2016,cunhpsapucaia,6
+2018,cunhpsapucaia,15
+2019,cunhpsapucaia,6
+2003,cut cut marabitanas,11
+2004,cut cut marabitanas,7
+2007,cut cut marabitanas,4
+2008,cut cut marabitanas,5
+2009,cut cut marabitanas,1
+2010,cut cut marabitanas,3
+2011,cut cut marabitanas,7
+2012,cut cut marabitanas,2
+2013,cut cut marabitanas,4
+2014,cut cut marabitanas,1
+2015,cut cut marabitanas,3
+2016,cut cut marabitanas,1
+2017,cut cut marabitanas,2
+2018,cut cut marabitanas,8
+2019,cut cut marabitanas,6
+2003,deni,12
+2004,deni,11
+2005,deni,20
+2006,deni,10
+2007,deni,17
+2008,deni,8
+2009,deni,11
+2010,deni,17
+2011,deni,5
+2012,deni,9
+2013,deni,10
+2014,deni,26
+2015,deni,17
+2016,deni,13
+2017,deni,14
+2018,deni,12
+2019,deni,32
+2002,diahui,3
+2003,diahui,6
+2004,diahui,10
+2005,diahui,1
+2006,diahui,10
+2007,diahui,5
+2008,diahui,5
+2010,diahui,5
+2012,diahui,1
+2014,diahui,5
+2015,diahui,2
+2016,diahui,1
+2018,diahui,2
+2019,diahui,3
+2001,dourados,1
+2005,dourados,1
+2006,dourados,1
+2008,dourados,3
+2009,dourados,1
+2010,dourados,1
+2011,dourados,4
+2013,dourados,1
+2014,dourados,2
+2015,dourados,2
+2016,dourados,1
+2017,dourados,1
+2019,dourados,1
+2001,enawenonawo,2
+2002,enawenonawo,10
+2003,enawenonawo,21
+2004,enawenonawo,33
+2005,enawenonawo,86
+2006,enawenonawo,19
+2007,enawenonawo,38
+2008,enawenonawo,70
+2009,enawenonawo,33
+2010,enawenonawo,163
+2011,enawenonawo,110
+2012,enawenonawo,125
+2013,enawenonawo,89
+2014,enawenonawo,39
+2015,enawenonawo,27
+2016,enawenonawo,49
+2017,enawenonawo,87
+2018,enawenonawo,17
+2019,enawenonawo,82
+2002,entre serras,2
+2003,entre serras,1
+2004,entre serras,2
+2006,entre serras,2
+2007,entre serras,2
+2012,entre serras,3
+2013,entre serras,2
+2015,entre serras,2
+2016,entre serras,2
+2001,erikpatsß,2
+2002,erikpatsß,8
+2003,erikpatsß,17
+2004,erikpatsß,9
+2005,erikpatsß,13
+2006,erikpatsß,7
+2007,erikpatsß,15
+2008,erikpatsß,8
+2009,erikpatsß,6
+2010,erikpatsß,8
+2011,erikpatsß,1
+2012,erikpatsß,12
+2013,erikpatsß,4
+2014,erikpatsß,5
+2015,erikpatsß,5
+2016,erikpatsß,2
+2017,erikpatsß,4
+2018,erikpatsß,7
+2019,erikpatsß,2
+2002,escondido,2
+2003,escondido,3
+2004,escondido,4
+2005,escondido,5
+2006,escondido,6
+2007,escondido,8
+2009,escondido,2
+2010,escondido,2
+2013,escondido,1
+2015,escondido,1
+2017,escondido,2
+2019,escondido,2
+2015,espfrito santo,2
+2016,espfrito santo,4
+2017,espfrito santo,9
+2018,espfrito santo,3
+2019,espfrito santo,1
+2004,estatpo parecis,2
+2014,estatpo parecis,1
+2016,estatpo parecis,2
+2017,estatpo parecis,1
+2003,estivadinho,5
+2004,estivadinho,1
+2005,estivadinho,8
+2006,estivadinho,1
+2007,estivadinho,4
+2008,estivadinho,5
+2010,estivadinho,6
+2012,estivadinho,7
+2013,estivadinho,1
+2014,estivadinho,3
+2016,estivadinho,1
+2017,estivadinho,5
+2019,estivadinho,4
+2004,estrada do mar,1
+2002,estrela da paz,1
+2003,estrela da paz,2
+2005,estrela da paz,1
+2009,estrela da paz,1
+2014,estrela da paz,3
+2015,estrela da paz,1
+2016,estrela da paz,6
+2017,estrela da paz,6
+2018,estrela da paz,4
+2019,estrela da paz,3
+2001,faxinal,1
+2002,faxinal,3
+2003,faxinal,3
+2004,faxinal,8
+2005,faxinal,3
+2006,faxinal,1
+2007,faxinal,6
+2008,faxinal,2
+2009,faxinal,1
+2010,faxinal,7
+2011,faxinal,1
+2012,faxinal,1
+2013,faxinal,4
+2014,faxinal,6
+2017,faxinal,3
+2019,faxinal,1
+2006,fazenda canto,1
+2003,fazenda guarani,13
+2007,fazenda guarani,6
+2013,fazenda guarani,2
+2017,fazenda guarani,1
+2019,fazenda guarani,7
+2009,fazenda remanso,1
+2014,fazenda remanso,1
+2002,figueiras,4
+2003,figueiras,6
+2004,figueiras,1
+2005,figueiras,5
+2006,figueiras,12
+2007,figueiras,10
+2008,figueiras,5
+2009,figueiras,3
+2010,figueiras,27
+2011,figueiras,6
+2012,figueiras,3
+2014,figueiras,5
+2015,figueiras,4
+2016,figueiras,13
+2018,figueiras,1
+2019,figueiras,3
+2004,fortaleza do castanho,2
+2005,fortaleza do castanho,2
+2006,fortaleza do castanho,1
+2007,fortaleza do castanho,3
+2009,fortaleza do castanho,1
+2012,fortaleza do castanho,3
+2015,fortaleza do castanho,1
+2016,fortaleza do castanho,1
+2006,fortaleza do patauß,1
+2007,fortaleza do patauß,1
+2013,fortaleza do patauß,3
+2002,fulni,1
+2003,fulni,2
+2004,fulni,1
+2006,fulni,1
+2007,fulni,1
+2008,fulni,4
+2011,fulni,4
+2013,fulni,1
+2016,fulni,4
+2001,funil,23
+2002,funil,41
+2003,funil,31
+2004,funil,44
+2005,funil,33
+2006,funil,28
+2007,funil,55
+2008,funil,37
+2009,funil,28
+2010,funil,52
+2011,funil,31
+2012,funil,42
+2013,funil,37
+2014,funil,34
+2015,funil,29
+2016,funil,53
+2017,funil,44
+2018,funil,11
+2019,funil,62
+2001,galibi,1
+2002,galibi,2
+2004,galibi,1
+2005,galibi,2
+2006,galibi,2
+2007,galibi,4
+2008,galibi,2
+2010,galibi,2
+2012,galibi,4
+2013,galibi,2
+2014,galibi,2
+2015,galibi,4
+2016,galibi,1
+2017,galibi,6
+2003,gavipo,1
+2006,gavipo,2
+2007,gavipo,2
+2008,gavipo,2
+2009,gavipo,2
+2010,gavipo,4
+2011,gavipo,3
+2012,gavipo,3
+2013,gavipo,1
+2014,gavipo,1
+2015,gavipo,7
+2016,gavipo,4
+2017,gavipo,2
+2018,gavipo,1
+2019,gavipo,2
+2002,geralda toco preto,14
+2003,geralda toco preto,14
+2004,geralda toco preto,9
+2005,geralda toco preto,23
+2006,geralda toco preto,1
+2007,geralda toco preto,24
+2008,geralda toco preto,5
+2009,geralda toco preto,3
+2010,geralda toco preto,13
+2011,geralda toco preto,2
+2012,geralda toco preto,32
+2013,geralda toco preto,1
+2014,geralda toco preto,1
+2015,geralda toco preto,36
+2016,geralda toco preto,7
+2018,geralda toco preto,5
+2001,governador,11
+2002,governador,44
+2003,governador,29
+2004,governador,36
+2005,governador,59
+2006,governador,34
+2007,governador,170
+2008,governador,35
+2009,governador,31
+2010,governador,120
+2011,governador,32
+2012,governador,250
+2013,governador,30
+2014,governador,83
+2015,governador,182
+2016,governador,87
+2017,governador,286
+2018,governador,12
+2019,governador,38
+2005,guaimbt,3
+2006,guaimbt,3
+2007,guaimbt,4
+2010,guaimbt,1
+2013,guaimbt,4
+2015,guaimbt,1
+2016,guaimbt,1
+2018,guaimbt,2
+2016,guajahp,1
+2002,guanabara,1
+2003,guanabara,1
+2004,guanabara,1
+2005,guanabara,4
+2006,guanabara,7
+2007,guanabara,2
+2010,guanabara,1
+2014,guanabara,2
+2015,guanabara,3
+2017,guanabara,5
+2018,guanabara,2
+2019,guanabara,4
+2002,guarani de aratai,1
+2003,guarani de aratai,1
+2004,guarani de aratai,3
+2006,guarani de aratai,2
+2007,guarani de aratai,1
+2015,guarani de aratai,1
+2019,guarani de aratai,1
+2003,guarani votouro,1
+2005,guarani votouro,1
+2009,guarani votouro,1
+2013,guarani votouro,2
+2016,guarani votouro,1
+2002,guarita,12
+2003,guarita,21
+2004,guarita,18
+2005,guarita,9
+2006,guarita,3
+2007,guarita,10
+2008,guarita,3
+2009,guarita,21
+2010,guarita,16
+2011,guarita,24
+2012,guarita,7
+2013,guarita,5
+2014,guarita,5
+2015,guarita,4
+2016,guarita,15
+2017,guarita,13
+2018,guarita,3
+2019,guarita,14
+2004,guasuti,3
+2005,guasuti,1
+2006,guasuti,1
+2007,guasuti,3
+2009,guasuti,2
+2011,guasuti,2
+2016,guasuti,2
+2002,guat,57
+2006,guat,1
+2010,guat,1
+2012,guat,1
+2018,guat,1
+2004,guyrarokß,1
+2007,guyrarokß,1
+2008,guyrarokß,3
+2009,guyrarokß,1
+2010,guyrarokß,29
+2011,guyrarokß,5
+2012,guyrarokß,5
+2013,guyrarokß,1
+2014,guyrarokß,2
+2016,guyrarokß,1
+2018,guyrarokß,1
+2019,guyrarokß,2
+2003,hi merimp,2
+2004,hi merimp,1
+2005,hi merimp,1
+2006,hi merimp,1
+2011,hi merimp,1
+2016,hi merimp,1
+2003,hpm yexux,1
+2007,hpm yexux,4
+2011,hpm yexux,2
+2014,hpm yexux,6
+2017,hpm yexux,1
+2001,ibirama,5
+2003,ibirama,4
+2004,ibirama,3
+2005,ibirama,4
+2006,ibirama,4
+2007,ibirama,1
+2008,ibirama,1
+2009,ibirama,3
+2010,ibirama,2
+2011,ibirama,6
+2012,ibirama,2
+2013,ibirama,3
+2014,ibirama,4
+2016,ibirama,3
+2017,ibirama,5
+2018,ibirama,4
+2019,ibirama,1
+2000,ibiramala klpn,2
+2001,ibiramala klpn,2
+2003,ibiramala klpn,8
+2004,ibiramala klpn,11
+2005,ibiramala klpn,12
+2006,ibiramala klpn,15
+2007,ibiramala klpn,9
+2008,ibiramala klpn,5
+2009,ibiramala klpn,4
+2010,ibiramala klpn,2
+2011,ibiramala klpn,3
+2012,ibiramala klpn,2
+2013,ibiramala klpn,3
+2014,ibiramala klpn,6
+2015,ibiramala klpn,5
+2016,ibiramala klpn,5
+2017,ibiramala klpn,18
+2018,ibiramala klpn,3
+2019,ibiramala klpn,2
+2001,ibotirama,2
+2002,ibotirama,2
+2015,ibotirama,2
+2019,ibotirama,1
+2002,icatu,1
+2008,icatu,1
+2010,icatu,2
+2011,icatu,2
+2005,igarapt capana,1
+2006,igarapt capana,1
+2007,igarapt capana,1
+2008,igarapt capana,1
+2010,igarapt capana,3
+2012,igarapt capana,3
+2013,igarapt capana,1
+2015,igarapt capana,1
+2018,igarapt capana,2
+2019,igarapt capana,1
+2002,igarapt do caucho,4
+2003,igarapt do caucho,6
+2004,igarapt do caucho,1
+2005,igarapt do caucho,14
+2006,igarapt do caucho,12
+2007,igarapt do caucho,1
+2008,igarapt do caucho,2
+2009,igarapt do caucho,4
+2010,igarapt do caucho,6
+2011,igarapt do caucho,3
+2012,igarapt do caucho,2
+2013,igarapt do caucho,3
+2014,igarapt do caucho,5
+2015,igarapt do caucho,6
+2016,igarapt do caucho,6
+2017,igarapt do caucho,7
+2018,igarapt do caucho,1
+2019,igarapt do caucho,4
+2002,igarapt grande,1
+2003,igarapt grande,4
+2005,igarapt grande,1
+2006,igarapt grande,1
+2009,igarapt grande,3
+2010,igarapt grande,2
+2011,igarapt grande,1
+2012,igarapt grande,2
+2013,igarapt grande,5
+2015,igarapt grande,1
+2017,igarapt grande,1
+2018,igarapt grande,3
+2001,igarapt lage,4
+2002,igarapt lage,26
+2003,igarapt lage,26
+2004,igarapt lage,37
+2005,igarapt lage,35
+2006,igarapt lage,31
+2007,igarapt lage,29
+2008,igarapt lage,28
+2009,igarapt lage,16
+2010,igarapt lage,19
+2011,igarapt lage,18
+2012,igarapt lage,23
+2013,igarapt lage,11
+2014,igarapt lage,8
+2015,igarapt lage,7
+2016,igarapt lage,8
+2017,igarapt lage,18
+2018,igarapt lage,14
+2019,igarapt lage,23
+2001,igarapt lourdes,1
+2002,igarapt lourdes,36
+2003,igarapt lourdes,36
+2004,igarapt lourdes,30
+2005,igarapt lourdes,43
+2006,igarapt lourdes,28
+2007,igarapt lourdes,46
+2008,igarapt lourdes,24
+2009,igarapt lourdes,8
+2010,igarapt lourdes,60
+2011,igarapt lourdes,19
+2012,igarapt lourdes,48
+2013,igarapt lourdes,11
+2014,igarapt lourdes,17
+2015,igarapt lourdes,16
+2016,igarapt lourdes,22
+2017,igarapt lourdes,35
+2018,igarapt lourdes,42
+2019,igarapt lourdes,51
+2002,igarapt ribeirpo,17
+2003,igarapt ribeirpo,11
+2004,igarapt ribeirpo,18
+2005,igarapt ribeirpo,18
+2006,igarapt ribeirpo,17
+2007,igarapt ribeirpo,17
+2008,igarapt ribeirpo,6
+2009,igarapt ribeirpo,6
+2010,igarapt ribeirpo,12
+2011,igarapt ribeirpo,6
+2012,igarapt ribeirpo,2
+2013,igarapt ribeirpo,6
+2014,igarapt ribeirpo,4
+2015,igarapt ribeirpo,9
+2016,igarapt ribeirpo,15
+2017,igarapt ribeirpo,12
+2018,igarapt ribeirpo,9
+2019,igarapt ribeirpo,13
+2002,iguatemipegua i,1
+2003,iguatemipegua i,2
+2004,iguatemipegua i,4
+2005,iguatemipegua i,1
+2006,iguatemipegua i,1
+2007,iguatemipegua i,3
+2008,iguatemipegua i,1
+2009,iguatemipegua i,1
+2010,iguatemipegua i,1
+2011,iguatemipegua i,3
+2012,iguatemipegua i,2
+2013,iguatemipegua i,1
+2015,iguatemipegua i,8
+2016,iguatemipegua i,4
+2017,iguatemipegua i,1
+2018,iguatemipegua i,3
+2019,iguatemipegua i,3
+2002,ilhas da taperaspo ftlixporto,1
+2007,ilhas da taperaspo ftlixporto,2
+2008,ilhas da taperaspo ftlixporto,4
+2009,ilhas da taperaspo ftlixporto,1
+2010,ilhas da taperaspo ftlixporto,2
+2012,ilhas da taperaspo ftlixporto,2
+2013,ilhas da taperaspo ftlixporto,1
+2016,ilhas da taperaspo ftlixporto,2
+2017,ilhas da taperaspo ftlixporto,1
+2018,ilhas da taperaspo ftlixporto,1
+2004,imbiriba,1
+2016,imbiriba,1
+2018,imbiriba,1
+2002,inauiniteuini,3
+2003,inauiniteuini,6
+2004,inauiniteuini,3
+2005,inauiniteuini,3
+2006,inauiniteuini,5
+2008,inauiniteuini,3
+2009,inauiniteuini,5
+2010,inauiniteuini,1
+2011,inauiniteuini,4
+2012,inauiniteuini,3
+2013,inauiniteuini,8
+2014,inauiniteuini,1
+2015,inauiniteuini,3
+2016,inauiniteuini,4
+2017,inauiniteuini,6
+2018,inauiniteuini,5
+2019,inauiniteuini,4
+2001,inawebohona,334
+2002,inawebohona,190
+2003,inawebohona,589
+2004,inawebohona,350
+2005,inawebohona,716
+2006,inawebohona,171
+2007,inawebohona,1525
+2008,inawebohona,271
+2009,inawebohona,61
+2010,inawebohona,2015
+2011,inawebohona,92
+2012,inawebohona,1744
+2013,inawebohona,342
+2014,inawebohona,868
+2015,inawebohona,808
+2016,inawebohona,1336
+2017,inawebohona,1454
+2018,inawebohona,292
+2019,inawebohona,2173
+2003,inhacorß,6
+2004,inhacorß,1
+2005,inhacorß,2
+2006,inhacorß,2
+2007,inhacorß,3
+2008,inhacorß,2
+2009,inhacorß,4
+2010,inhacorß,3
+2011,inhacorß,6
+2012,inhacorß,2
+2013,inhacorß,3
+2014,inhacorß,3
+2015,inhacorß,2
+2016,inhacorß,3
+2017,inhacorß,3
+2018,inhacorß,2
+2019,inhacorß,2
+2002,ipixuna,4
+2004,ipixuna,3
+2005,ipixuna,7
+2007,ipixuna,1
+2008,ipixuna,2
+2010,ipixuna,3
+2011,ipixuna,4
+2012,ipixuna,5
+2013,ipixuna,2
+2014,ipixuna,6
+2015,ipixuna,4
+2016,ipixuna,15
+2017,ipixuna,4
+2018,ipixuna,3
+2019,ipixuna,11
+2001,irantxe,21
+2002,irantxe,5
+2003,irantxe,30
+2004,irantxe,6
+2005,irantxe,5
+2006,irantxe,5
+2007,irantxe,14
+2008,irantxe,6
+2010,irantxe,3
+2011,irantxe,1
+2013,irantxe,3
+2014,irantxe,1
+2015,irantxe,1
+2016,irantxe,1
+2018,irantxe,1
+2002,itixi mitari,4
+2005,itixi mitari,3
+2006,itixi mitari,1
+2008,itixi mitari,1
+2009,itixi mitari,2
+2010,itixi mitari,4
+2012,itixi mitari,1
+2015,itixi mitari,2
+2016,itixi mitari,3
+2017,itixi mitari,1
+2004,itunaitata restritpo de uso,1
+2012,itunaitata restritpo de uso,11
+2014,itunaitata restritpo de uso,3
+2015,itunaitata restritpo de uso,6
+2016,itunaitata restritpo de uso,7
+2017,itunaitata restritpo de uso,80
+2018,itunaitata restritpo de uso,203
+2019,itunaitata restritpo de uso,54
+2000,ivai,2
+2001,ivai,1
+2002,ivai,6
+2003,ivai,10
+2004,ivai,3
+2005,ivai,6
+2006,ivai,6
+2007,ivai,14
+2008,ivai,13
+2009,ivai,6
+2010,ivai,11
+2011,ivai,17
+2012,ivai,1
+2013,ivai,6
+2016,ivai,20
+2017,ivai,8
+2018,ivai,15
+2019,ivai,6
+2001,jabuti,2
+2002,jabuti,11
+2003,jabuti,14
+2004,jabuti,10
+2005,jabuti,10
+2006,jabuti,7
+2007,jabuti,10
+2008,jabuti,4
+2009,jabuti,4
+2010,jabuti,7
+2011,jabuti,8
+2012,jabuti,6
+2013,jabuti,16
+2014,jabuti,7
+2015,jabuti,4
+2016,jabuti,5
+2017,jabuti,5
+2018,jabuti,9
+2019,jabuti,3
+2000,jacamim,3
+2001,jacamim,3
+2002,jacamim,13
+2003,jacamim,34
+2004,jacamim,20
+2005,jacamim,8
+2006,jacamim,4
+2007,jacamim,21
+2008,jacamim,9
+2009,jacamim,18
+2010,jacamim,8
+2011,jacamim,7
+2012,jacamim,11
+2013,jacamim,7
+2014,jacamim,13
+2015,jacamim,22
+2016,jacamim,26
+2017,jacamim,17
+2018,jacamim,26
+2019,jacamim,26
+2002,jacarebakatauixi restritpo uso,9
+2003,jacarebakatauixi restritpo uso,102
+2004,jacarebakatauixi restritpo uso,31
+2005,jacarebakatauixi restritpo uso,164
+2006,jacarebakatauixi restritpo uso,142
+2007,jacarebakatauixi restritpo uso,78
+2008,jacarebakatauixi restritpo uso,63
+2009,jacarebakatauixi restritpo uso,8
+2010,jacarebakatauixi restritpo uso,180
+2011,jacarebakatauixi restritpo uso,6
+2012,jacarebakatauixi restritpo uso,25
+2013,jacarebakatauixi restritpo uso,20
+2014,jacarebakatauixi restritpo uso,8
+2015,jacarebakatauixi restritpo uso,3
+2016,jacarebakatauixi restritpo uso,12
+2017,jacarebakatauixi restritpo uso,2
+2018,jacarebakatauixi restritpo uso,18
+2019,jacarebakatauixi restritpo uso,19
+2002,jacart de spo domingos,2
+2003,jacart de spo domingos,3
+2004,jacart de spo domingos,1
+2005,jacart de spo domingos,3
+2006,jacart de spo domingos,2
+2007,jacart de spo domingos,2
+2009,jacart de spo domingos,5
+2011,jacart de spo domingos,7
+2012,jacart de spo domingos,4
+2013,jacart de spo domingos,1
+2014,jacart de spo domingos,1
+2015,jacart de spo domingos,6
+2016,jacart de spo domingos,4
+2017,jacart de spo domingos,3
+2018,jacart de spo domingos,7
+2019,jacart de spo domingos,1
+2001,jaguapirt,1
+2003,jaguapirt,4
+2004,jaguapirt,5
+2005,jaguapirt,11
+2006,jaguapirt,4
+2007,jaguapirt,6
+2008,jaguapirt,10
+2010,jaguapirt,3
+2011,jaguapirt,1
+2012,jaguapirt,6
+2013,jaguapirt,4
+2014,jaguapirt,1
+2015,jaguapirt,1
+2016,jaguapirt,4
+2017,jaguapirt,4
+2018,jaguapirt,2
+2019,jaguapirt,2
+2002,jaguari,3
+2007,jaguari,1
+2012,jaguari,1
+2014,jaguari,4
+2019,jaguari,1
+2002,jaminauaenvira,1
+2005,jaminauaenvira,3
+2006,jaminauaenvira,1
+2007,jaminauaenvira,1
+2008,jaminauaenvira,1
+2010,jaminauaenvira,4
+2012,jaminauaenvira,8
+2013,jaminauaenvira,2
+2014,jaminauaenvira,2
+2016,jaminauaenvira,5
+2017,jaminauaenvira,1
+2018,jaminauaenvira,3
+2019,jaminauaenvira,2
+2005,jaminawa arara do rio bagt,2
+2007,jaminawa arara do rio bagt,1
+2008,jaminawa arara do rio bagt,2
+2009,jaminawa arara do rio bagt,1
+2010,jaminawa arara do rio bagt,1
+2012,jaminawa arara do rio bagt,6
+2013,jaminawa arara do rio bagt,2
+2016,jaminawa arara do rio bagt,2
+2017,jaminawa arara do rio bagt,1
+2019,jaminawa arara do rio bagt,1
+2004,jaminawa do igarapt preto,1
+2005,jaminawa do igarapt preto,2
+2006,jaminawa do igarapt preto,3
+2007,jaminawa do igarapt preto,2
+2008,jaminawa do igarapt preto,4
+2009,jaminawa do igarapt preto,1
+2010,jaminawa do igarapt preto,1
+2012,jaminawa do igarapt preto,3
+2013,jaminawa do igarapt preto,3
+2015,jaminawa do igarapt preto,2
+2017,jaminawa do igarapt preto,3
+2018,jaminawa do igarapt preto,3
+2019,jaminawa do igarapt preto,1
+2002,japuira,8
+2003,japuira,22
+2004,japuira,1
+2005,japuira,15
+2007,japuira,1
+2008,japuira,7
+2009,japuira,1
+2011,japuira,3
+2012,japuira,2
+2013,japuira,2
+2014,japuira,1
+2016,japuira,1
+2017,japuira,7
+2018,japuira,2
+2019,japuira,14
+2016,jaquiri,1
+2014,jaraguß,2
+2002,jarara,1
+2004,jarara,1
+2007,jarara,1
+2010,jarara,2
+2013,jarara,1
+2014,jarara,1
+2018,jarara,1
+2002,jarawarajamamadikanamati,7
+2003,jarawarajamamadikanamati,9
+2004,jarawarajamamadikanamati,3
+2005,jarawarajamamadikanamati,7
+2006,jarawarajamamadikanamati,11
+2007,jarawarajamamadikanamati,5
+2008,jarawarajamamadikanamati,2
+2009,jarawarajamamadikanamati,12
+2010,jarawarajamamadikanamati,18
+2011,jarawarajamamadikanamati,4
+2012,jarawarajamamadikanamati,4
+2013,jarawarajamamadikanamati,6
+2014,jarawarajamamadikanamati,14
+2015,jarawarajamamadikanamati,11
+2016,jarawarajamamadikanamati,2
+2017,jarawarajamamadikanamati,16
+2018,jarawarajamamadikanamati,16
+2019,jarawarajamamadikanamati,9
+2004,jarudore,2
+2006,jarudore,2
+2017,jarudore,1
+2003,jatayvari,1
+2004,jatayvari,2
+2005,jatayvari,2
+2007,jatayvari,3
+2008,jatayvari,2
+2009,jatayvari,1
+2010,jatayvari,3
+2011,jatayvari,3
+2013,jatayvari,1
+2015,jatayvari,1
+2016,jatayvari,1
+2019,jatayvari,1
+2005,jatuarana,2
+2015,jatuarana,1
+2018,jatuarana,2
+2019,jatuarana,1
+2002,jauary,12
+2003,jauary,13
+2004,jauary,16
+2005,jauary,10
+2006,jauary,8
+2007,jauary,15
+2008,jauary,4
+2009,jauary,46
+2010,jauary,3
+2011,jauary,6
+2012,jauary,7
+2013,jauary,13
+2014,jauary,8
+2015,jauary,20
+2016,jauary,7
+2017,jauary,11
+2018,jauary,8
+2019,jauary,3
+2001,juininha,5
+2002,juininha,16
+2003,juininha,26
+2004,juininha,40
+2005,juininha,139
+2006,juininha,52
+2007,juininha,38
+2008,juininha,9
+2009,juininha,11
+2010,juininha,257
+2011,juininha,2
+2012,juininha,102
+2013,juininha,5
+2014,juininha,18
+2015,juininha,26
+2016,juininha,73
+2017,juininha,16
+2018,juininha,24
+2019,juininha,18
+2002,jumina,2
+2003,jumina,1
+2004,jumina,9
+2005,jumina,3
+2006,jumina,1
+2007,jumina,1
+2008,jumina,6
+2009,jumina,17
+2010,jumina,6
+2012,jumina,6
+2013,jumina,3
+2015,jumina,12
+2016,jumina,10
+2018,jumina,5
+2001,kadiwtu,632
+2002,kadiwtu,1152
+2003,kadiwtu,215
+2004,kadiwtu,579
+2005,kadiwtu,2028
+2006,kadiwtu,752
+2007,kadiwtu,1876
+2008,kadiwtu,903
+2009,kadiwtu,314
+2010,kadiwtu,1719
+2011,kadiwtu,669
+2012,kadiwtu,290
+2013,kadiwtu,719
+2014,kadiwtu,178
+2015,kadiwtu,673
+2016,kadiwtu,1453
+2017,kadiwtu,551
+2018,kadiwtu,301
+2019,kadiwtu,2026
+2001,kambiwß,4
+2002,kambiwß,6
+2003,kambiwß,5
+2004,kambiwß,3
+2005,kambiwß,14
+2006,kambiwß,5
+2007,kambiwß,16
+2008,kambiwß,4
+2009,kambiwß,2
+2010,kambiwß,16
+2011,kambiwß,2
+2012,kambiwß,5
+2013,kambiwß,1
+2015,kambiwß,10
+2016,kambiwß,4
+2017,kambiwß,1
+2006,kampa do igarapt primavera,3
+2007,kampa do igarapt primavera,1
+2010,kampa do igarapt primavera,2
+2011,kampa do igarapt primavera,1
+2013,kampa do igarapt primavera,3
+2016,kampa do igarapt primavera,1
+2017,kampa do igarapt primavera,1
+2018,kampa do igarapt primavera,1
+2002,kampa do rio amonea,1
+2003,kampa do rio amonea,3
+2005,kampa do rio amonea,1
+2006,kampa do rio amonea,1
+2007,kampa do rio amonea,1
+2008,kampa do rio amonea,2
+2009,kampa do rio amonea,1
+2010,kampa do rio amonea,3
+2012,kampa do rio amonea,3
+2013,kampa do rio amonea,1
+2015,kampa do rio amonea,1
+2016,kampa do rio amonea,4
+2017,kampa do rio amonea,1
+2018,kampa do rio amonea,2
+2019,kampa do rio amonea,2
+2003,kampa e isolados do rio envira,6
+2004,kampa e isolados do rio envira,1
+2005,kampa e isolados do rio envira,2
+2006,kampa e isolados do rio envira,2
+2007,kampa e isolados do rio envira,1
+2008,kampa e isolados do rio envira,2
+2009,kampa e isolados do rio envira,2
+2010,kampa e isolados do rio envira,2
+2011,kampa e isolados do rio envira,1
+2012,kampa e isolados do rio envira,9
+2013,kampa e isolados do rio envira,2
+2014,kampa e isolados do rio envira,2
+2015,kampa e isolados do rio envira,1
+2016,kampa e isolados do rio envira,1
+2017,kampa e isolados do rio envira,2
+2018,kampa e isolados do rio envira,1
+2019,kampa e isolados do rio envira,6
+2002,kanamari do rio juruß,4
+2003,kanamari do rio juruß,6
+2004,kanamari do rio juruß,4
+2005,kanamari do rio juruß,9
+2006,kanamari do rio juruß,11
+2009,kanamari do rio juruß,5
+2010,kanamari do rio juruß,11
+2011,kanamari do rio juruß,3
+2012,kanamari do rio juruß,2
+2013,kanamari do rio juruß,7
+2014,kanamari do rio juruß,11
+2015,kanamari do rio juruß,8
+2016,kanamari do rio juruß,2
+2017,kanamari do rio juruß,13
+2018,kanamari do rio juruß,2
+2019,kanamari do rio juruß,11
+2000,kanela,1
+2001,kanela,104
+2002,kanela,184
+2003,kanela,303
+2004,kanela,169
+2005,kanela,309
+2006,kanela,103
+2007,kanela,403
+2008,kanela,136
+2009,kanela,232
+2010,kanela,479
+2011,kanela,269
+2012,kanela,416
+2013,kanela,235
+2014,kanela,291
+2015,kanela,307
+2016,kanela,211
+2017,kanela,307
+2018,kanela,213
+2019,kanela,344
+2001,kanela memortumrt,78
+2002,kanela memortumrt,130
+2003,kanela memortumrt,190
+2004,kanela memortumrt,131
+2005,kanela memortumrt,176
+2006,kanela memortumrt,208
+2007,kanela memortumrt,256
+2008,kanela memortumrt,103
+2009,kanela memortumrt,93
+2010,kanela memortumrt,340
+2011,kanela memortumrt,127
+2012,kanela memortumrt,297
+2013,kanela memortumrt,171
+2014,kanela memortumrt,247
+2015,kanela memortumrt,262
+2016,kanela memortumrt,129
+2017,kanela memortumrt,261
+2018,kanela memortumrt,139
+2019,kanela memortumrt,180
+2003,kapinawß,2
+2004,kapinawß,3
+2005,kapinawß,1
+2006,kapinawß,1
+2008,kapinawß,1
+2010,kapinawß,1
+2012,kapinawß,2
+2014,kapinawß,1
+2010,karajß de aruanp iii,1
+2015,karajß de aruanp iii,1
+2017,karajß de aruanp iii,1
+2001,karajß santana do araguaia,5
+2004,karajß santana do araguaia,1
+2006,karajß santana do araguaia,5
+2007,karajß santana do araguaia,1
+2009,karajß santana do araguaia,1
+2010,karajß santana do araguaia,7
+2011,karajß santana do araguaia,4
+2012,karajß santana do araguaia,2
+2013,karajß santana do araguaia,1
+2014,karajß santana do araguaia,3
+2015,karajß santana do araguaia,7
+2016,karajß santana do araguaia,3
+2017,karajß santana do araguaia,2
+2003,karapot,1
+2006,karapot,1
+2015,karapot,2
+2002,karara,3
+2012,karara,2
+2003,karipuna,5
+2004,karipuna,9
+2005,karipuna,20
+2006,karipuna,20
+2007,karipuna,35
+2008,karipuna,6
+2009,karipuna,11
+2010,karipuna,11
+2011,karipuna,1
+2012,karipuna,14
+2013,karipuna,4
+2014,karipuna,12
+2015,karipuna,35
+2016,karipuna,71
+2017,karipuna,73
+2018,karipuna,98
+2019,karipuna,72
+2004,karirixoc,3
+2005,karirixoc,9
+2006,karirixoc,2
+2007,karirixoc,6
+2011,karirixoc,5
+2012,karirixoc,6
+2016,karirixoc,1
+2019,karirixoc,1
+2002,karitiana,3
+2003,karitiana,5
+2004,karitiana,4
+2005,karitiana,5
+2006,karitiana,42
+2007,karitiana,2
+2008,karitiana,14
+2009,karitiana,2
+2010,karitiana,16
+2012,karitiana,16
+2013,karitiana,3
+2014,karitiana,2
+2015,karitiana,6
+2016,karitiana,3
+2017,karitiana,13
+2018,karitiana,8
+2019,karitiana,6
+2002,katukinakaxinawß,5
+2003,katukinakaxinawß,2
+2004,katukinakaxinawß,2
+2005,katukinakaxinawß,12
+2006,katukinakaxinawß,7
+2008,katukinakaxinawß,4
+2009,katukinakaxinawß,2
+2010,katukinakaxinawß,1
+2011,katukinakaxinawß,1
+2012,katukinakaxinawß,7
+2013,katukinakaxinawß,3
+2015,katukinakaxinawß,3
+2016,katukinakaxinawß,7
+2017,katukinakaxinawß,6
+2018,katukinakaxinawß,2
+2019,katukinakaxinawß,7
+2001,kawahiva do rio pardo,1
+2002,kawahiva do rio pardo,4
+2003,kawahiva do rio pardo,18
+2004,kawahiva do rio pardo,70
+2005,kawahiva do rio pardo,55
+2006,kawahiva do rio pardo,98
+2007,kawahiva do rio pardo,126
+2008,kawahiva do rio pardo,7
+2009,kawahiva do rio pardo,4
+2010,kawahiva do rio pardo,26
+2011,kawahiva do rio pardo,3
+2012,kawahiva do rio pardo,2
+2013,kawahiva do rio pardo,6
+2014,kawahiva do rio pardo,5
+2015,kawahiva do rio pardo,44
+2016,kawahiva do rio pardo,1
+2017,kawahiva do rio pardo,7
+2018,kawahiva do rio pardo,3
+2019,kawahiva do rio pardo,11
+2002,kaxarari,10
+2003,kaxarari,3
+2004,kaxarari,2
+2005,kaxarari,21
+2006,kaxarari,14
+2007,kaxarari,10
+2008,kaxarari,9
+2009,kaxarari,16
+2010,kaxarari,8
+2011,kaxarari,9
+2012,kaxarari,20
+2013,kaxarari,13
+2014,kaxarari,15
+2015,kaxarari,17
+2016,kaxarari,23
+2017,kaxarari,10
+2018,kaxarari,26
+2019,kaxarari,24
+2002,kaxinawß ashaninka do rio breu,4
+2003,kaxinawß ashaninka do rio breu,18
+2004,kaxinawß ashaninka do rio breu,3
+2005,kaxinawß ashaninka do rio breu,9
+2006,kaxinawß ashaninka do rio breu,12
+2007,kaxinawß ashaninka do rio breu,9
+2008,kaxinawß ashaninka do rio breu,7
+2009,kaxinawß ashaninka do rio breu,4
+2010,kaxinawß ashaninka do rio breu,22
+2011,kaxinawß ashaninka do rio breu,4
+2012,kaxinawß ashaninka do rio breu,11
+2013,kaxinawß ashaninka do rio breu,14
+2014,kaxinawß ashaninka do rio breu,9
+2015,kaxinawß ashaninka do rio breu,14
+2016,kaxinawß ashaninka do rio breu,10
+2017,kaxinawß ashaninka do rio breu,12
+2018,kaxinawß ashaninka do rio breu,11
+2019,kaxinawß ashaninka do rio breu,7
+2005,kaxinawß colnia vinte e sete,1
+2006,kaxinawß colnia vinte e sete,1
+2007,kaxinawß colnia vinte e sete,1
+2018,kaxinawß colnia vinte e sete,1
+2002,kaxinawß da praia do carapanp,9
+2003,kaxinawß da praia do carapanp,4
+2004,kaxinawß da praia do carapanp,4
+2005,kaxinawß da praia do carapanp,16
+2006,kaxinawß da praia do carapanp,10
+2007,kaxinawß da praia do carapanp,7
+2008,kaxinawß da praia do carapanp,8
+2009,kaxinawß da praia do carapanp,4
+2010,kaxinawß da praia do carapanp,24
+2011,kaxinawß da praia do carapanp,8
+2012,kaxinawß da praia do carapanp,7
+2013,kaxinawß da praia do carapanp,7
+2014,kaxinawß da praia do carapanp,11
+2015,kaxinawß da praia do carapanp,6
+2016,kaxinawß da praia do carapanp,11
+2017,kaxinawß da praia do carapanp,6
+2018,kaxinawß da praia do carapanp,9
+2019,kaxinawß da praia do carapanp,6
+2002,kaxinawß do baixo rio jordpo,2
+2003,kaxinawß do baixo rio jordpo,3
+2004,kaxinawß do baixo rio jordpo,2
+2005,kaxinawß do baixo rio jordpo,2
+2006,kaxinawß do baixo rio jordpo,2
+2007,kaxinawß do baixo rio jordpo,9
+2008,kaxinawß do baixo rio jordpo,6
+2009,kaxinawß do baixo rio jordpo,4
+2010,kaxinawß do baixo rio jordpo,16
+2011,kaxinawß do baixo rio jordpo,3
+2012,kaxinawß do baixo rio jordpo,3
+2013,kaxinawß do baixo rio jordpo,3
+2014,kaxinawß do baixo rio jordpo,2
+2015,kaxinawß do baixo rio jordpo,5
+2016,kaxinawß do baixo rio jordpo,6
+2017,kaxinawß do baixo rio jordpo,2
+2018,kaxinawß do baixo rio jordpo,6
+2019,kaxinawß do baixo rio jordpo,9
+2002,kaxinawß do rio humaitß,2
+2003,kaxinawß do rio humaitß,8
+2004,kaxinawß do rio humaitß,2
+2005,kaxinawß do rio humaitß,5
+2006,kaxinawß do rio humaitß,5
+2007,kaxinawß do rio humaitß,2
+2008,kaxinawß do rio humaitß,4
+2009,kaxinawß do rio humaitß,5
+2010,kaxinawß do rio humaitß,6
+2011,kaxinawß do rio humaitß,2
+2012,kaxinawß do rio humaitß,2
+2013,kaxinawß do rio humaitß,6
+2014,kaxinawß do rio humaitß,4
+2016,kaxinawß do rio humaitß,5
+2017,kaxinawß do rio humaitß,2
+2018,kaxinawß do rio humaitß,13
+2019,kaxinawß do rio humaitß,7
+2003,kaxinawß do rio jordpo,1
+2004,kaxinawß do rio jordpo,2
+2005,kaxinawß do rio jordpo,1
+2006,kaxinawß do rio jordpo,3
+2008,kaxinawß do rio jordpo,2
+2009,kaxinawß do rio jordpo,1
+2010,kaxinawß do rio jordpo,4
+2013,kaxinawß do rio jordpo,1
+2017,kaxinawß do rio jordpo,2
+2018,kaxinawß do rio jordpo,1
+2019,kaxinawß do rio jordpo,5
+2003,kaxinawß nova olinda,2
+2005,kaxinawß nova olinda,10
+2006,kaxinawß nova olinda,1
+2007,kaxinawß nova olinda,2
+2008,kaxinawß nova olinda,7
+2009,kaxinawß nova olinda,1
+2010,kaxinawß nova olinda,7
+2011,kaxinawß nova olinda,1
+2012,kaxinawß nova olinda,1
+2013,kaxinawß nova olinda,2
+2015,kaxinawß nova olinda,4
+2016,kaxinawß nova olinda,7
+2017,kaxinawß nova olinda,2
+2018,kaxinawß nova olinda,1
+2019,kaxinawß nova olinda,6
+2003,kaxinawß seringal independoncia,1
+2005,kaxinawß seringal independoncia,5
+2006,kaxinawß seringal independoncia,2
+2008,kaxinawß seringal independoncia,2
+2009,kaxinawß seringal independoncia,2
+2010,kaxinawß seringal independoncia,4
+2011,kaxinawß seringal independoncia,2
+2012,kaxinawß seringal independoncia,1
+2013,kaxinawß seringal independoncia,4
+2014,kaxinawß seringal independoncia,2
+2016,kaxinawß seringal independoncia,7
+2017,kaxinawß seringal independoncia,5
+2018,kaxinawß seringal independoncia,4
+2001,kayabi,30
+2002,kayabi,269
+2003,kayabi,299
+2004,kayabi,602
+2005,kayabi,702
+2006,kayabi,283
+2007,kayabi,370
+2008,kayabi,150
+2009,kayabi,95
+2010,kayabi,280
+2011,kayabi,109
+2012,kayabi,358
+2013,kayabi,35
+2014,kayabi,89
+2015,kayabi,189
+2016,kayabi,97
+2017,kayabi,84
+2018,kayabi,46
+2019,kayabi,36
+2001,kayap,136
+2002,kayap,188
+2003,kayap,328
+2004,kayap,268
+2005,kayap,559
+2006,kayap,272
+2007,kayap,830
+2008,kayap,416
+2009,kayap,67
+2010,kayap,2082
+2011,kayap,170
+2012,kayap,460
+2013,kayap,240
+2014,kayap,328
+2015,kayap,301
+2016,kayap,215
+2017,kayap,1518
+2018,kayap,66
+2019,kayap,465
+2005,kiriri,1
+2007,kiriri,1
+2013,kiriri,1
+2015,kiriri,3
+2016,kiriri,1
+2018,kiriri,1
+2003,koatinemo,1
+2004,koatinemo,1
+2005,koatinemo,1
+2006,koatinemo,2
+2010,koatinemo,1
+2012,koatinemo,2
+2013,koatinemo,3
+2014,koatinemo,2
+2015,koatinemo,4
+2016,koatinemo,1
+2017,koatinemo,4
+2018,koatinemo,3
+2001,krahkanela,1
+2003,krahkanela,11
+2006,krahkanela,5
+2007,krahkanela,61
+2008,krahkanela,1
+2009,krahkanela,20
+2010,krahkanela,68
+2012,krahkanela,8
+2013,krahkanela,50
+2015,krahkanela,8
+2016,krahkanela,36
+2017,krahkanela,21
+2018,krahkanela,4
+2019,krahkanela,71
+2000,kraolandia,1
+2001,kraolandia,258
+2002,kraolandia,597
+2003,kraolandia,424
+2004,kraolandia,664
+2005,kraolandia,769
+2006,kraolandia,411
+2007,kraolandia,826
+2008,kraolandia,515
+2009,kraolandia,318
+2010,kraolandia,948
+2011,kraolandia,600
+2012,kraolandia,773
+2013,kraolandia,410
+2014,kraolandia,745
+2015,kraolandia,728
+2016,kraolandia,520
+2017,kraolandia,870
+2018,kraolandia,235
+2019,kraolandia,799
+2003,krenak,34
+2006,krenak,1
+2007,krenak,6
+2001,krenreht,1
+2002,krenreht,13
+2003,krenreht,3
+2004,krenreht,14
+2005,krenreht,1
+2006,krenreht,7
+2007,krenreht,10
+2008,krenreht,2
+2009,krenreht,6
+2010,krenreht,12
+2011,krenreht,12
+2012,krenreht,2
+2013,krenreht,4
+2014,krenreht,16
+2015,krenreht,8
+2016,krenreht,5
+2017,krenreht,13
+2018,krenreht,1
+2019,krenreht,13
+2000,krikati,3
+2001,krikati,34
+2002,krikati,94
+2003,krikati,64
+2004,krikati,81
+2005,krikati,191
+2006,krikati,55
+2007,krikati,340
+2008,krikati,42
+2009,krikati,16
+2010,krikati,440
+2011,krikati,63
+2012,krikati,398
+2013,krikati,42
+2014,krikati,159
+2015,krikati,407
+2016,krikati,198
+2017,krikati,427
+2018,krikati,52
+2019,krikati,49
+2002,kulina do medio jurua,4
+2003,kulina do medio jurua,28
+2004,kulina do medio jurua,4
+2005,kulina do medio jurua,11
+2006,kulina do medio jurua,26
+2007,kulina do medio jurua,16
+2008,kulina do medio jurua,12
+2009,kulina do medio jurua,14
+2010,kulina do medio jurua,28
+2011,kulina do medio jurua,12
+2012,kulina do medio jurua,18
+2013,kulina do medio jurua,20
+2014,kulina do medio jurua,9
+2015,kulina do medio jurua,9
+2016,kulina do medio jurua,24
+2017,kulina do medio jurua,21
+2018,kulina do medio jurua,4
+2019,kulina do medio jurua,13
+2003,kulina do rio envira,3
+2004,kulina do rio envira,1
+2005,kulina do rio envira,3
+2006,kulina do rio envira,3
+2007,kulina do rio envira,3
+2008,kulina do rio envira,1
+2010,kulina do rio envira,3
+2011,kulina do rio envira,1
+2012,kulina do rio envira,1
+2013,kulina do rio envira,2
+2014,kulina do rio envira,4
+2015,kulina do rio envira,1
+2016,kulina do rio envira,2
+2017,kulina do rio envira,3
+2018,kulina do rio envira,4
+2019,kulina do rio envira,1
+2002,kulina igarapt do pau,1
+2003,kulina igarapt do pau,3
+2004,kulina igarapt do pau,1
+2005,kulina igarapt do pau,5
+2006,kulina igarapt do pau,3
+2007,kulina igarapt do pau,1
+2008,kulina igarapt do pau,3
+2009,kulina igarapt do pau,4
+2010,kulina igarapt do pau,5
+2011,kulina igarapt do pau,1
+2012,kulina igarapt do pau,6
+2014,kulina igarapt do pau,3
+2015,kulina igarapt do pau,5
+2016,kulina igarapt do pau,4
+2018,kulina igarapt do pau,2
+2019,kulina igarapt do pau,5
+2007,kumaru do lago ualß,2
+2009,kumaru do lago ualß,6
+2016,kumaru do lago ualß,1
+2017,kumaru do lago ualß,1
+2002,kurußya,1
+2005,kurußya,1
+2008,kurußya,1
+2009,kurußya,2
+2011,kurußya,5
+2016,kurußya,2
+2017,kurußya,3
+2018,kurußya,1
+2019,kurußya,2
+2002,kwazß do rio spo pedro,4
+2003,kwazß do rio spo pedro,7
+2004,kwazß do rio spo pedro,6
+2005,kwazß do rio spo pedro,3
+2006,kwazß do rio spo pedro,4
+2007,kwazß do rio spo pedro,9
+2008,kwazß do rio spo pedro,1
+2009,kwazß do rio spo pedro,2
+2010,kwazß do rio spo pedro,37
+2011,kwazß do rio spo pedro,1
+2012,kwazß do rio spo pedro,1
+2013,kwazß do rio spo pedro,2
+2014,kwazß do rio spo pedro,1
+2016,kwazß do rio spo pedro,6
+2003,lago aiapua,1
+2007,lago aiapua,3
+2009,lago aiapua,2
+2010,lago aiapua,1
+2011,lago aiapua,1
+2013,lago aiapua,1
+2015,lago aiapua,4
+2016,lago aiapua,1
+2003,lago do beruri,1
+2009,lago do beruri,1
+2003,lago do limpo,1
+2004,lago do limpo,1
+2006,lago do limpo,4
+2009,lago do limpo,3
+2012,lago do limpo,1
+2015,lago do limpo,7
+2016,lago do limpo,1
+2018,lago do limpo,6
+2019,lago do limpo,1
+2002,lago do marinheiro,1
+2003,lago do marinheiro,5
+2005,lago do marinheiro,1
+2007,lago do marinheiro,3
+2010,lago do marinheiro,1
+2018,lago do marinheiro,1
+2002,lago jauari,3
+2007,lago jauari,1
+2009,lago jauari,1
+2013,lago jauari,2
+2014,lago jauari,1
+2017,lago jauari,2
+2018,lago jauari,1
+2005,lagoa encantada,1
+2015,lagoa encantada,1
+2018,lagoa encantada,1
+2002,lagoa comprida,16
+2003,lagoa comprida,6
+2004,lagoa comprida,12
+2005,lagoa comprida,9
+2006,lagoa comprida,8
+2007,lagoa comprida,25
+2008,lagoa comprida,10
+2009,lagoa comprida,6
+2010,lagoa comprida,21
+2011,lagoa comprida,5
+2012,lagoa comprida,60
+2013,lagoa comprida,9
+2014,lagoa comprida,7
+2015,lagoa comprida,64
+2016,lagoa comprida,30
+2017,lagoa comprida,136
+2018,lagoa comprida,10
+2019,lagoa comprida,4
+2001,lalima,3
+2002,lalima,4
+2003,lalima,3
+2004,lalima,8
+2005,lalima,7
+2006,lalima,13
+2007,lalima,14
+2008,lalima,11
+2009,lalima,1
+2010,lalima,11
+2011,lalima,2
+2012,lalima,5
+2013,lalima,2
+2014,lalima,1
+2015,lalima,7
+2016,lalima,2
+2017,lalima,4
+2018,lalima,1
+2019,lalima,13
+2004,laranjinha,2
+2009,laranjinha,2
+2001,las casas,9
+2002,las casas,49
+2003,las casas,24
+2004,las casas,29
+2005,las casas,33
+2006,las casas,17
+2007,las casas,63
+2008,las casas,12
+2009,las casas,32
+2010,las casas,86
+2011,las casas,26
+2012,las casas,46
+2013,las casas,38
+2014,las casas,34
+2015,las casas,40
+2016,las casas,16
+2017,las casas,54
+2018,las casas,12
+2019,las casas,52
+2003,lauro sodrt,1
+2004,lauro sodrt,1
+2005,lauro sodrt,1
+2006,lauro sodrt,1
+2008,lauro sodrt,2
+2012,lauro sodrt,1
+2013,lauro sodrt,1
+2015,lauro sodrt,2
+2017,lauro sodrt,2
+2018,lauro sodrt,1
+2002,ligeiro,1
+2003,ligeiro,3
+2004,ligeiro,1
+2006,ligeiro,2
+2007,ligeiro,1
+2008,ligeiro,2
+2009,ligeiro,6
+2010,ligeiro,2
+2011,ligeiro,1
+2012,ligeiro,4
+2014,ligeiro,1
+2017,ligeiro,1
+2018,ligeiro,3
+2019,ligeiro,1
+2002,limpo verde,18
+2003,limpo verde,2
+2004,limpo verde,3
+2005,limpo verde,2
+2006,limpo verde,4
+2007,limpo verde,25
+2008,limpo verde,1
+2010,limpo verde,18
+2011,limpo verde,2
+2016,limpo verde,3
+2018,limpo verde,1
+2002,macarrpo,4
+2003,macarrpo,1
+2004,macarrpo,2
+2005,macarrpo,2
+2006,macarrpo,1
+2007,macarrpo,3
+2009,macarrpo,4
+2010,macarrpo,1
+2013,macarrpo,1
+2014,macarrpo,3
+2015,macarrpo,4
+2016,macarrpo,1
+2017,macarrpo,7
+2018,macarrpo,1
+2000,malacacheta,1
+2002,malacacheta,7
+2003,malacacheta,4
+2004,malacacheta,7
+2005,malacacheta,1
+2006,malacacheta,5
+2007,malacacheta,4
+2008,malacacheta,6
+2009,malacacheta,10
+2010,malacacheta,6
+2011,malacacheta,4
+2012,malacacheta,11
+2013,malacacheta,2
+2014,malacacheta,12
+2015,malacacheta,11
+2016,malacacheta,13
+2017,malacacheta,15
+2018,malacacheta,4
+2019,malacacheta,16
+2002,mamoadate,14
+2003,mamoadate,14
+2004,mamoadate,8
+2005,mamoadate,19
+2006,mamoadate,7
+2007,mamoadate,22
+2008,mamoadate,17
+2009,mamoadate,4
+2010,mamoadate,25
+2011,mamoadate,8
+2012,mamoadate,10
+2013,mamoadate,7
+2014,mamoadate,16
+2015,mamoadate,18
+2016,mamoadate,21
+2017,mamoadate,18
+2018,mamoadate,11
+2019,mamoadate,32
+2001,mangueira,1
+2002,mangueira,2
+2003,mangueira,21
+2004,mangueira,1
+2008,mangueira,1
+2010,mangueira,1
+2012,mangueira,1
+2013,mangueira,1
+2014,mangueira,2
+2002,mangueirinha,12
+2003,mangueirinha,19
+2004,mangueirinha,8
+2005,mangueirinha,7
+2006,mangueirinha,23
+2007,mangueirinha,12
+2008,mangueirinha,10
+2009,mangueirinha,8
+2010,mangueirinha,7
+2011,mangueirinha,6
+2012,mangueirinha,7
+2013,mangueirinha,9
+2014,mangueirinha,3
+2015,mangueirinha,12
+2016,mangueirinha,19
+2017,mangueirinha,20
+2018,mangueirinha,6
+2019,mangueirinha,5
+2001,manoapium,6
+2002,manoapium,7
+2003,manoapium,18
+2004,manoapium,23
+2005,manoapium,7
+2006,manoapium,11
+2007,manoapium,16
+2008,manoapium,16
+2009,manoapium,15
+2010,manoapium,11
+2011,manoapium,7
+2012,manoapium,12
+2013,manoapium,20
+2014,manoapium,28
+2015,manoapium,14
+2016,manoapium,31
+2017,manoapium,23
+2018,manoapium,20
+2019,manoapium,32
+2001,manoki,36
+2002,manoki,44
+2003,manoki,216
+2004,manoki,939
+2005,manoki,776
+2006,manoki,142
+2007,manoki,207
+2008,manoki,192
+2009,manoki,109
+2010,manoki,121
+2011,manoki,68
+2012,manoki,77
+2013,manoki,128
+2014,manoki,121
+2015,manoki,374
+2016,manoki,106
+2017,manoki,184
+2018,manoki,30
+2019,manoki,175
+2001,mapari,1
+2015,mapari,1
+2016,mapari,1
+2017,mapari,1
+2018,mapari,1
+2002,mar,6
+2004,mar,8
+2005,mar,6
+2006,mar,3
+2007,mar,1
+2008,mar,1
+2010,mar,3
+2011,mar,2
+2012,mar,2
+2013,mar,4
+2014,mar,5
+2015,mar,1
+2016,mar,2
+2017,mar,1
+2018,mar,2
+2002,maracaxi,3
+2003,maracaxi,4
+2005,maracaxi,1
+2007,maracaxi,3
+2008,maracaxi,1
+2009,maracaxi,1
+2010,maracaxi,2
+2012,maracaxi,1
+2014,maracaxi,1
+2017,maracaxi,1
+2019,maracaxi,1
+2001,maraitß,1
+2002,maraitß,1
+2007,maraitß,1
+2010,maraitß,5
+2011,maraitß,1
+2017,maraitß,1
+2000,maraiwatsede,3
+2001,maraiwatsede,202
+2002,maraiwatsede,1794
+2003,maraiwatsede,333
+2004,maraiwatsede,1857
+2005,maraiwatsede,595
+2006,maraiwatsede,698
+2007,maraiwatsede,1334
+2008,maraiwatsede,561
+2009,maraiwatsede,76
+2010,maraiwatsede,871
+2011,maraiwatsede,219
+2012,maraiwatsede,279
+2013,maraiwatsede,787
+2014,maraiwatsede,704
+2015,maraiwatsede,942
+2016,maraiwatsede,928
+2017,maraiwatsede,807
+2018,maraiwatsede,585
+2019,maraiwatsede,558
+2002,marajai,2
+2006,marajai,4
+2008,marajai,1
+2009,marajai,1
+2010,marajai,1
+2011,marajai,1
+2012,marajai,1
+2014,marajai,1
+2019,marajai,1
+2019,maranduba,1
+2015,marap urubaxi,2
+2001,marechal rondon,95
+2002,marechal rondon,217
+2003,marechal rondon,195
+2004,marechal rondon,328
+2005,marechal rondon,192
+2006,marechal rondon,263
+2007,marechal rondon,341
+2008,marechal rondon,241
+2009,marechal rondon,82
+2010,marechal rondon,460
+2011,marechal rondon,237
+2012,marechal rondon,350
+2013,marechal rondon,215
+2014,marechal rondon,371
+2015,marechal rondon,224
+2016,marechal rondon,258
+2017,marechal rondon,305
+2018,marechal rondon,141
+2019,marechal rondon,390
+2003,marrecas,8
+2004,marrecas,1
+2005,marrecas,4
+2006,marrecas,6
+2007,marrecas,2
+2008,marrecas,1
+2009,marrecas,2
+2010,marrecas,10
+2011,marrecas,9
+2012,marrecas,2
+2013,marrecas,1
+2014,marrecas,1
+2015,marrecas,3
+2016,marrecas,7
+2017,marrecas,2
+2018,marrecas,2
+2019,marrecas,4
+2002,massacara,2
+2005,massacara,2
+2006,massacara,5
+2007,massacara,6
+2008,massacara,5
+2010,massacara,3
+2012,massacara,1
+2014,massacara,1
+2001,massaco,45
+2002,massaco,114
+2003,massaco,115
+2004,massaco,170
+2005,massaco,300
+2006,massaco,64
+2007,massaco,174
+2008,massaco,90
+2009,massaco,56
+2010,massaco,260
+2011,massaco,328
+2012,massaco,91
+2013,massaco,57
+2014,massaco,29
+2015,massaco,158
+2016,massaco,282
+2017,massaco,70
+2018,massaco,101
+2019,massaco,67
+2002,mata medonha,2
+2008,mata medonha,1
+2009,mata medonha,2
+2010,mata medonha,1
+2012,mata medonha,1
+2015,mata medonha,1
+2019,mata medonha,1
+2007,matintin,1
+2008,matintin,1
+2012,matintin,1
+2004,mato preto,2
+2016,mato preto,1
+2002,mawetek,1
+2003,mawetek,5
+2004,mawetek,1
+2005,mawetek,4
+2006,mawetek,4
+2007,mawetek,1
+2008,mawetek,1
+2010,mawetek,2
+2012,mawetek,3
+2014,mawetek,2
+2016,mawetek,10
+2017,mawetek,4
+2018,mawetek,6
+2019,mawetek,5
+2002,maxacali,12
+2003,maxacali,15
+2004,maxacali,22
+2005,maxacali,12
+2006,maxacali,7
+2007,maxacali,25
+2008,maxacali,20
+2009,maxacali,11
+2010,maxacali,8
+2011,maxacali,6
+2012,maxacali,17
+2013,maxacali,14
+2014,maxacali,3
+2015,maxacali,19
+2016,maxacali,8
+2017,maxacali,6
+2018,maxacali,5
+2019,maxacali,10
+2000,menkn,1
+2001,menkn,47
+2002,menkn,361
+2003,menkn,407
+2004,menkn,406
+2005,menkn,473
+2006,menkn,147
+2007,menkn,573
+2008,menkn,60
+2009,menkn,50
+2010,menkn,128
+2011,menkn,81
+2012,menkn,88
+2013,menkn,93
+2014,menkn,61
+2015,menkn,36
+2016,menkn,87
+2017,menkn,82
+2018,menkn,102
+2019,menkn,50
+2001,menkragnoti,5
+2002,menkragnoti,5
+2003,menkragnoti,16
+2004,menkragnoti,30
+2005,menkragnoti,33
+2006,menkragnoti,40
+2007,menkragnoti,66
+2008,menkragnoti,37
+2009,menkragnoti,7
+2010,menkragnoti,215
+2011,menkragnoti,217
+2012,menkragnoti,40
+2013,menkragnoti,19
+2014,menkragnoti,29
+2015,menkragnoti,89
+2016,menkragnoti,28
+2017,menkragnoti,105
+2018,menkragnoti,33
+2019,menkragnoti,74
+2002,meria,1
+2003,meria,1
+2004,meria,1
+2005,meria,2
+2007,meria,1
+2010,meria,2
+2011,meria,2
+2012,meria,2
+2013,meria,3
+2014,meria,1
+2015,meria,4
+2016,meria,1
+2017,meria,1
+2018,meria,1
+2001,merure,132
+2002,merure,101
+2003,merure,202
+2004,merure,224
+2005,merure,215
+2006,merure,137
+2007,merure,395
+2008,merure,133
+2009,merure,108
+2010,merure,394
+2011,merure,187
+2012,merure,253
+2013,merure,79
+2014,merure,291
+2015,merure,86
+2016,merure,330
+2017,merure,109
+2018,merure,243
+2019,merure,225
+2003,migueljosefa,4
+2005,migueljosefa,2
+2006,migueljosefa,3
+2007,migueljosefa,1
+2008,migueljosefa,1
+2009,migueljosefa,3
+2011,migueljosefa,1
+2013,migueljosefa,2
+2014,migueljosefa,2
+2016,migueljosefa,1
+2017,migueljosefa,2
+2018,migueljosefa,1
+2002,miratu,11
+2003,miratu,8
+2004,miratu,4
+2005,miratu,10
+2006,miratu,8
+2007,miratu,13
+2009,miratu,7
+2010,miratu,13
+2011,miratu,8
+2012,miratu,7
+2013,miratu,13
+2014,miratu,7
+2015,miratu,9
+2016,miratu,19
+2017,miratu,9
+2018,miratu,11
+2019,miratu,6
+2004,monte caseros,2
+2005,monte caseros,1
+2006,monte caseros,2
+2007,monte caseros,1
+2009,monte caseros,1
+2011,monte caseros,1
+2012,monte caseros,1
+2013,monte caseros,1
+2017,monte caseros,1
+2004,morro branco,1
+2007,morro branco,1
+2010,morro branco,1
+2012,morro branco,2
+2003,morro da palha,1
+2006,morro da palha,1
+2000,moskow,1
+2001,moskow,2
+2002,moskow,3
+2003,moskow,2
+2004,moskow,4
+2005,moskow,6
+2006,moskow,5
+2007,moskow,6
+2008,moskow,3
+2009,moskow,5
+2010,moskow,6
+2011,moskow,4
+2012,moskow,5
+2013,moskow,4
+2014,moskow,6
+2015,moskow,5
+2016,moskow,5
+2017,moskow,9
+2018,moskow,9
+2019,moskow,8
+2001,mpe maria,2
+2002,mpe maria,17
+2003,mpe maria,15
+2004,mpe maria,7
+2005,mpe maria,15
+2006,mpe maria,8
+2007,mpe maria,11
+2008,mpe maria,1
+2009,mpe maria,2
+2010,mpe maria,9
+2011,mpe maria,5
+2012,mpe maria,5
+2013,mpe maria,10
+2014,mpe maria,6
+2015,mpe maria,3
+2016,mpe maria,4
+2017,mpe maria,4
+2018,mpe maria,2
+2019,mpe maria,4
+2002,mtdio rio negro i,12
+2003,mtdio rio negro i,22
+2004,mtdio rio negro i,10
+2005,mtdio rio negro i,9
+2006,mtdio rio negro i,10
+2007,mtdio rio negro i,26
+2008,mtdio rio negro i,10
+2009,mtdio rio negro i,9
+2010,mtdio rio negro i,13
+2011,mtdio rio negro i,12
+2012,mtdio rio negro i,7
+2013,mtdio rio negro i,10
+2014,mtdio rio negro i,10
+2015,mtdio rio negro i,12
+2016,mtdio rio negro i,12
+2017,mtdio rio negro i,10
+2018,mtdio rio negro i,22
+2019,mtdio rio negro i,8
+2002,mtdio rio negro ii,1
+2003,mtdio rio negro ii,2
+2004,mtdio rio negro ii,3
+2010,mtdio rio negro ii,3
+2012,mtdio rio negro ii,1
+2014,mtdio rio negro ii,3
+2017,mtdio rio negro ii,2
+2018,mtdio rio negro ii,1
+2019,mtdio rio negro ii,1
+2008,mundo verdecachoeirinha,1
+2011,mundo verdecachoeirinha,6
+2012,mundo verdecachoeirinha,1
+2014,mundo verdecachoeirinha,1
+2015,mundo verdecachoeirinha,8
+2017,mundo verdecachoeirinha,2
+2001,munduruku,9
+2002,munduruku,77
+2003,munduruku,128
+2004,munduruku,121
+2005,munduruku,151
+2006,munduruku,175
+2007,munduruku,139
+2008,munduruku,141
+2009,munduruku,114
+2010,munduruku,226
+2011,munduruku,164
+2012,munduruku,248
+2013,munduruku,77
+2014,munduruku,183
+2015,munduruku,188
+2016,munduruku,257
+2017,munduruku,180
+2018,munduruku,98
+2019,munduruku,138
+2002,mundurukutaquara,2
+2004,mundurukutaquara,1
+2006,mundurukutaquara,3
+2007,mundurukutaquara,1
+2008,mundurukutaquara,1
+2013,mundurukutaquara,1
+2014,mundurukutaquara,4
+2015,mundurukutaquara,7
+2016,mundurukutaquara,6
+2017,mundurukutaquara,1
+2018,mundurukutaquara,3
+2002,muriru,1
+2003,muriru,1
+2004,muriru,2
+2005,muriru,1
+2006,muriru,3
+2007,muriru,1
+2009,muriru,1
+2010,muriru,3
+2011,muriru,1
+2012,muriru,1
+2015,muriru,3
+2016,muriru,2
+2017,muriru,2
+2019,muriru,1
+2001,murutingatracaja,2
+2002,murutingatracaja,11
+2003,murutingatracaja,9
+2004,murutingatracaja,4
+2005,murutingatracaja,8
+2006,murutingatracaja,8
+2007,murutingatracaja,8
+2008,murutingatracaja,5
+2009,murutingatracaja,32
+2010,murutingatracaja,9
+2011,murutingatracaja,7
+2012,murutingatracaja,7
+2013,murutingatracaja,10
+2014,murutingatracaja,14
+2015,murutingatracaja,17
+2016,murutingatracaja,3
+2017,murutingatracaja,9
+2018,murutingatracaja,4
+2019,murutingatracaja,4
+2000,nambikwara,3
+2001,nambikwara,35
+2002,nambikwara,97
+2003,nambikwara,152
+2004,nambikwara,249
+2005,nambikwara,176
+2006,nambikwara,203
+2007,nambikwara,659
+2008,nambikwara,112
+2009,nambikwara,88
+2010,nambikwara,779
+2011,nambikwara,172
+2012,nambikwara,242
+2013,nambikwara,172
+2014,nambikwara,73
+2015,nambikwara,176
+2016,nambikwara,131
+2017,nambikwara,108
+2018,nambikwara,67
+2019,nambikwara,143
+2001,nhamundßmapuera,16
+2002,nhamundßmapuera,29
+2003,nhamundßmapuera,31
+2004,nhamundßmapuera,28
+2005,nhamundßmapuera,19
+2006,nhamundßmapuera,29
+2007,nhamundßmapuera,46
+2008,nhamundßmapuera,27
+2009,nhamundßmapuera,55
+2010,nhamundßmapuera,35
+2011,nhamundßmapuera,7
+2012,nhamundßmapuera,22
+2013,nhamundßmapuera,21
+2014,nhamundßmapuera,38
+2015,nhamundßmapuera,53
+2016,nhamundßmapuera,37
+2017,nhamundßmapuera,17
+2018,nhamundßmapuera,30
+2019,nhamundßmapuera,8
+2001,nioaque,1
+2004,nioaque,1
+2005,nioaque,11
+2007,nioaque,8
+2008,nioaque,2
+2009,nioaque,2
+2012,nioaque,3
+2014,nioaque,3
+2016,nioaque,2
+2017,nioaque,5
+2018,nioaque,3
+2000,nonindigenous,15196
+2001,nonindigenous,136620
+2002,nonindigenous,504657
+2003,nonindigenous,529859
+2004,nonindigenous,611052
+2005,nonindigenous,605233
+2006,nonindigenous,388794
+2007,nonindigenous,661408
+2008,nonindigenous,336232
+2009,nonindigenous,239125
+2010,nonindigenous,537672
+2011,nonindigenous,255410
+2012,nonindigenous,371911
+2013,nonindigenous,206737
+2014,nonindigenous,290011
+2015,nonindigenous,393629
+2016,nonindigenous,307558
+2017,nonindigenous,357322
+2018,nonindigenous,218250
+2019,nonindigenous,246781
+2000,nonoai,1
+2002,nonoai,34
+2003,nonoai,29
+2004,nonoai,34
+2005,nonoai,27
+2006,nonoai,29
+2007,nonoai,36
+2008,nonoai,20
+2009,nonoai,30
+2010,nonoai,20
+2011,nonoai,8
+2012,nonoai,20
+2013,nonoai,16
+2014,nonoai,9
+2015,nonoai,2
+2016,nonoai,23
+2017,nonoai,8
+2018,nonoai,8
+2019,nonoai,11
+2002,nonoairio da vßrzea,1
+2005,nonoairio da vßrzea,1
+2010,nonoairio da vßrzea,3
+2012,nonoairio da vßrzea,1
+2013,nonoairio da vßrzea,1
+2014,nonoairio da vßrzea,1
+2016,nonoairio da vßrzea,2
+2018,nonoairio da vßrzea,1
+2005,nova esperanta do rio jandiatuba,2
+2014,nova esperanta do rio jandiatuba,1
+2003,nova jacundß,1
+2002,nove de janeiro,1
+2003,nove de janeiro,2
+2004,nove de janeiro,2
+2005,nove de janeiro,5
+2006,nove de janeiro,5
+2007,nove de janeiro,8
+2009,nove de janeiro,4
+2010,nove de janeiro,45
+2011,nove de janeiro,7
+2012,nove de janeiro,5
+2015,nove de janeiro,51
+2016,nove de janeiro,4
+2017,nove de janeiro,5
+2018,nove de janeiro,1
+2019,nove de janeiro,4
+2002,nukini,4
+2003,nukini,14
+2005,nukini,17
+2006,nukini,8
+2007,nukini,12
+2008,nukini,9
+2009,nukini,1
+2010,nukini,16
+2011,nukini,2
+2012,nukini,15
+2013,nukini,12
+2014,nukini,6
+2015,nukini,4
+2016,nukini,9
+2017,nukini,5
+2018,nukini,14
+2019,nukini,3
+2007,ofaytxavante,2
+2001,ouro,2
+2002,ouro,3
+2003,ouro,2
+2004,ouro,5
+2005,ouro,3
+2006,ouro,15
+2007,ouro,1
+2008,ouro,1
+2009,ouro,3
+2010,ouro,2
+2011,ouro,2
+2012,ouro,5
+2013,ouro,2
+2014,ouro,9
+2015,ouro,9
+2016,ouro,5
+2017,ouro,8
+2018,ouro,3
+2019,ouro,13
+2001,pacaas novas,4
+2002,pacaas novas,14
+2003,pacaas novas,17
+2004,pacaas novas,23
+2005,pacaas novas,45
+2006,pacaas novas,35
+2007,pacaas novas,53
+2008,pacaas novas,36
+2009,pacaas novas,47
+2010,pacaas novas,99
+2011,pacaas novas,64
+2012,pacaas novas,85
+2013,pacaas novas,48
+2014,pacaas novas,38
+2015,pacaas novas,78
+2016,pacaas novas,56
+2017,pacaas novas,96
+2018,pacaas novas,52
+2019,pacaas novas,88
+2004,padre,2
+2006,padre,1
+2010,padre,3
+2011,padre,1
+2014,padre,1
+2002,palmas,7
+2003,palmas,5
+2004,palmas,15
+2005,palmas,1
+2006,palmas,29
+2007,palmas,4
+2008,palmas,4
+2009,palmas,5
+2010,palmas,2
+2011,palmas,2
+2012,palmas,3
+2013,palmas,2
+2014,palmas,1
+2015,palmas,1
+2016,palmas,3
+2017,palmas,4
+2018,palmas,2
+2019,palmas,3
+2003,panambi lagoa rica,1
+2004,panambi lagoa rica,5
+2005,panambi lagoa rica,1
+2007,panambi lagoa rica,2
+2008,panambi lagoa rica,2
+2009,panambi lagoa rica,1
+2011,panambi lagoa rica,3
+2013,panambi lagoa rica,4
+2015,panambi lagoa rica,3
+2016,panambi lagoa rica,5
+2018,panambi lagoa rica,1
+2019,panambi lagoa rica,2
+2004,panambizinho,3
+2005,panambizinho,1
+2006,panambizinho,6
+2007,panambizinho,4
+2008,panambizinho,6
+2009,panambizinho,4
+2010,panambizinho,2
+2011,panambizinho,1
+2012,panambizinho,3
+2014,panambizinho,1
+2015,panambizinho,5
+2016,panambizinho,2
+2017,panambizinho,2
+2018,panambizinho,1
+2001,panarß,74
+2002,panarß,30
+2003,panarß,42
+2004,panarß,16
+2005,panarß,30
+2006,panarß,13
+2007,panarß,44
+2008,panarß,33
+2009,panarß,9
+2010,panarß,47
+2011,panarß,7
+2012,panarß,20
+2013,panarß,11
+2014,panarß,11
+2015,panarß,7
+2016,panarß,20
+2017,panarß,56
+2018,panarß,15
+2019,panarß,13
+2017,pankarart,1
+2011,pankararu,1
+2002,paquitamba,2
+2003,paquitamba,2
+2004,paquitamba,9
+2006,paquitamba,8
+2007,paquitamba,1
+2009,paquitamba,1
+2010,paquitamba,2
+2011,paquitamba,6
+2013,paquitamba,1
+2014,paquitamba,1
+2016,paquitamba,2
+2017,paquitamba,4
+2018,paquitamba,5
+2001,parabubure,344
+2002,parabubure,627
+2003,parabubure,578
+2004,parabubure,778
+2005,parabubure,666
+2006,parabubure,618
+2007,parabubure,1146
+2008,parabubure,709
+2009,parabubure,258
+2010,parabubure,1156
+2011,parabubure,928
+2012,parabubure,852
+2013,parabubure,596
+2014,parabubure,750
+2015,parabubure,599
+2016,parabubure,817
+2017,parabubure,876
+2018,parabubure,754
+2019,parabubure,804
+2009,paracuhuba,2
+2011,paracuhuba,1
+2013,paracuhuba,1
+2014,paracuhuba,4
+2015,paracuhuba,1
+2016,paracuhuba,3
+2017,paracuhuba,2
+2018,paracuhuba,4
+2019,paracuhuba,1
+2001,parakanp,1
+2002,parakanp,25
+2003,parakanp,9
+2004,parakanp,19
+2005,parakanp,28
+2006,parakanp,17
+2007,parakanp,30
+2008,parakanp,22
+2009,parakanp,24
+2010,parakanp,19
+2011,parakanp,11
+2012,parakanp,6
+2013,parakanp,14
+2014,parakanp,9
+2015,parakanp,11
+2016,parakanp,13
+2017,parakanp,9
+2018,parakanp,6
+2019,parakanp,1
+2003,parana do boa boa,1
+2004,parana do boa boa,1
+2017,parana do boa boa,1
+2019,parana do boa boa,1
+2001,paranß do arauat,1
+2005,paranß do arauat,6
+2007,paranß do arauat,1
+2009,paranß do arauat,18
+2012,paranß do arauat,15
+2014,paranß do arauat,6
+2015,paranß do arauat,12
+2016,paranß do arauat,5
+2000,paresi,2
+2001,paresi,295
+2002,paresi,379
+2003,paresi,557
+2004,paresi,619
+2005,paresi,835
+2006,paresi,747
+2007,paresi,852
+2008,paresi,456
+2009,paresi,432
+2010,paresi,1150
+2011,paresi,408
+2012,paresi,742
+2013,paresi,434
+2014,paresi,559
+2015,paresi,424
+2016,paresi,528
+2017,paresi,435
+2018,paresi,323
+2019,paresi,509
+2000,parque do araguaia,5
+2001,parque do araguaia,1798
+2002,parque do araguaia,2020
+2003,parque do araguaia,1997
+2004,parque do araguaia,1498
+2005,parque do araguaia,2352
+2006,parque do araguaia,1673
+2007,parque do araguaia,4898
+2008,parque do araguaia,2475
+2009,parque do araguaia,437
+2010,parque do araguaia,7694
+2011,parque do araguaia,1846
+2012,parque do araguaia,4490
+2013,parque do araguaia,1013
+2014,parque do araguaia,2235
+2015,parque do araguaia,1852
+2016,parque do araguaia,3360
+2017,parque do araguaia,3632
+2018,parque do araguaia,1319
+2019,parque do araguaia,2559
+2001,parque do aripuanp,3
+2002,parque do aripuanp,27
+2003,parque do aripuanp,32
+2004,parque do aripuanp,64
+2005,parque do aripuanp,53
+2006,parque do aripuanp,43
+2007,parque do aripuanp,37
+2008,parque do aripuanp,49
+2009,parque do aripuanp,27
+2010,parque do aripuanp,156
+2011,parque do aripuanp,53
+2012,parque do aripuanp,46
+2013,parque do aripuanp,31
+2014,parque do aripuanp,24
+2015,parque do aripuanp,26
+2016,parque do aripuanp,28
+2017,parque do aripuanp,33
+2018,parque do aripuanp,32
+2019,parque do aripuanp,34
+2000,parque do tumucumaque,84
+2001,parque do tumucumaque,320
+2002,parque do tumucumaque,791
+2003,parque do tumucumaque,238
+2004,parque do tumucumaque,1283
+2005,parque do tumucumaque,350
+2006,parque do tumucumaque,544
+2007,parque do tumucumaque,306
+2008,parque do tumucumaque,786
+2009,parque do tumucumaque,895
+2010,parque do tumucumaque,241
+2011,parque do tumucumaque,645
+2012,parque do tumucumaque,718
+2013,parque do tumucumaque,280
+2014,parque do tumucumaque,982
+2015,parque do tumucumaque,586
+2016,parque do tumucumaque,396
+2017,parque do tumucumaque,815
+2018,parque do tumucumaque,516
+2019,parque do tumucumaque,309
+2001,parque do xingu,238
+2002,parque do xingu,408
+2003,parque do xingu,429
+2004,parque do xingu,418
+2005,parque do xingu,471
+2006,parque do xingu,494
+2007,parque do xingu,1078
+2008,parque do xingu,306
+2009,parque do xingu,168
+2010,parque do xingu,2094
+2011,parque do xingu,791
+2012,parque do xingu,682
+2013,parque do xingu,275
+2014,parque do xingu,779
+2015,parque do xingu,706
+2016,parque do xingu,1805
+2017,parque do xingu,1052
+2018,parque do xingu,344
+2019,parque do xingu,903
+2008,passo grande do rio forquilha,1
+2009,passo grande do rio forquilha,1
+2001,patauß,2
+2003,patauß,2
+2004,patauß,1
+2005,patauß,1
+2006,patauß,2
+2008,patauß,1
+2009,patauß,3
+2015,patauß,1
+2016,patauß,1
+2001,paukalirajausu,6
+2002,paukalirajausu,19
+2003,paukalirajausu,25
+2004,paukalirajausu,10
+2005,paukalirajausu,26
+2006,paukalirajausu,15
+2007,paukalirajausu,36
+2008,paukalirajausu,3
+2009,paukalirajausu,14
+2010,paukalirajausu,76
+2011,paukalirajausu,5
+2012,paukalirajausu,2
+2013,paukalirajausu,9
+2014,paukalirajausu,7
+2015,paukalirajausu,39
+2016,paukalirajausu,38
+2017,paukalirajausu,30
+2018,paukalirajausu,12
+2019,paukalirajausu,47
+2006,paumari do cuniua,1
+2007,paumari do cuniua,1
+2010,paumari do cuniua,3
+2019,paumari do cuniua,1
+2005,paumari do lago manissup,1
+2007,paumari do lago manissup,1
+2002,paumari do lago marahp,4
+2003,paumari do lago marahp,2
+2004,paumari do lago marahp,1
+2005,paumari do lago marahp,1
+2007,paumari do lago marahp,2
+2008,paumari do lago marahp,3
+2009,paumari do lago marahp,5
+2010,paumari do lago marahp,10
+2011,paumari do lago marahp,1
+2012,paumari do lago marahp,5
+2013,paumari do lago marahp,9
+2014,paumari do lago marahp,6
+2015,paumari do lago marahp,4
+2016,paumari do lago marahp,4
+2017,paumari do lago marahp,4
+2018,paumari do lago marahp,2
+2019,paumari do lago marahp,2
+2006,paumari do lago paricß,2
+2007,paumari do lago paricß,1
+2009,paumari do lago paricß,3
+2012,paumari do lago paricß,2
+2013,paumari do lago paricß,1
+2015,paumari do lago paricß,10
+2016,paumari do lago paricß,1
+2017,paumari do lago paricß,6
+2003,paumari do rio ituxi,3
+2004,paumari do rio ituxi,3
+2005,paumari do rio ituxi,2
+2007,paumari do rio ituxi,2
+2010,paumari do rio ituxi,4
+2011,paumari do rio ituxi,1
+2013,paumari do rio ituxi,2
+2015,paumari do rio ituxi,2
+2016,paumari do rio ituxi,5
+2017,paumari do rio ituxi,3
+2018,paumari do rio ituxi,2
+2002,peneritacaquiri,6
+2003,peneritacaquiri,3
+2004,peneritacaquiri,7
+2005,peneritacaquiri,4
+2006,peneritacaquiri,4
+2007,peneritacaquiri,5
+2009,peneritacaquiri,6
+2010,peneritacaquiri,9
+2011,peneritacaquiri,3
+2012,peneritacaquiri,1
+2013,peneritacaquiri,5
+2014,peneritacaquiri,5
+2015,peneritacaquiri,2
+2016,peneritacaquiri,24
+2017,peneritacaquiri,5
+2018,peneritacaquiri,60
+2019,peneritacaquiri,37
+2002,pequizal,1
+2004,pequizal,37
+2007,pequizal,4
+2008,pequizal,12
+2010,pequizal,24
+2013,pequizal,3
+2015,pequizal,2
+2016,pequizal,1
+2017,pequizal,3
+2018,pequizal,1
+2001,pequizal do naruvtu,5
+2002,pequizal do naruvtu,1
+2003,pequizal do naruvtu,9
+2004,pequizal do naruvtu,141
+2005,pequizal do naruvtu,151
+2006,pequizal do naruvtu,18
+2007,pequizal do naruvtu,13
+2008,pequizal do naruvtu,10
+2009,pequizal do naruvtu,30
+2010,pequizal do naruvtu,50
+2011,pequizal do naruvtu,18
+2012,pequizal do naruvtu,10
+2013,pequizal do naruvtu,9
+2014,pequizal do naruvtu,5
+2015,pequizal do naruvtu,40
+2016,pequizal do naruvtu,35
+2017,pequizal do naruvtu,83
+2018,pequizal do naruvtu,4
+2019,pequizal do naruvtu,36
+2002,perigara,28
+2003,perigara,1
+2004,perigara,49
+2005,perigara,43
+2006,perigara,1
+2008,perigara,57
+2010,perigara,2
+2011,perigara,7
+2012,perigara,11
+2013,perigara,46
+2015,perigara,5
+2017,perigara,46
+2005,pilad rebuß,1
+2016,pilad rebuß,1
+2000,pimentel barbosa,1
+2001,pimentel barbosa,554
+2002,pimentel barbosa,674
+2003,pimentel barbosa,780
+2004,pimentel barbosa,535
+2005,pimentel barbosa,707
+2006,pimentel barbosa,475
+2007,pimentel barbosa,1364
+2008,pimentel barbosa,482
+2009,pimentel barbosa,380
+2010,pimentel barbosa,1408
+2011,pimentel barbosa,434
+2012,pimentel barbosa,693
+2013,pimentel barbosa,401
+2014,pimentel barbosa,868
+2015,pimentel barbosa,666
+2016,pimentel barbosa,916
+2017,pimentel barbosa,839
+2018,pimentel barbosa,448
+2019,pimentel barbosa,1045
+2002,pinatuba,1
+2003,pinatuba,1
+2004,pinatuba,1
+2005,pinatuba,1
+2006,pinatuba,4
+2007,pinatuba,4
+2008,pinatuba,1
+2011,pinatuba,1
+2012,pinatuba,2
+2013,pinatuba,4
+2014,pinatuba,3
+2015,pinatuba,1
+2016,pinatuba,5
+2017,pinatuba,15
+2018,pinatuba,1
+2019,pinatuba,2
+2009,pindoty,2
+2013,pindoty,3
+2016,pindoty,1
+2011,pinhal,1
+2003,pinhalzinho,1
+2004,pinhalzinho,2
+2006,pinhalzinho,1
+2012,pinhalzinho,1
+2013,pinhalzinho,1
+2002,pirahp,2
+2003,pirahp,3
+2004,pirahp,6
+2005,pirahp,13
+2006,pirahp,13
+2007,pirahp,19
+2008,pirahp,11
+2009,pirahp,5
+2010,pirahp,18
+2011,pirahp,14
+2012,pirahp,43
+2013,pirahp,5
+2014,pirahp,38
+2015,pirahp,30
+2016,pirahp,26
+2017,pirahp,30
+2018,pirahp,15
+2019,pirahp,23
+2006,pirai,1
+2017,pirai,1
+2001,pirajuf,4
+2002,pirajuf,1
+2003,pirajuf,4
+2004,pirajuf,6
+2005,pirajuf,4
+2006,pirajuf,1
+2007,pirajuf,3
+2008,pirajuf,1
+2009,pirajuf,1
+2010,pirajuf,1
+2011,pirajuf,1
+2012,pirajuf,2
+2013,pirajuf,1
+2014,pirajuf,4
+2016,pirajuf,2
+2017,pirajuf,3
+2018,pirajuf,1
+2019,pirajuf,3
+2001,pirakua,3
+2002,pirakua,5
+2003,pirakua,4
+2004,pirakua,3
+2005,pirakua,4
+2006,pirakua,2
+2007,pirakua,15
+2008,pirakua,4
+2010,pirakua,4
+2011,pirakua,4
+2012,pirakua,7
+2013,pirakua,4
+2014,pirakua,1
+2016,pirakua,3
+2017,pirakua,2
+2018,pirakua,1
+2019,pirakua,3
+2000,pirineus de souza,4
+2001,pirineus de souza,4
+2002,pirineus de souza,16
+2003,pirineus de souza,18
+2004,pirineus de souza,24
+2005,pirineus de souza,29
+2006,pirineus de souza,19
+2007,pirineus de souza,56
+2008,pirineus de souza,4
+2009,pirineus de souza,10
+2010,pirineus de souza,97
+2011,pirineus de souza,7
+2012,pirineus de souza,13
+2013,pirineus de souza,54
+2014,pirineus de souza,10
+2015,pirineus de souza,42
+2016,pirineus de souza,8
+2017,pirineus de souza,26
+2018,pirineus de souza,10
+2019,pirineus de souza,15
+2002,piripkura restritpo de uso,8
+2003,piripkura restritpo de uso,7
+2004,piripkura restritpo de uso,142
+2005,piripkura restritpo de uso,34
+2006,piripkura restritpo de uso,199
+2007,piripkura restritpo de uso,96
+2008,piripkura restritpo de uso,62
+2010,piripkura restritpo de uso,8
+2011,piripkura restritpo de uso,11
+2012,piripkura restritpo de uso,7
+2013,piripkura restritpo de uso,26
+2014,piripkura restritpo de uso,32
+2015,piripkura restritpo de uso,14
+2016,piripkura restritpo de uso,35
+2017,piripkura restritpo de uso,29
+2018,piripkura restritpo de uso,24
+2019,piripkura restritpo de uso,47
+2003,pirititi,2
+2004,pirititi,2
+2006,pirititi,1
+2007,pirititi,1
+2008,pirititi,1
+2009,pirititi,1
+2011,pirititi,1
+2012,pirititi,1
+2013,pirititi,2
+2014,pirititi,9
+2015,pirititi,2
+2016,pirititi,4
+2017,pirititi,6
+2019,pirititi,2
+2002,pitaguary,1
+2003,pitaguary,5
+2004,pitaguary,2
+2005,pitaguary,1
+2006,pitaguary,1
+2007,pitaguary,1
+2010,pitaguary,3
+2011,pitaguary,1
+2016,pitaguary,2
+2001,pium,1
+2002,pium,2
+2003,pium,1
+2004,pium,5
+2005,pium,1
+2006,pium,3
+2007,pium,1
+2008,pium,1
+2009,pium,3
+2010,pium,1
+2013,pium,2
+2016,pium,1
+2017,pium,1
+2018,pium,1
+2019,pium,1
+2002,ponciano,6
+2003,ponciano,1
+2005,ponciano,5
+2006,ponciano,1
+2007,ponciano,4
+2009,ponciano,5
+2011,ponciano,1
+2012,ponciano,3
+2013,ponciano,3
+2014,ponciano,5
+2015,ponciano,8
+2016,ponciano,2
+2017,ponciano,2
+2018,ponciano,2
+2019,ponciano,2
+2001,ponta da serra,1
+2002,ponta da serra,8
+2003,ponta da serra,2
+2004,ponta da serra,8
+2005,ponta da serra,7
+2006,ponta da serra,2
+2007,ponta da serra,3
+2008,ponta da serra,4
+2009,ponta da serra,8
+2010,ponta da serra,1
+2011,ponta da serra,2
+2012,ponta da serra,5
+2013,ponta da serra,4
+2014,ponta da serra,1
+2015,ponta da serra,6
+2016,ponta da serra,4
+2017,ponta da serra,4
+2018,ponta da serra,2
+2019,ponta da serra,2
+2002,ponte de pedra,3
+2003,ponte de pedra,3
+2004,ponte de pedra,26
+2005,ponte de pedra,55
+2006,ponte de pedra,30
+2007,ponte de pedra,54
+2009,ponte de pedra,1
+2010,ponte de pedra,5
+2012,ponte de pedra,2
+2015,ponte de pedra,6
+2017,ponte de pedra,21
+2001,porquinhos,33
+2002,porquinhos,101
+2003,porquinhos,128
+2004,porquinhos,64
+2005,porquinhos,90
+2006,porquinhos,55
+2007,porquinhos,245
+2008,porquinhos,49
+2009,porquinhos,66
+2010,porquinhos,219
+2011,porquinhos,76
+2012,porquinhos,238
+2013,porquinhos,69
+2014,porquinhos,243
+2015,porquinhos,218
+2016,porquinhos,101
+2017,porquinhos,322
+2018,porquinhos,35
+2019,porquinhos,69
+2000,porquinhos dos canelaappnjekra,1
+2001,porquinhos dos canelaappnjekra,116
+2002,porquinhos dos canelaappnjekra,237
+2003,porquinhos dos canelaappnjekra,327
+2004,porquinhos dos canelaappnjekra,238
+2005,porquinhos dos canelaappnjekra,374
+2006,porquinhos dos canelaappnjekra,296
+2007,porquinhos dos canelaappnjekra,654
+2008,porquinhos dos canelaappnjekra,278
+2009,porquinhos dos canelaappnjekra,235
+2010,porquinhos dos canelaappnjekra,629
+2011,porquinhos dos canelaappnjekra,401
+2012,porquinhos dos canelaappnjekra,616
+2013,porquinhos dos canelaappnjekra,345
+2014,porquinhos dos canelaappnjekra,374
+2015,porquinhos dos canelaappnjekra,495
+2016,porquinhos dos canelaappnjekra,262
+2017,porquinhos dos canelaappnjekra,653
+2018,porquinhos dos canelaappnjekra,313
+2019,porquinhos dos canelaappnjekra,356
+2001,portal do encantado,30
+2002,portal do encantado,51
+2003,portal do encantado,24
+2004,portal do encantado,49
+2005,portal do encantado,17
+2006,portal do encantado,95
+2007,portal do encantado,53
+2008,portal do encantado,103
+2009,portal do encantado,26
+2010,portal do encantado,149
+2011,portal do encantado,5
+2012,portal do encantado,42
+2013,portal do encantado,23
+2014,portal do encantado,10
+2015,portal do encantado,102
+2016,portal do encantado,11
+2017,portal do encantado,13
+2018,portal do encantado,25
+2019,portal do encantado,116
+2001,porto lindo,1
+2003,porto lindo,1
+2004,porto lindo,1
+2005,porto lindo,1
+2006,porto lindo,5
+2007,porto lindo,1
+2008,porto lindo,1
+2010,porto lindo,3
+2013,porto lindo,1
+2015,porto lindo,1
+2017,porto lindo,1
+2018,porto lindo,2
+2000,potiguara,2
+2001,potiguara,6
+2002,potiguara,9
+2003,potiguara,15
+2004,potiguara,12
+2005,potiguara,30
+2006,potiguara,20
+2007,potiguara,16
+2008,potiguara,19
+2009,potiguara,22
+2010,potiguara,21
+2011,potiguara,11
+2012,potiguara,29
+2013,potiguara,1
+2014,potiguara,1
+2015,potiguara,10
+2016,potiguara,16
+2017,potiguara,3
+2018,potiguara,29
+2019,potiguara,6
+2000,potiguara de montemor,3
+2001,potiguara de montemor,3
+2002,potiguara de montemor,2
+2003,potiguara de montemor,4
+2004,potiguara de montemor,9
+2005,potiguara de montemor,2
+2006,potiguara de montemor,2
+2007,potiguara de montemor,1
+2008,potiguara de montemor,1
+2009,potiguara de montemor,4
+2010,potiguara de montemor,8
+2011,potiguara de montemor,5
+2012,potiguara de montemor,3
+2014,potiguara de montemor,1
+2015,potiguara de montemor,7
+2016,potiguara de montemor,2
+2017,potiguara de montemor,2
+2018,potiguara de montemor,2
+2004,potrero guatu,2
+2008,potrero guatu,1
+2009,potrero guatu,3
+2010,potrero guatu,1
+2011,potrero guatu,1
+2012,potrero guatu,3
+2015,potrero guatu,1
+2016,potrero guatu,1
+2002,poyanawa,11
+2003,poyanawa,7
+2004,poyanawa,1
+2005,poyanawa,8
+2006,poyanawa,7
+2007,poyanawa,12
+2008,poyanawa,8
+2009,poyanawa,5
+2010,poyanawa,4
+2011,poyanawa,2
+2012,poyanawa,7
+2013,poyanawa,9
+2014,poyanawa,1
+2015,poyanawa,4
+2016,poyanawa,12
+2017,poyanawa,10
+2018,poyanawa,1
+2019,poyanawa,3
+2002,queimadas,3
+2003,queimadas,12
+2004,queimadas,5
+2005,queimadas,3
+2006,queimadas,13
+2007,queimadas,5
+2008,queimadas,1
+2010,queimadas,3
+2011,queimadas,3
+2012,queimadas,1
+2013,queimadas,1
+2014,queimadas,3
+2015,queimadas,2
+2016,queimadas,5
+2017,queimadas,2
+2018,queimadas,2
+2019,queimadas,7
+2015,quixaba fazenda pedrosa,1
+2001,raimundpo,2
+2003,raimundpo,8
+2008,raimundpo,1
+2010,raimundpo,2
+2012,raimundpo,3
+2013,raimundpo,4
+2014,raimundpo,3
+2015,raimundpo,1
+2016,raimundpo,8
+2018,raimundpo,6
+2019,raimundpo,6
+2002,rancho jacart,2
+2004,rancho jacart,3
+2006,rancho jacart,1
+2008,rancho jacart,1
+2012,rancho jacart,1
+2013,rancho jacart,1
+2017,rancho jacart,1
+2019,rancho jacart,4
+2000,raposa serra do sol,75
+2001,raposa serra do sol,376
+2002,raposa serra do sol,631
+2003,raposa serra do sol,471
+2004,raposa serra do sol,871
+2005,raposa serra do sol,519
+2006,raposa serra do sol,723
+2007,raposa serra do sol,688
+2008,raposa serra do sol,587
+2009,raposa serra do sol,733
+2010,raposa serra do sol,350
+2011,raposa serra do sol,796
+2012,raposa serra do sol,626
+2013,raposa serra do sol,571
+2014,raposa serra do sol,641
+2015,raposa serra do sol,619
+2016,raposa serra do sol,412
+2017,raposa serra do sol,629
+2018,raposa serra do sol,581
+2019,raposa serra do sol,642
+2002,recreiospo ftlix,1
+2005,recreiospo ftlix,1
+2006,recreiospo ftlix,1
+2008,recreiospo ftlix,1
+2009,recreiospo ftlix,1
+2011,recreiospo ftlix,1
+2012,recreiospo ftlix,1
+2013,recreiospo ftlix,1
+2015,recreiospo ftlix,1
+2003,rio areia,1
+2004,rio areia,1
+2006,rio areia,1
+2016,rio areia,1
+2002,rio biß,2
+2003,rio biß,2
+2005,rio biß,3
+2006,rio biß,1
+2007,rio biß,4
+2009,rio biß,2
+2010,rio biß,14
+2011,rio biß,13
+2012,rio biß,2
+2013,rio biß,8
+2014,rio biß,1
+2015,rio biß,1
+2016,rio biß,11
+2017,rio biß,18
+2018,rio biß,1
+2019,rio biß,4
+2001,rio branco,3
+2002,rio branco,35
+2003,rio branco,51
+2004,rio branco,48
+2005,rio branco,47
+2006,rio branco,31
+2007,rio branco,59
+2008,rio branco,22
+2009,rio branco,9
+2010,rio branco,44
+2011,rio branco,17
+2012,rio branco,15
+2013,rio branco,18
+2014,rio branco,14
+2015,rio branco,41
+2016,rio branco,47
+2017,rio branco,41
+2018,rio branco,25
+2019,rio branco,26
+2002,rio das cobras,4
+2003,rio das cobras,18
+2004,rio das cobras,7
+2005,rio das cobras,12
+2006,rio das cobras,10
+2007,rio das cobras,44
+2008,rio das cobras,4
+2009,rio das cobras,10
+2010,rio das cobras,22
+2011,rio das cobras,6
+2012,rio das cobras,12
+2013,rio das cobras,14
+2014,rio das cobras,3
+2015,rio das cobras,4
+2016,rio das cobras,20
+2017,rio das cobras,25
+2018,rio das cobras,4
+2019,rio das cobras,28
+2003,rio dos pardos,1
+2008,rio dos pardos,1
+2017,rio dos pardos,2
+2001,rio formoso,9
+2002,rio formoso,26
+2003,rio formoso,7
+2004,rio formoso,60
+2005,rio formoso,14
+2006,rio formoso,24
+2007,rio formoso,11
+2008,rio formoso,10
+2009,rio formoso,6
+2010,rio formoso,56
+2011,rio formoso,3
+2012,rio formoso,5
+2013,rio formoso,33
+2014,rio formoso,4
+2015,rio formoso,1
+2016,rio formoso,21
+2017,rio formoso,5
+2018,rio formoso,7
+2019,rio formoso,12
+2002,rio gregrio,8
+2003,rio gregrio,9
+2004,rio gregrio,6
+2005,rio gregrio,8
+2006,rio gregrio,9
+2007,rio gregrio,3
+2008,rio gregrio,8
+2009,rio gregrio,7
+2010,rio gregrio,8
+2011,rio gregrio,5
+2012,rio gregrio,10
+2013,rio gregrio,1
+2015,rio gregrio,5
+2016,rio gregrio,12
+2017,rio gregrio,9
+2018,rio gregrio,10
+2019,rio gregrio,11
+2001,rio guaport,3
+2002,rio guaport,9
+2003,rio guaport,20
+2004,rio guaport,30
+2005,rio guaport,19
+2006,rio guaport,13
+2007,rio guaport,16
+2008,rio guaport,6
+2009,rio guaport,9
+2010,rio guaport,31
+2011,rio guaport,11
+2012,rio guaport,11
+2013,rio guaport,8
+2014,rio guaport,23
+2015,rio guaport,13
+2016,rio guaport,25
+2017,rio guaport,5
+2018,rio guaport,7
+2019,rio guaport,21
+2002,rio jumas,2
+2004,rio jumas,3
+2006,rio jumas,3
+2007,rio jumas,2
+2008,rio jumas,1
+2009,rio jumas,4
+2010,rio jumas,1
+2012,rio jumas,41
+2014,rio jumas,4
+2015,rio jumas,69
+2016,rio jumas,6
+2018,rio jumas,1
+2019,rio jumas,1
+2002,rio manicort,3
+2003,rio manicort,2
+2005,rio manicort,1
+2007,rio manicort,1
+2010,rio manicort,1
+2013,rio manicort,2
+2014,rio manicort,2
+2015,rio manicort,3
+2016,rio manicort,2
+2019,rio manicort,1
+2001,rio mequens,1
+2002,rio mequens,9
+2003,rio mequens,13
+2004,rio mequens,17
+2005,rio mequens,26
+2006,rio mequens,10
+2007,rio mequens,5
+2008,rio mequens,4
+2009,rio mequens,1
+2010,rio mequens,11
+2012,rio mequens,1
+2013,rio mequens,2
+2015,rio mequens,2
+2016,rio mequens,3
+2017,rio mequens,4
+2018,rio mequens,2
+2019,rio mequens,1
+2000,rio negro ocaia,1
+2001,rio negro ocaia,2
+2002,rio negro ocaia,16
+2003,rio negro ocaia,29
+2004,rio negro ocaia,22
+2005,rio negro ocaia,15
+2006,rio negro ocaia,22
+2007,rio negro ocaia,21
+2008,rio negro ocaia,32
+2009,rio negro ocaia,24
+2010,rio negro ocaia,37
+2011,rio negro ocaia,30
+2012,rio negro ocaia,16
+2013,rio negro ocaia,6
+2014,rio negro ocaia,18
+2015,rio negro ocaia,7
+2016,rio negro ocaia,25
+2017,rio negro ocaia,25
+2018,rio negro ocaia,13
+2019,rio negro ocaia,19
+2002,rio omero,7
+2003,rio omero,13
+2004,rio omero,5
+2005,rio omero,16
+2006,rio omero,1
+2007,rio omero,4
+2009,rio omero,1
+2010,rio omero,1
+2011,rio omero,2
+2014,rio omero,1
+2015,rio omero,1
+2016,rio omero,1
+2017,rio omero,4
+2019,rio omero,1
+2002,rio paru deste,1
+2003,rio paru deste,2
+2005,rio paru deste,1
+2006,rio paru deste,1
+2009,rio paru deste,1
+2011,rio paru deste,1
+2014,rio paru deste,2
+2015,rio paru deste,4
+2016,rio paru deste,2
+2017,rio paru deste,4
+2018,rio paru deste,3
+2000,rio pindart,1
+2001,rio pindart,3
+2002,rio pindart,47
+2003,rio pindart,44
+2004,rio pindart,27
+2005,rio pindart,26
+2006,rio pindart,13
+2007,rio pindart,15
+2008,rio pindart,9
+2009,rio pindart,8
+2010,rio pindart,5
+2011,rio pindart,2
+2012,rio pindart,9
+2013,rio pindart,4
+2014,rio pindart,7
+2015,rio pindart,9
+2016,rio pindart,10
+2017,rio pindart,14
+2018,rio pindart,1
+2019,rio pindart,2
+2002,rio tta,3
+2003,rio tta,7
+2004,rio tta,3
+2006,rio tta,5
+2007,rio tta,10
+2009,rio tta,1
+2010,rio tta,4
+2011,rio tta,2
+2012,rio tta,2
+2013,rio tta,1
+2014,rio tta,2
+2015,rio tta,1
+2016,rio tta,7
+2017,rio tta,1
+2018,rio tta,3
+2001,rio urubu,3
+2002,rio urubu,24
+2003,rio urubu,16
+2004,rio urubu,8
+2005,rio urubu,5
+2006,rio urubu,7
+2007,rio urubu,13
+2008,rio urubu,2
+2009,rio urubu,19
+2010,rio urubu,6
+2011,rio urubu,1
+2012,rio urubu,13
+2013,rio urubu,4
+2014,rio urubu,5
+2015,rio urubu,28
+2016,rio urubu,7
+2017,rio urubu,8
+2018,rio urubu,4
+2019,rio urubu,2
+2001,riozinho rs,1
+2002,riozinho rs,3
+2003,riozinho rs,9
+2004,riozinho rs,6
+2005,riozinho rs,8
+2006,riozinho rs,1
+2007,riozinho rs,3
+2008,riozinho rs,6
+2009,riozinho rs,3
+2010,riozinho rs,1
+2011,riozinho rs,2
+2012,riozinho rs,2
+2014,riozinho rs,1
+2015,riozinho rs,3
+2017,riozinho rs,4
+2019,riozinho rs,1
+2005,riozinho do alto envira,1
+2006,riozinho do alto envira,2
+2011,riozinho do alto envira,2
+2013,riozinho do alto envira,2
+2014,riozinho do alto envira,1
+2016,riozinho do alto envira,1
+2017,riozinho do alto envira,5
+2019,riozinho do alto envira,2
+2002,rodeador,1
+2004,rodeador,2
+2005,rodeador,6
+2006,rodeador,2
+2007,rodeador,11
+2008,rodeador,2
+2009,rodeador,6
+2010,rodeador,14
+2011,rodeador,5
+2012,rodeador,13
+2013,rodeador,18
+2014,rodeador,10
+2015,rodeador,11
+2016,rodeador,15
+2017,rodeador,4
+2018,rodeador,5
+2019,rodeador,13
+2001,roosevelt,2
+2002,roosevelt,23
+2003,roosevelt,23
+2004,roosevelt,28
+2005,roosevelt,64
+2006,roosevelt,27
+2007,roosevelt,30
+2008,roosevelt,121
+2009,roosevelt,33
+2010,roosevelt,89
+2011,roosevelt,25
+2012,roosevelt,56
+2013,roosevelt,30
+2014,roosevelt,38
+2015,roosevelt,20
+2016,roosevelt,39
+2017,roosevelt,24
+2018,roosevelt,21
+2019,roosevelt,36
+2002,sagarana,14
+2003,sagarana,14
+2004,sagarana,27
+2005,sagarana,51
+2006,sagarana,4
+2007,sagarana,14
+2008,sagarana,16
+2009,sagarana,25
+2010,sagarana,31
+2011,sagarana,8
+2012,sagarana,2
+2013,sagarana,1
+2014,sagarana,14
+2015,sagarana,13
+2016,sagarana,17
+2017,sagarana,9
+2018,sagarana,22
+2019,sagarana,24
+2001,saicinza,1
+2002,saicinza,18
+2003,saicinza,14
+2004,saicinza,10
+2005,saicinza,34
+2006,saicinza,4
+2007,saicinza,8
+2008,saicinza,8
+2009,saicinza,13
+2010,saicinza,6
+2011,saicinza,12
+2012,saicinza,10
+2013,saicinza,6
+2014,saicinza,26
+2015,saicinza,11
+2016,saicinza,23
+2017,saicinza,19
+2018,saicinza,10
+2019,saicinza,16
+2000,sangradourovolta grande,1
+2001,sangradourovolta grande,92
+2002,sangradourovolta grande,119
+2003,sangradourovolta grande,194
+2004,sangradourovolta grande,110
+2005,sangradourovolta grande,235
+2006,sangradourovolta grande,141
+2007,sangradourovolta grande,340
+2008,sangradourovolta grande,220
+2009,sangradourovolta grande,74
+2010,sangradourovolta grande,439
+2011,sangradourovolta grande,146
+2012,sangradourovolta grande,182
+2013,sangradourovolta grande,176
+2014,sangradourovolta grande,132
+2015,sangradourovolta grande,132
+2016,sangradourovolta grande,158
+2017,sangradourovolta grande,240
+2018,sangradourovolta grande,31
+2019,sangradourovolta grande,264
+2003,santa cruz da nova alianta,1
+2006,santa cruz da nova alianta,1
+2009,santa cruz da nova alianta,1
+2010,santa cruz da nova alianta,1
+2013,santa cruz da nova alianta,2
+2016,santa cruz da nova alianta,2
+2001,santa inez,2
+2002,santa inez,3
+2003,santa inez,27
+2004,santa inez,2
+2005,santa inez,3
+2006,santa inez,2
+2007,santa inez,6
+2008,santa inez,2
+2009,santa inez,7
+2010,santa inez,3
+2011,santa inez,3
+2012,santa inez,3
+2013,santa inez,5
+2014,santa inez,4
+2015,santa inez,9
+2016,santa inez,11
+2017,santa inez,2
+2018,santa inez,8
+2019,santa inez,2
+2001,santana,8
+2002,santana,62
+2003,santana,25
+2004,santana,68
+2005,santana,34
+2006,santana,39
+2007,santana,116
+2008,santana,13
+2009,santana,10
+2010,santana,53
+2011,santana,154
+2012,santana,16
+2013,santana,3
+2014,santana,33
+2015,santana,10
+2016,santana,21
+2017,santana,7
+2018,santana,1
+2019,santana,49
+2001,sarart,8
+2002,sarart,13
+2003,sarart,13
+2004,sarart,1
+2005,sarart,21
+2006,sarart,16
+2007,sarart,29
+2008,sarart,1
+2009,sarart,8
+2010,sarart,3
+2011,sarart,8
+2013,sarart,9
+2014,sarart,1
+2015,sarart,11
+2016,sarart,15
+2017,sarart,23
+2018,sarart,2
+2019,sarart,11
+2001,sarauß,2
+2003,sarauß,2
+2004,sarauß,3
+2005,sarauß,27
+2006,sarauß,11
+2007,sarauß,15
+2008,sarauß,48
+2009,sarauß,45
+2010,sarauß,7
+2011,sarauß,9
+2012,sarauß,36
+2013,sarauß,13
+2014,sarauß,38
+2015,sarauß,132
+2016,sarauß,32
+2017,sarauß,77
+2018,sarauß,8
+2019,sarauß,1
+2002,sassor,2
+2003,sassor,7
+2004,sassor,2
+2005,sassor,5
+2006,sassor,1
+2007,sassor,4
+2008,sassor,3
+2009,sassor,9
+2010,sassor,10
+2011,sassor,7
+2012,sassor,1
+2013,sassor,6
+2015,sassor,5
+2016,sassor,2
+2017,sassor,3
+2018,sassor,3
+2019,sassor,2
+2000,serra da mota,1
+2001,serra da mota,6
+2002,serra da mota,7
+2003,serra da mota,6
+2004,serra da mota,6
+2005,serra da mota,2
+2006,serra da mota,4
+2007,serra da mota,6
+2008,serra da mota,2
+2009,serra da mota,4
+2010,serra da mota,7
+2011,serra da mota,1
+2012,serra da mota,2
+2013,serra da mota,4
+2014,serra da mota,8
+2015,serra da mota,6
+2016,serra da mota,6
+2017,serra da mota,9
+2018,serra da mota,5
+2019,serra da mota,7
+2001,serra morena,1
+2002,serra morena,7
+2003,serra morena,11
+2004,serra morena,44
+2005,serra morena,26
+2006,serra morena,16
+2007,serra morena,36
+2008,serra morena,20
+2009,serra morena,9
+2010,serra morena,18
+2011,serra morena,3
+2012,serra morena,7
+2013,serra morena,9
+2014,serra morena,9
+2015,serra morena,10
+2016,serra morena,9
+2017,serra morena,14
+2018,serra morena,2
+2019,serra morena,2
+2003,serrinha,7
+2004,serrinha,16
+2005,serrinha,5
+2006,serrinha,10
+2007,serrinha,8
+2008,serrinha,6
+2009,serrinha,10
+2010,serrinha,11
+2011,serrinha,11
+2012,serrinha,6
+2013,serrinha,8
+2014,serrinha,7
+2015,serrinha,4
+2016,serrinha,3
+2017,serrinha,10
+2018,serrinha,4
+2019,serrinha,8
+2002,seruinimariene,2
+2005,seruinimariene,2
+2007,seruinimariene,5
+2008,seruinimariene,2
+2009,seruinimariene,2
+2010,seruinimariene,8
+2011,seruinimariene,1
+2012,seruinimariene,1
+2013,seruinimariene,2
+2015,seruinimariene,1
+2017,seruinimariene,2
+2018,seruinimariene,4
+2019,seruinimariene,2
+2001,sete cerros,8
+2002,sete cerros,8
+2003,sete cerros,3
+2004,sete cerros,12
+2005,sete cerros,5
+2006,sete cerros,1
+2007,sete cerros,16
+2008,sete cerros,3
+2009,sete cerros,1
+2010,sete cerros,8
+2012,sete cerros,3
+2013,sete cerros,2
+2016,sete cerros,4
+2017,sete cerros,9
+2018,sete cerros,2
+2002,sete de setembro,35
+2003,sete de setembro,11
+2004,sete de setembro,45
+2005,sete de setembro,68
+2006,sete de setembro,41
+2007,sete de setembro,49
+2008,sete de setembro,63
+2009,sete de setembro,12
+2010,sete de setembro,51
+2011,sete de setembro,21
+2012,sete de setembro,13
+2013,sete de setembro,12
+2014,sete de setembro,43
+2015,sete de setembro,45
+2016,sete de setembro,74
+2017,sete de setembro,64
+2018,sete de setembro,96
+2019,sete de setembro,44
+2005,setemp,4
+2006,setemp,2
+2009,setemp,1
+2013,setemp,1
+2014,setemp,1
+2016,setemp,1
+2017,setemp,2
+2019,setemp,1
+2001,sissafma,2
+2002,sissafma,12
+2003,sissafma,8
+2004,sissafma,5
+2005,sissafma,17
+2006,sissafma,10
+2007,sissafma,20
+2008,sissafma,2
+2009,sissafma,36
+2010,sissafma,11
+2011,sissafma,13
+2012,sissafma,12
+2013,sissafma,1
+2014,sissafma,14
+2015,sissafma,43
+2016,sissafma,4
+2017,sissafma,15
+2018,sissafma,8
+2019,sissafma,6
+2002,sombrerito,1
+2003,sombrerito,3
+2004,sombrerito,3
+2006,sombrerito,1
+2007,sombrerito,5
+2008,sombrerito,2
+2010,sombrerito,9
+2014,sombrerito,1
+2015,sombrerito,1
+2016,sombrerito,8
+2018,sombrerito,8
+2019,sombrerito,2
+2002,soror,3
+2003,soror,1
+2004,soror,4
+2005,soror,3
+2007,soror,5
+2008,soror,5
+2009,soror,2
+2010,soror,12
+2011,soror,2
+2013,soror,1
+2014,soror,1
+2016,soror,7
+2017,soror,30
+2018,soror,1
+2002,spo domingos mt,8
+2003,spo domingos mt,5
+2004,spo domingos mt,2
+2005,spo domingos mt,17
+2006,spo domingos mt,1
+2007,spo domingos mt,9
+2008,spo domingos mt,4
+2009,spo domingos mt,1
+2010,spo domingos mt,11
+2012,spo domingos mt,16
+2013,spo domingos mt,1
+2014,spo domingos mt,3
+2015,spo domingos mt,1
+2016,spo domingos mt,3
+2017,spo domingos mt,24
+2018,spo domingos mt,4
+2019,spo domingos mt,11
+2003,spo domingos do jacapari e estatpo,1
+2006,spo domingos do jacapari e estatpo,1
+2010,spo domingos do jacapari e estatpo,1
+2012,spo domingos do jacapari e estatpo,2
+2014,spo domingos do jacapari e estatpo,1
+2015,spo domingos do jacapari e estatpo,5
+2017,spo domingos do jacapari e estatpo,1
+2018,spo domingos do jacapari e estatpo,2
+2019,spo domingos do jacapari e estatpo,4
+2009,spo francisco do canimari,1
+2015,spo francisco do canimari,3
+2002,spo jeronimo,2
+2003,spo jeronimo,5
+2004,spo jeronimo,1
+2005,spo jeronimo,1
+2006,spo jeronimo,1
+2008,spo jeronimo,2
+2009,spo jeronimo,1
+2011,spo jeronimo,1
+2016,spo jeronimo,4
+2017,spo jeronimo,1
+2003,spo leopoldo,1
+2004,spo leopoldo,4
+2005,spo leopoldo,1
+2008,spo leopoldo,1
+2010,spo leopoldo,2
+2013,spo leopoldo,1
+2015,spo leopoldo,2
+2016,spo leopoldo,1
+2017,spo leopoldo,4
+2018,spo leopoldo,1
+2019,spo leopoldo,1
+2001,spo marcos mt,249
+2002,spo marcos mt,304
+2003,spo marcos mt,322
+2004,spo marcos mt,510
+2005,spo marcos mt,343
+2006,spo marcos mt,298
+2007,spo marcos mt,656
+2008,spo marcos mt,447
+2009,spo marcos mt,69
+2010,spo marcos mt,889
+2011,spo marcos mt,299
+2012,spo marcos mt,633
+2013,spo marcos mt,218
+2014,spo marcos mt,211
+2015,spo marcos mt,391
+2016,spo marcos mt,469
+2017,spo marcos mt,561
+2018,spo marcos mt,220
+2019,spo marcos mt,649
+2000,spo marcos rr,26
+2001,spo marcos rr,248
+2002,spo marcos rr,280
+2003,spo marcos rr,360
+2004,spo marcos rr,398
+2005,spo marcos rr,253
+2006,spo marcos rr,253
+2007,spo marcos rr,351
+2008,spo marcos rr,165
+2009,spo marcos rr,357
+2010,spo marcos rr,144
+2011,spo marcos rr,222
+2012,spo marcos rr,236
+2013,spo marcos rr,251
+2014,spo marcos rr,261
+2015,spo marcos rr,214
+2016,spo marcos rr,198
+2017,spo marcos rr,278
+2018,spo marcos rr,251
+2019,spo marcos rr,317
+2003,spo pedro,2
+2006,spo pedro,1
+2007,spo pedro,2
+2008,spo pedro,1
+2009,spo pedro,3
+2013,spo pedro,4
+2015,spo pedro,1
+2016,spo pedro,1
+2018,spo pedro,2
+2016,spo pedro do sepatini,1
+2005,spo sebastipo,3
+2008,spo sebastipo,2
+2010,spo sebastipo,1
+2011,spo sebastipo,3
+2013,spo sebastipo,1
+2015,spo sebastipo,1
+2017,spo sebastipo,1
+2019,spo sebastipo,3
+2001,sucuba,1
+2002,sucuba,5
+2003,sucuba,2
+2004,sucuba,1
+2005,sucuba,3
+2006,sucuba,1
+2008,sucuba,10
+2009,sucuba,5
+2010,sucuba,1
+2011,sucuba,2
+2012,sucuba,3
+2013,sucuba,3
+2014,sucuba,5
+2016,sucuba,7
+2018,sucuba,1
+2019,sucuba,2
+2006,sucuriy,1
+2008,sucuriy,1
+2009,sucuriy,4
+2011,sucuriy,1
+2015,sucuriy,2
+2016,sucuriy,2
+2017,sucuriy,1
+2005,sururuß,1
+2008,sururuß,1
+2009,sururuß,1
+2016,sururuß,1
+2018,sururuß,1
+2019,sururuß,2
+2002,tabalascada,1
+2003,tabalascada,14
+2004,tabalascada,3
+2005,tabalascada,4
+2006,tabalascada,4
+2007,tabalascada,4
+2008,tabalascada,6
+2009,tabalascada,2
+2010,tabalascada,5
+2011,tabalascada,4
+2012,tabalascada,5
+2013,tabalascada,6
+2014,tabalascada,9
+2015,tabalascada,1
+2016,tabalascada,9
+2017,tabalascada,7
+2018,tabalascada,3
+2019,tabalascada,9
+2002,tabocal,3
+2010,tabocal,1
+2012,tabocal,2
+2014,tabocal,1
+2001,tadarimana,7
+2003,tadarimana,19
+2004,tadarimana,21
+2005,tadarimana,39
+2007,tadarimana,70
+2010,tadarimana,52
+2012,tadarimana,2
+2016,tadarimana,2
+2017,tadarimana,38
+2001,taego wa,5
+2002,taego wa,11
+2003,taego wa,77
+2004,taego wa,10
+2005,taego wa,27
+2006,taego wa,26
+2007,taego wa,77
+2008,taego wa,16
+2009,taego wa,1
+2010,taego wa,136
+2011,taego wa,1
+2012,taego wa,22
+2013,taego wa,7
+2014,taego wa,3
+2015,taego wa,2
+2016,taego wa,18
+2017,taego wa,76
+2018,taego wa,1
+2019,taego wa,2
+2004,taihantesu,4
+2007,taihantesu,1
+2009,taihantesu,2
+2011,taihantesu,1
+2015,taihantesu,1
+2017,taihantesu,3
+2018,taihantesu,1
+2019,taihantesu,1
+2002,takuaratyyvykuarusu,2
+2003,takuaratyyvykuarusu,7
+2004,takuaratyyvykuarusu,1
+2005,takuaratyyvykuarusu,3
+2006,takuaratyyvykuarusu,4
+2007,takuaratyyvykuarusu,7
+2009,takuaratyyvykuarusu,4
+2010,takuaratyyvykuarusu,2
+2011,takuaratyyvykuarusu,9
+2012,takuaratyyvykuarusu,2
+2013,takuaratyyvykuarusu,15
+2014,takuaratyyvykuarusu,2
+2015,takuaratyyvykuarusu,2
+2016,takuaratyyvykuarusu,2
+2017,takuaratyyvykuarusu,8
+2018,takuaratyyvykuarusu,3
+2019,takuaratyyvykuarusu,4
+2018,takuari,1
+2002,tanaru restritpo de uso,4
+2003,tanaru restritpo de uso,3
+2004,tanaru restritpo de uso,4
+2005,tanaru restritpo de uso,4
+2006,tanaru restritpo de uso,1
+2007,tanaru restritpo de uso,1
+2000,tapeba,1
+2002,tapeba,3
+2003,tapeba,2
+2004,tapeba,3
+2005,tapeba,4
+2006,tapeba,13
+2007,tapeba,7
+2008,tapeba,4
+2010,tapeba,6
+2011,tapeba,1
+2012,tapeba,3
+2013,tapeba,1
+2015,tapeba,1
+2016,tapeba,9
+2017,tapeba,1
+2018,tapeba,2
+2019,tapeba,1
+2001,tapiraptkarajß,41
+2002,tapiraptkarajß,49
+2003,tapiraptkarajß,9
+2004,tapiraptkarajß,25
+2005,tapiraptkarajß,30
+2006,tapiraptkarajß,19
+2007,tapiraptkarajß,113
+2008,tapiraptkarajß,57
+2009,tapiraptkarajß,14
+2010,tapiraptkarajß,251
+2011,tapiraptkarajß,11
+2012,tapiraptkarajß,59
+2013,tapiraptkarajß,53
+2014,tapiraptkarajß,25
+2015,tapiraptkarajß,134
+2016,tapiraptkarajß,198
+2017,tapiraptkarajß,109
+2018,tapiraptkarajß,38
+2019,tapiraptkarajß,135
+2001,taquaperi,2
+2002,taquaperi,3
+2003,taquaperi,4
+2004,taquaperi,7
+2005,taquaperi,3
+2006,taquaperi,1
+2007,taquaperi,4
+2009,taquaperi,2
+2010,taquaperi,3
+2011,taquaperi,1
+2013,taquaperi,2
+2015,taquaperi,1
+2016,taquaperi,1
+2017,taquaperi,2
+2018,taquaperi,1
+2019,taquaperi,5
+2002,taquara,1
+2003,taquara,1
+2004,taquara,11
+2005,taquara,1
+2007,taquara,7
+2009,taquara,3
+2010,taquara,2
+2011,taquara,4
+2012,taquara,7
+2013,taquara,6
+2014,taquara,2
+2015,taquara,5
+2016,taquara,7
+2017,taquara,5
+2018,taquara,7
+2019,taquara,2
+2003,tarump,2
+2011,tarump,2
+2012,tarump,1
+2016,tarump,1
+2001,taunayipegue,6
+2002,taunayipegue,71
+2003,taunayipegue,9
+2004,taunayipegue,39
+2005,taunayipegue,19
+2006,taunayipegue,50
+2007,taunayipegue,25
+2008,taunayipegue,11
+2010,taunayipegue,80
+2011,taunayipegue,14
+2012,taunayipegue,18
+2013,taunayipegue,1
+2014,taunayipegue,3
+2015,taunayipegue,111
+2016,taunayipegue,28
+2017,taunayipegue,180
+2018,taunayipegue,9
+2019,taunayipegue,166
+2006,tekoha itamarp,1
+2015,tekoha itamarp,1
+2017,tekoha itamarp,2
+2019,tekoha itamarp,1
+2003,tekohß aetete,1
+2004,tekohß aetete,1
+2018,tekohß aetete,1
+2019,tekohß aetete,5
+2002,tembt,5
+2004,tembt,5
+2005,tembt,2
+2006,tembt,3
+2007,tembt,3
+2008,tembt,1
+2012,tembt,1
+2013,tembt,3
+2014,tembt,2
+2016,tembt,1
+2017,tembt,3
+2018,tembt,1
+2002,tenharim do igarapt preto,3
+2003,tenharim do igarapt preto,5
+2004,tenharim do igarapt preto,3
+2005,tenharim do igarapt preto,13
+2006,tenharim do igarapt preto,23
+2008,tenharim do igarapt preto,26
+2010,tenharim do igarapt preto,33
+2011,tenharim do igarapt preto,16
+2012,tenharim do igarapt preto,10
+2013,tenharim do igarapt preto,2
+2014,tenharim do igarapt preto,21
+2015,tenharim do igarapt preto,7
+2016,tenharim do igarapt preto,3
+2017,tenharim do igarapt preto,15
+2019,tenharim do igarapt preto,12
+2001,tenharim marmelos,5
+2002,tenharim marmelos,27
+2003,tenharim marmelos,157
+2004,tenharim marmelos,74
+2005,tenharim marmelos,244
+2006,tenharim marmelos,47
+2007,tenharim marmelos,62
+2008,tenharim marmelos,119
+2009,tenharim marmelos,15
+2010,tenharim marmelos,236
+2011,tenharim marmelos,176
+2012,tenharim marmelos,111
+2013,tenharim marmelos,8
+2014,tenharim marmelos,189
+2015,tenharim marmelos,31
+2016,tenharim marmelos,47
+2017,tenharim marmelos,69
+2018,tenharim marmelos,35
+2019,tenharim marmelos,131
+2002,tenharim marmelos gleba b,18
+2004,tenharim marmelos gleba b,7
+2005,tenharim marmelos gleba b,26
+2006,tenharim marmelos gleba b,33
+2007,tenharim marmelos gleba b,88
+2008,tenharim marmelos gleba b,23
+2009,tenharim marmelos gleba b,29
+2010,tenharim marmelos gleba b,57
+2011,tenharim marmelos gleba b,1
+2012,tenharim marmelos gleba b,37
+2014,tenharim marmelos gleba b,33
+2015,tenharim marmelos gleba b,19
+2016,tenharim marmelos gleba b,8
+2017,tenharim marmelos gleba b,14
+2018,tenharim marmelos gleba b,31
+2019,tenharim marmelos gleba b,12
+2005,tenondt porp,1
+2013,tenondt porp,1
+2016,tenondt porp,1
+2002,terena gleba iriri,14
+2003,terena gleba iriri,2
+2004,terena gleba iriri,28
+2005,terena gleba iriri,16
+2006,terena gleba iriri,20
+2007,terena gleba iriri,19
+2008,terena gleba iriri,4
+2009,terena gleba iriri,1
+2010,terena gleba iriri,97
+2011,terena gleba iriri,7
+2012,terena gleba iriri,10
+2013,terena gleba iriri,3
+2014,terena gleba iriri,10
+2015,terena gleba iriri,12
+2016,terena gleba iriri,8
+2017,terena gleba iriri,59
+2018,terena gleba iriri,4
+2019,terena gleba iriri,153
+2000,tereza cristina,2
+2001,tereza cristina,1
+2002,tereza cristina,28
+2003,tereza cristina,8
+2004,tereza cristina,15
+2005,tereza cristina,5
+2006,tereza cristina,9
+2007,tereza cristina,109
+2009,tereza cristina,1
+2010,tereza cristina,9
+2011,tereza cristina,42
+2012,tereza cristina,3
+2014,tereza cristina,24
+2015,tereza cristina,4
+2016,tereza cristina,8
+2017,tereza cristina,7
+2018,tereza cristina,1
+2019,tereza cristina,23
+2002,tibagymococa,1
+2003,tibagymococa,3
+2004,tibagymococa,3
+2006,tibagymococa,1
+2007,tibagymococa,1
+2010,tibagymococa,4
+2014,tibagymococa,1
+2002,tikna de feijoal,2
+2005,tikna de feijoal,3
+2008,tikna de feijoal,1
+2010,tikna de feijoal,1
+2012,tikna de feijoal,1
+2015,tikna de feijoal,1
+2016,tikna de feijoal,1
+2017,tikna de feijoal,1
+2019,tikna de feijoal,2
+2002,tikuna de santo antonio,1
+2006,tikuna de santo antonio,2
+2011,tikuna de santo antonio,1
+2014,tikuna de santo antonio,2
+2016,tikuna de santo antonio,1
+2002,tingui bot,1
+2001,tirecatinga,22
+2002,tirecatinga,144
+2003,tirecatinga,7
+2004,tirecatinga,41
+2005,tirecatinga,206
+2007,tirecatinga,123
+2008,tirecatinga,10
+2009,tirecatinga,51
+2010,tirecatinga,184
+2012,tirecatinga,108
+2013,tirecatinga,2
+2014,tirecatinga,4
+2015,tirecatinga,29
+2016,tirecatinga,23
+2018,tirecatinga,9
+2019,tirecatinga,75
+2003,toldo chimbangue,2
+2015,toldo chimbangue,1
+2003,toldo chimbangue ii,1
+2012,toldo chimbangue ii,1
+2013,toldo chimbangue ii,1
+2005,toldo imbu,2
+2009,toldo imbu,1
+2014,toldo imbu,2
+2015,toldo imbu,1
+2002,toldo pinhal,1
+2003,toldo pinhal,3
+2004,toldo pinhal,7
+2005,toldo pinhal,1
+2006,toldo pinhal,1
+2010,toldo pinhal,2
+2011,toldo pinhal,2
+2016,toldo pinhal,2
+2018,toldo pinhal,2
+2004,torß,1
+2006,torß,1
+2007,torß,1
+2008,torß,1
+2010,torß,3
+2013,torß,1
+2015,torß,2
+2016,torß,1
+2017,torß,2
+2018,torß,1
+2002,tremembt da barra do munda,3
+2003,tremembt da barra do munda,9
+2004,tremembt da barra do munda,7
+2005,tremembt da barra do munda,6
+2006,tremembt da barra do munda,2
+2007,tremembt da barra do munda,5
+2008,tremembt da barra do munda,9
+2009,tremembt da barra do munda,5
+2010,tremembt da barra do munda,8
+2012,tremembt da barra do munda,11
+2013,tremembt da barra do munda,3
+2014,tremembt da barra do munda,1
+2017,tremembt da barra do munda,2
+2003,tremembt de queimadas,9
+2004,tremembt de queimadas,2
+2005,tremembt de queimadas,2
+2006,tremembt de queimadas,1
+2007,tremembt de queimadas,2
+2008,tremembt de queimadas,1
+2009,tremembt de queimadas,1
+2010,tremembt de queimadas,4
+2011,tremembt de queimadas,1
+2013,tremembt de queimadas,3
+2002,trincheira,2
+2005,trincheira,3
+2012,trincheira,1
+2013,trincheira,2
+2014,trincheira,1
+2015,trincheira,1
+2016,trincheira,4
+2019,trincheira,2
+2001,trincheira bacaja,1
+2002,trincheira bacaja,5
+2003,trincheira bacaja,2
+2004,trincheira bacaja,3
+2005,trincheira bacaja,6
+2006,trincheira bacaja,9
+2007,trincheira bacaja,9
+2008,trincheira bacaja,15
+2009,trincheira bacaja,11
+2010,trincheira bacaja,16
+2011,trincheira bacaja,6
+2012,trincheira bacaja,17
+2013,trincheira bacaja,2
+2014,trincheira bacaja,1
+2015,trincheira bacaja,13
+2016,trincheira bacaja,12
+2017,trincheira bacaja,48
+2018,trincheira bacaja,47
+2019,trincheira bacaja,102
+2002,trocarß,3
+2003,trocarß,6
+2004,trocarß,2
+2005,trocarß,1
+2006,trocarß,1
+2007,trocarß,2
+2008,trocarß,2
+2009,trocarß,3
+2010,trocarß,3
+2013,trocarß,2
+2014,trocarß,2
+2015,trocarß,1
+2017,trocarß,7
+2018,trocarß,1
+2004,trocarß doatpo,1
+2001,trombetasmapuera,1
+2002,trombetasmapuera,10
+2003,trombetasmapuera,6
+2004,trombetasmapuera,8
+2005,trombetasmapuera,1
+2006,trombetasmapuera,4
+2007,trombetasmapuera,5
+2008,trombetasmapuera,3
+2009,trombetasmapuera,3
+2010,trombetasmapuera,1
+2011,trombetasmapuera,4
+2012,trombetasmapuera,8
+2013,trombetasmapuera,9
+2014,trombetasmapuera,2
+2015,trombetasmapuera,12
+2016,trombetasmapuera,13
+2017,trombetasmapuera,22
+2018,trombetasmapuera,2
+2019,trombetasmapuera,4
+2001,truaru,1
+2002,truaru,4
+2003,truaru,1
+2005,truaru,1
+2006,truaru,2
+2007,truaru,6
+2008,truaru,5
+2009,truaru,1
+2010,truaru,2
+2011,truaru,1
+2012,truaru,5
+2013,truaru,10
+2014,truaru,1
+2015,truaru,3
+2016,truaru,2
+2017,truaru,1
+2018,truaru,4
+2019,truaru,3
+2002,trukß,2
+2005,trukß,1
+2006,trukß,1
+2013,trukß,1
+2014,trukß,4
+2015,trukß,1
+2016,trukß,2
+2017,trukß,1
+2001,tubarpo latunde,1
+2002,tubarpo latunde,10
+2003,tubarpo latunde,13
+2004,tubarpo latunde,39
+2005,tubarpo latunde,31
+2006,tubarpo latunde,34
+2007,tubarpo latunde,26
+2008,tubarpo latunde,16
+2009,tubarpo latunde,14
+2010,tubarpo latunde,100
+2011,tubarpo latunde,14
+2012,tubarpo latunde,14
+2013,tubarpo latunde,16
+2014,tubarpo latunde,3
+2015,tubarpo latunde,14
+2016,tubarpo latunde,12
+2017,tubarpo latunde,3
+2018,tubarpo latunde,2
+2019,tubarpo latunde,31
+2007,tukuna porto espiritual,2
+2008,tukuna porto espiritual,1
+2012,tukuna porto espiritual,2
+2016,tukuna porto espiritual,2
+2018,tukuna porto espiritual,1
+2003,tukuna umariatu,2
+2005,tukuna umariatu,2
+2006,tukuna umariatu,2
+2010,tukuna umariatu,5
+2014,tukuna umariatu,1
+2016,tukuna umariatu,3
+2018,tukuna umariatu,1
+2001,tumbalalß,2
+2002,tumbalalß,6
+2003,tumbalalß,5
+2004,tumbalalß,4
+2005,tumbalalß,3
+2008,tumbalalß,2
+2010,tumbalalß,1
+2012,tumbalalß,2
+2013,tumbalalß,3
+2015,tumbalalß,1
+2016,tumbalalß,3
+2017,tumbalalß,1
+2019,tumbalalß,1
+2003,tumip,2
+2004,tumip,2
+2007,tumip,3
+2008,tumip,1
+2009,tumip,1
+2013,tumip,3
+2014,tumip,3
+2016,tumip,2
+2017,tumip,2
+2003,tupinambß de belmonte,3
+2006,tupinambß de belmonte,1
+2013,tupinambß de belmonte,1
+2016,tupinambß de belmonte,10
+2000,tupinambß de oliventa,2
+2002,tupinambß de oliventa,23
+2003,tupinambß de oliventa,30
+2004,tupinambß de oliventa,16
+2005,tupinambß de oliventa,12
+2006,tupinambß de oliventa,11
+2007,tupinambß de oliventa,9
+2008,tupinambß de oliventa,14
+2009,tupinambß de oliventa,12
+2010,tupinambß de oliventa,4
+2011,tupinambß de oliventa,3
+2012,tupinambß de oliventa,7
+2013,tupinambß de oliventa,10
+2014,tupinambß de oliventa,8
+2015,tupinambß de oliventa,26
+2016,tupinambß de oliventa,11
+2017,tupinambß de oliventa,14
+2018,tupinambß de oliventa,6
+2019,tupinambß de oliventa,6
+2000,tupiniquim,1
+2006,tupiniquim,9
+2007,tupiniquim,20
+2008,tupiniquim,56
+2009,tupiniquim,11
+2010,tupiniquim,18
+2011,tupiniquim,50
+2012,tupiniquim,24
+2013,tupiniquim,25
+2014,tupiniquim,18
+2015,tupiniquim,20
+2016,tupiniquim,18
+2017,tupiniquim,4
+2019,tupiniquim,2
+2002,tuppsupt,1
+2006,tuppsupt,2
+2009,tuppsupt,1
+2010,tuppsupt,1
+2011,tuppsupt,1
+2014,tuppsupt,1
+2015,tuppsupt,2
+2016,tuppsupt,2
+2017,tuppsupt,2
+2018,tuppsupt,2
+2019,tuppsupt,1
+2005,turtmariquita,1
+2007,turtmariquita,1
+2018,turtmariquita,1
+2001,turtmariquita ii,1
+2004,turtmariquita ii,1
+2005,turtmariquita ii,1
+2007,turtmariquita ii,2
+2010,turtmariquita ii,3
+2011,turtmariquita ii,1
+2013,turtmariquita ii,3
+2014,turtmariquita ii,1
+2018,turtmariquita ii,1
+2001,tuwa apekuokawera,8
+2002,tuwa apekuokawera,22
+2003,tuwa apekuokawera,10
+2004,tuwa apekuokawera,13
+2005,tuwa apekuokawera,21
+2006,tuwa apekuokawera,10
+2007,tuwa apekuokawera,32
+2008,tuwa apekuokawera,12
+2009,tuwa apekuokawera,2
+2010,tuwa apekuokawera,8
+2011,tuwa apekuokawera,4
+2012,tuwa apekuokawera,4
+2013,tuwa apekuokawera,2
+2014,tuwa apekuokawera,2
+2016,tuwa apekuokawera,2
+2000,uata,16
+2001,uata,125
+2002,uata,229
+2003,uata,142
+2004,uata,409
+2005,uata,289
+2006,uata,95
+2007,uata,130
+2008,uata,311
+2009,uata,412
+2010,uata,113
+2011,uata,81
+2012,uata,575
+2013,uata,168
+2014,uata,231
+2015,uata,418
+2016,uata,388
+2017,uata,182
+2018,uata,196
+2019,uata,6
+2003,uatiparanß,1
+2010,uatiparanß,1
+2012,uatiparanß,1
+2014,uatiparanß,1
+2015,uatiparanß,1
+2017,uatiparanß,3
+2019,uatiparanß,1
+2001,ubawawe,72
+2002,ubawawe,69
+2003,ubawawe,38
+2004,ubawawe,124
+2005,ubawawe,115
+2006,ubawawe,82
+2007,ubawawe,259
+2008,ubawawe,98
+2009,ubawawe,51
+2010,ubawawe,243
+2011,ubawawe,122
+2012,ubawawe,148
+2013,ubawawe,46
+2014,ubawawe,164
+2015,ubawawe,53
+2016,ubawawe,158
+2017,ubawawe,80
+2018,ubawawe,117
+2019,ubawawe,57
+2001,uirapuru,12
+2002,uirapuru,3
+2003,uirapuru,4
+2004,uirapuru,1
+2005,uirapuru,5
+2006,uirapuru,12
+2007,uirapuru,76
+2008,uirapuru,6
+2009,uirapuru,11
+2010,uirapuru,44
+2011,uirapuru,1
+2012,uirapuru,24
+2013,uirapuru,9
+2014,uirapuru,11
+2015,uirapuru,13
+2016,uirapuru,23
+2017,uirapuru,6
+2018,uirapuru,10
+2019,uirapuru,6
+2001,umutina,4
+2002,umutina,23
+2003,umutina,33
+2004,umutina,23
+2005,umutina,65
+2006,umutina,20
+2007,umutina,28
+2008,umutina,96
+2010,umutina,18
+2011,umutina,4
+2012,umutina,19
+2013,umutina,4
+2014,umutina,16
+2015,umutina,2
+2016,umutina,12
+2017,umutina,14
+2018,umutina,1
+2019,umutina,7
+2007,uneiuxi,1
+2008,uneiuxi,2
+2010,uneiuxi,2
+2011,uneiuxi,1
+2016,uneiuxi,1
+2001,urueuwauwau,25
+2002,urueuwauwau,122
+2003,urueuwauwau,305
+2004,urueuwauwau,268
+2005,urueuwauwau,255
+2006,urueuwauwau,365
+2007,urueuwauwau,203
+2008,urueuwauwau,152
+2009,urueuwauwau,79
+2010,urueuwauwau,407
+2011,urueuwauwau,114
+2012,urueuwauwau,226
+2013,urueuwauwau,71
+2014,urueuwauwau,32
+2015,urueuwauwau,111
+2016,urueuwauwau,345
+2017,urueuwauwau,155
+2018,urueuwauwau,78
+2019,urueuwauwau,95
+2001,urubu branco,115
+2002,urubu branco,531
+2003,urubu branco,91
+2004,urubu branco,368
+2005,urubu branco,112
+2006,urubu branco,231
+2007,urubu branco,812
+2008,urubu branco,122
+2009,urubu branco,14
+2010,urubu branco,1383
+2011,urubu branco,60
+2012,urubu branco,693
+2013,urubu branco,69
+2014,urubu branco,268
+2015,urubu branco,482
+2016,urubu branco,422
+2017,urubu branco,507
+2018,urubu branco,19
+2019,urubu branco,832
+2002,urucujuruß,13
+2003,urucujuruß,15
+2004,urucujuruß,10
+2005,urucujuruß,24
+2007,urucujuruß,50
+2008,urucujuruß,8
+2009,urucujuruß,11
+2010,urucujuruß,48
+2011,urucujuruß,1
+2012,urucujuruß,37
+2013,urucujuruß,5
+2014,urucujuruß,19
+2015,urucujuruß,43
+2016,urucujuruß,44
+2017,urucujuruß,124
+2018,urucujuruß,8
+2019,urucujuruß,21
+2000,utaria wyhynairdu irana,1
+2001,utaria wyhynairdu irana,220
+2002,utaria wyhynairdu irana,140
+2003,utaria wyhynairdu irana,168
+2004,utaria wyhynairdu irana,62
+2005,utaria wyhynairdu irana,602
+2006,utaria wyhynairdu irana,18
+2007,utaria wyhynairdu irana,667
+2008,utaria wyhynairdu irana,217
+2009,utaria wyhynairdu irana,106
+2010,utaria wyhynairdu irana,791
+2011,utaria wyhynairdu irana,309
+2012,utaria wyhynairdu irana,529
+2013,utaria wyhynairdu irana,190
+2014,utaria wyhynairdu irana,159
+2015,utaria wyhynairdu irana,480
+2016,utaria wyhynairdu irana,472
+2017,utaria wyhynairdu irana,691
+2018,utaria wyhynairdu irana,169
+2019,utaria wyhynairdu irana,524
+2001,utiariti,98
+2002,utiariti,220
+2003,utiariti,249
+2004,utiariti,316
+2005,utiariti,245
+2006,utiariti,157
+2007,utiariti,526
+2008,utiariti,124
+2009,utiariti,209
+2010,utiariti,548
+2011,utiariti,98
+2012,utiariti,291
+2013,utiariti,120
+2014,utiariti,104
+2015,utiariti,58
+2016,utiariti,216
+2017,utiariti,43
+2018,utiariti,142
+2019,utiariti,142
+2000,vale do guaport,1
+2001,vale do guaport,26
+2002,vale do guaport,63
+2003,vale do guaport,134
+2004,vale do guaport,107
+2005,vale do guaport,74
+2006,vale do guaport,100
+2007,vale do guaport,158
+2008,vale do guaport,76
+2009,vale do guaport,29
+2010,vale do guaport,176
+2011,vale do guaport,52
+2012,vale do guaport,47
+2013,vale do guaport,41
+2014,vale do guaport,24
+2015,vale do guaport,79
+2016,vale do guaport,40
+2017,vale do guaport,46
+2018,vale do guaport,26
+2019,vale do guaport,38
+2002,vale do javari,11
+2003,vale do javari,22
+2004,vale do javari,22
+2005,vale do javari,21
+2006,vale do javari,10
+2007,vale do javari,21
+2008,vale do javari,10
+2009,vale do javari,6
+2010,vale do javari,27
+2011,vale do javari,13
+2012,vale do javari,18
+2013,vale do javari,15
+2014,vale do javari,17
+2015,vale do javari,21
+2016,vale do javari,13
+2017,vale do javari,12
+2018,vale do javari,21
+2019,vale do javari,25
+2004,vanuire,2
+2007,vanuire,2
+2002,vargem alegre,7
+2003,vargem alegre,2
+2007,vargem alegre,2
+2008,vargem alegre,1
+2009,vargem alegre,1
+2011,vargem alegre,1
+2006,ventarra,1
+2011,ventarra,1
+2019,ventarra,1
+2002,vista alegre,2
+2003,vista alegre,3
+2004,vista alegre,2
+2006,vista alegre,1
+2007,vista alegre,6
+2008,vista alegre,1
+2010,vista alegre,3
+2012,vista alegre,1
+2013,vista alegre,2
+2014,vista alegre,5
+2015,vista alegre,9
+2016,vista alegre,3
+2017,vista alegre,1
+2019,vista alegre,3
+2002,votouro,1
+2003,votouro,4
+2004,votouro,5
+2005,votouro,2
+2006,votouro,6
+2007,votouro,3
+2012,votouro,1
+2017,votouro,2
+2018,votouro,1
+2001,votourokandoia,2
+2002,votourokandoia,3
+2003,votourokandoia,2
+2004,votourokandoia,1
+2005,votourokandoia,4
+2006,votourokandoia,3
+2007,votourokandoia,4
+2008,votourokandoia,4
+2009,votourokandoia,3
+2010,votourokandoia,1
+2011,votourokandoia,3
+2012,votourokandoia,1
+2013,votourokandoia,2
+2014,votourokandoia,1
+2016,votourokandoia,8
+2017,votourokandoia,1
+2018,votourokandoia,1
+2019,votourokandoia,8
+2002,vuiuatain,4
+2003,vuiuatain,1
+2004,vuiuatain,1
+2005,vuiuatain,2
+2006,vuiuatain,4
+2007,vuiuatain,3
+2008,vuiuatain,4
+2009,vuiuatain,3
+2010,vuiuatain,2
+2014,vuiuatain,5
+2015,vuiuatain,4
+2016,vuiuatain,4
+2017,vuiuatain,2
+2018,vuiuatain,1
+2001,waimiriatroari,1
+2002,waimiriatroari,9
+2003,waimiriatroari,11
+2004,waimiriatroari,3
+2005,waimiriatroari,11
+2006,waimiriatroari,7
+2007,waimiriatroari,3
+2008,waimiriatroari,1
+2009,waimiriatroari,10
+2010,waimiriatroari,12
+2011,waimiriatroari,5
+2012,waimiriatroari,8
+2013,waimiriatroari,16
+2014,waimiriatroari,10
+2015,waimiriatroari,6
+2016,waimiriatroari,16
+2017,waimiriatroari,18
+2018,waimiriatroari,14
+2019,waimiriatroari,8
+2002,waippi,10
+2003,waippi,10
+2004,waippi,10
+2005,waippi,13
+2006,waippi,7
+2007,waippi,8
+2008,waippi,12
+2009,waippi,26
+2010,waippi,12
+2011,waippi,9
+2012,waippi,16
+2013,waippi,11
+2014,waippi,23
+2015,waippi,23
+2016,waippi,27
+2017,waippi,13
+2018,waippi,13
+2002,waiwßi,5
+2004,waiwßi,10
+2007,waiwßi,2
+2008,waiwßi,8
+2009,waiwßi,5
+2010,waiwßi,2
+2011,waiwßi,3
+2012,waiwßi,1
+2013,waiwßi,10
+2014,waiwßi,1
+2015,waiwßi,6
+2016,waiwßi,20
+2017,waiwßi,4
+2018,waiwßi,3
+2019,waiwßi,9
+2000,wassucocal,3
+2001,wassucocal,1
+2002,wassucocal,8
+2003,wassucocal,15
+2004,wassucocal,2
+2005,wassucocal,3
+2006,wassucocal,2
+2007,wassucocal,2
+2008,wassucocal,7
+2009,wassucocal,11
+2010,wassucocal,2
+2011,wassucocal,5
+2012,wassucocal,5
+2013,wassucocal,1
+2014,wassucocal,1
+2015,wassucocal,13
+2016,wassucocal,4
+2018,wassucocal,5
+2001,wawi,19
+2002,wawi,10
+2003,wawi,3
+2004,wawi,5
+2005,wawi,4
+2006,wawi,6
+2007,wawi,10
+2008,wawi,3
+2009,wawi,4
+2010,wawi,53
+2011,wawi,40
+2012,wawi,35
+2013,wawi,1
+2014,wawi,4
+2015,wawi,32
+2016,wawi,69
+2017,wawi,86
+2018,wawi,3
+2019,wawi,62
+2001,wedezt,54
+2002,wedezt,216
+2003,wedezt,122
+2004,wedezt,96
+2005,wedezt,107
+2006,wedezt,85
+2007,wedezt,102
+2008,wedezt,72
+2010,wedezt,253
+2011,wedezt,7
+2012,wedezt,7
+2013,wedezt,84
+2014,wedezt,50
+2015,wedezt,86
+2016,wedezt,79
+2017,wedezt,147
+2018,wedezt,48
+2019,wedezt,246
+2001,xacriabß,1
+2002,xacriabß,47
+2003,xacriabß,93
+2004,xacriabß,51
+2005,xacriabß,93
+2006,xacriabß,27
+2007,xacriabß,75
+2008,xacriabß,41
+2009,xacriabß,11
+2010,xacriabß,37
+2011,xacriabß,33
+2012,xacriabß,49
+2013,xacriabß,43
+2014,xacriabß,37
+2015,xacriabß,20
+2016,xacriabß,5
+2017,xacriabß,12
+2018,xacriabß,5
+2019,xacriabß,6
+2002,xakriabß rancharia,2
+2003,xakriabß rancharia,5
+2004,xakriabß rancharia,2
+2005,xakriabß rancharia,15
+2006,xakriabß rancharia,3
+2007,xakriabß rancharia,3
+2008,xakriabß rancharia,1
+2009,xakriabß rancharia,5
+2010,xakriabß rancharia,1
+2011,xakriabß rancharia,3
+2012,xakriabß rancharia,6
+2013,xakriabß rancharia,5
+2018,xakriabß rancharia,3
+2002,xambioß,1
+2004,xambioß,2
+2005,xambioß,3
+2007,xambioß,1
+2008,xambioß,2
+2009,xambioß,1
+2010,xambioß,2
+2002,xapec,36
+2003,xapec,68
+2004,xapec,31
+2005,xapec,31
+2006,xapec,48
+2007,xapec,24
+2008,xapec,30
+2009,xapec,16
+2010,xapec,27
+2011,xapec,20
+2012,xapec,12
+2013,xapec,22
+2014,xapec,4
+2015,xapec,8
+2016,xapec,23
+2017,xapec,25
+2018,xapec,6
+2019,xapec,20
+2003,xapec pinhalzinhocanhadpo,1
+2001,xerente,160
+2002,xerente,295
+2003,xerente,371
+2004,xerente,378
+2005,xerente,448
+2006,xerente,183
+2007,xerente,661
+2008,xerente,216
+2009,xerente,236
+2010,xerente,655
+2011,xerente,357
+2012,xerente,583
+2013,xerente,392
+2014,xerente,284
+2015,xerente,375
+2016,xerente,379
+2017,xerente,400
+2018,xerente,133
+2019,xerente,459
+2001,xikrin do rio catete,25
+2002,xikrin do rio catete,8
+2003,xikrin do rio catete,23
+2004,xikrin do rio catete,23
+2005,xikrin do rio catete,54
+2006,xikrin do rio catete,28
+2007,xikrin do rio catete,96
+2008,xikrin do rio catete,25
+2009,xikrin do rio catete,11
+2010,xikrin do rio catete,66
+2011,xikrin do rio catete,14
+2012,xikrin do rio catete,19
+2013,xikrin do rio catete,7
+2014,xikrin do rio catete,20
+2015,xikrin do rio catete,62
+2016,xikrin do rio catete,243
+2017,xikrin do rio catete,405
+2018,xikrin do rio catete,35
+2019,xikrin do rio catete,50
+2004,xipaya,4
+2006,xipaya,1
+2009,xipaya,2
+2011,xipaya,1
+2013,xipaya,4
+2017,xipaya,1
+2000,xukuru,1
+2001,xukuru,3
+2002,xukuru,12
+2003,xukuru,16
+2004,xukuru,3
+2005,xukuru,11
+2006,xukuru,7
+2007,xukuru,10
+2008,xukuru,9
+2009,xukuru,10
+2010,xukuru,6
+2011,xukuru,23
+2012,xukuru,12
+2013,xukuru,10
+2014,xukuru,6
+2015,xukuru,11
+2016,xukuru,25
+2017,xukuru,3
+2018,xukuru,4
+2001,xukurukariri,1
+2003,xukurukariri,3
+2004,xukurukariri,1
+2006,xukurukariri,1
+2007,xukurukariri,1
+2008,xukurukariri,1
+2010,xukurukariri,1
+2017,xukurukariri,1
+2003,xukuru de cimbres,1
+2005,xukuru de cimbres,2
+2011,xukuru de cimbres,2
+2000,yanomami,1
+2001,yanomami,27
+2002,yanomami,26
+2003,yanomami,413
+2004,yanomami,54
+2005,yanomami,22
+2006,yanomami,41
+2007,yanomami,138
+2008,yanomami,20
+2009,yanomami,47
+2010,yanomami,70
+2011,yanomami,19
+2012,yanomami,43
+2013,yanomami,32
+2014,yanomami,66
+2015,yanomami,124
+2016,yanomami,608
+2017,yanomami,68
+2018,yanomami,84
+2019,yanomami,1110
+2001,yvykatu,1
+2003,yvykatu,1
+2005,yvykatu,1
+2006,yvykatu,4
+2007,yvykatu,58
+2008,yvykatu,6
+2010,yvykatu,1
+2011,yvykatu,2
+2013,yvykatu,3
+2014,yvykatu,17
+2015,yvykatu,12
+2016,yvykatu,7
+2017,yvykatu,28
+2018,yvykatu,13
+2019,yvykatu,14
+2004,yvyporp laranjinha,3
+2005,yvyporp laranjinha,1
+2006,yvyporp laranjinha,2
+2004,zoe,1
+2007,zoe,1
+2009,zoe,3
+2012,zoe,2
+2013,zoe,2
+2014,zoe,2
+2016,zoe,1
+2001,zor,7
+2002,zor,90
+2003,zor,90
+2004,zor,94
+2005,zor,122
+2006,zor,125
+2007,zor,150
+2008,zor,128
+2009,zor,82
+2010,zor,212
+2011,zor,81
+2012,zor,416
+2013,zor,50
+2014,zor,290
+2015,zor,117
+2016,zor,224
+2017,zor,128
+2018,zor,120
+2019,zor,125
+2002,zuruahp,3
+2003,zuruahp,6
+2004,zuruahp,2
+2005,zuruahp,2
+2006,zuruahp,1
+2007,zuruahp,1
+2009,zuruahp,9
+2010,zuruahp,1
+2011,zuruahp,3
+2012,zuruahp,4
+2014,zuruahp,2
+2015,zuruahp,7
+2016,zuruahp,3
+2017,zuruahp,2
+2018,zuruahp,2
+2019,zuruahp,8
